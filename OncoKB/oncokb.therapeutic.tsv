@@ -1,0 +1,789 @@
+ABL1	1	BCR-ABL1 Fusion	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	4
+ABL1	1	BCR-ABL1 Fusion	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	1	BCR-ABL1 Fusion	B-Lymphoblastic Leukemia/Lymphoma	Ponatinib	1
+ABL1	1	BCR-ABL1 Fusion	Chronic Myelogenous Leukemia	Bosutinib	3
+ABL1	1	BCR-ABL1 Fusion	Chronic Myelogenous Leukemia	Dasatinib	2
+ABL1	1	BCR-ABL1 Fusion	Chronic Myelogenous Leukemia	Imatinib	4
+ABL1	1	BCR-ABL1 Fusion	Chronic Myelogenous Leukemia	Nilotinib	3
+ABL1	1	T315I	B-Lymphoblastic Leukemia/Lymphoma	Ponatinib	3
+ABL1	1	T315I	Chronic Myelogenous Leukemia	Ponatinib	3
+ABL1	R1	E255K	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	E255K	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	5
+ABL1	R1	E255K	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	E255K	Chronic Myelogenous Leukemia	Nilotinib	5
+ABL1	R1	E255V	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	E255V	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	5
+ABL1	R1	E255V	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	E255V	Chronic Myelogenous Leukemia	Nilotinib	5
+ABL1	R1	F317C	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	3
+ABL1	R1	F317C	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	F317C	Chronic Myelogenous Leukemia	Dasatinib	6
+ABL1	R1	F317C	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	F317I	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	3
+ABL1	R1	F317I	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	F317I	Chronic Myelogenous Leukemia	Dasatinib	6
+ABL1	R1	F317I	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	F317L	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	1
+ABL1	R1	F317L	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	3
+ABL1	R1	F317L	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	F317L	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	R1	F317L	Chronic Myelogenous Leukemia	Dasatinib	6
+ABL1	R1	F317L	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	F317V	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	3
+ABL1	R1	F317V	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	F317V	Chronic Myelogenous Leukemia	Dasatinib	6
+ABL1	R1	F317V	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	F359C	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	F359C	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	5
+ABL1	R1	F359C	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	F359C	Chronic Myelogenous Leukemia	Nilotinib	5
+ABL1	R1	F359I	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	F359I	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	5
+ABL1	R1	F359I	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	F359I	Chronic Myelogenous Leukemia	Nilotinib	5
+ABL1	R1	F359V	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	F359V	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	5
+ABL1	R1	F359V	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	F359V	Chronic Myelogenous Leukemia	Nilotinib	5
+ABL1	R1	G250E	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	1
+ABL1	R1	G250E	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	G250E	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	5
+ABL1	R1	G250E	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	R1	G250E	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	G250E	Chronic Myelogenous Leukemia	Nilotinib	5
+ABL1	R1	T315A	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	3
+ABL1	R1	T315A	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	T315A	Chronic Myelogenous Leukemia	Dasatinib	6
+ABL1	R1	T315A	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	T315I	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib, Dasatinib, Imatinib, Bosutinib	5
+ABL1	R1	T315I	Chronic Myelogenous Leukemia	Nilotinib, Dasatinib, Imatinib, Bosutinib	5
+ABL1	R1	V299L	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	1
+ABL1	R1	V299L	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	3
+ABL1	R1	V299L	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	V299L	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	R1	V299L	Chronic Myelogenous Leukemia	Dasatinib	6
+ABL1	R1	V299L	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	Y253H	B-Lymphoblastic Leukemia/Lymphoma	Imatinib	3
+ABL1	R1	Y253H	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	5
+ABL1	R1	Y253H	Chronic Myelogenous Leukemia	Imatinib	5
+ABL1	R1	Y253H	Chronic Myelogenous Leukemia	Nilotinib	5
+ABL1	2	BCR-ABL1 Fusion	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	6
+ABL1	2	BCR-ABL1 Fusion	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	2
+ABL1	2	E255K	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	2
+ABL1	2	E255K	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	1
+ABL1	2	E255K	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	2	E255K	Chronic Myelogenous Leukemia	Dasatinib	3
+ABL1	2	E255V	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	2
+ABL1	2	E255V	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	1
+ABL1	2	E255V	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	2	E255V	Chronic Myelogenous Leukemia	Dasatinib	3
+ABL1	2	F317C	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	2
+ABL1	2	F317C	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	3
+ABL1	2	F317C	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	2	F317C	Chronic Myelogenous Leukemia	Nilotinib	3
+ABL1	2	F317I	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	2
+ABL1	2	F317I	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	3
+ABL1	2	F317I	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	2	F317I	Chronic Myelogenous Leukemia	Nilotinib	3
+ABL1	2	F317L	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	3
+ABL1	2	F317L	Chronic Myelogenous Leukemia	Nilotinib	3
+ABL1	2	F317V	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	2
+ABL1	2	F317V	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	3
+ABL1	2	F317V	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	2	F317V	Chronic Myelogenous Leukemia	Nilotinib	3
+ABL1	2	F359C	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	2
+ABL1	2	F359C	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	1
+ABL1	2	F359C	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	2	F359C	Chronic Myelogenous Leukemia	Dasatinib	3
+ABL1	2	F359I	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	2
+ABL1	2	F359I	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	1
+ABL1	2	F359I	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	2	F359I	Chronic Myelogenous Leukemia	Dasatinib	3
+ABL1	2	F359V	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	2
+ABL1	2	F359V	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	1
+ABL1	2	F359V	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	2	F359V	Chronic Myelogenous Leukemia	Dasatinib	3
+ABL1	2	T315A	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	2
+ABL1	2	T315A	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	3
+ABL1	2	T315A	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	2	T315A	Chronic Myelogenous Leukemia	Nilotinib	3
+ABL1	2	V299L	B-Lymphoblastic Leukemia/Lymphoma	Nilotinib	3
+ABL1	2	V299L	Chronic Myelogenous Leukemia	Nilotinib	3
+ABL1	2	Y253H	B-Lymphoblastic Leukemia/Lymphoma	Bosutinib	2
+ABL1	2	Y253H	B-Lymphoblastic Leukemia/Lymphoma	Dasatinib	1
+ABL1	2	Y253H	Chronic Myelogenous Leukemia	Bosutinib	2
+ABL1	2	Y253H	Chronic Myelogenous Leukemia	Dasatinib	3
+ABL1	3A	BCR-ABL1 Fusion	Chronic Myelogenous Leukemia	Asciminib	2
+ABL2	Dx1	Fusions	B-Lymphoblastic Leukemia/Lymphoma, BCR-ABL1 Like	1
+AKT1	3A	E17K	Breast Cancer	AZD5363	4
+AKT1	3A	E17K	Ovarian Cancer, Endometrial Cancer	AZD5363	4
+ALK	1	Fusions	Anaplastic Large-Cell Lymphoma ALK Positive	Crizotinib	3
+ALK	1	Fusions	Non-Small Cell Lung Cancer	Alectinib	3
+ALK	1	Fusions	Non-Small Cell Lung Cancer	Ceritinib	2
+ALK	1	Fusions	Non-Small Cell Lung Cancer	Crizotinib	2
+ALK	1	Oncogenic Mutations	Non-Small Cell Lung Cancer	Brigatinib	2
+ALK	1	Oncogenic Mutations	Non-Small Cell Lung Cancer	Lorlatinib	4
+ALK	2	Fusions	Inflammatory Myofibroblastic Tumor	Brigatinib	1
+ALK	2	Fusions	Inflammatory Myofibroblastic Tumor	Ceritinib	2
+ALK	2	Fusions	Inflammatory Myofibroblastic Tumor	Crizotinib	3
+ALK	R2	C1156Y	Non-Small Cell Lung Cancer	Crizotinib	7
+ALK	R2	G1202R	Non-Small Cell Lung Cancer	Alectinib	6
+ALK	R2	G1269A	Non-Small Cell Lung Cancer	Crizotinib	6
+ALK	R2	I1171N	Non-Small Cell Lung Cancer	Alectinib	7
+ALK	R2	L1196M	Non-Small Cell Lung Cancer	Crizotinib	7
+ARAF	2	Oncogenic Mutations	Erdheim-Chester Disease	Cobimetinib, Trametinib	1
+ARAF	2	Oncogenic Mutations	Langerhans Cell Histiocytosis	Cobimetinib, Trametinib	2
+ARAF	2	Oncogenic Mutations	Rosai-Dorfman Disease	Cobimetinib, Trametinib	1
+ARAF	3A	Oncogenic Mutations	Histiocytosis	Cobimetinib, Trametinib	1
+ARAF	3A	Oncogenic Mutations	Histiocytosis	Sorafenib	2
+ARAF	3A	Oncogenic Mutations	Non-Small Cell Lung Cancer	Sorafenib	1
+ARID1A	Deletion	Oncogenic	Loss-of-function	5
+ARID1A	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	3
+ARID1A	L16P	Oncogenic	Loss-of-function	2
+ARID1A	G23D	Oncogenic	Loss-of-function	2
+ARID1A	R24P	Likely Oncogenic	Likely Loss-of-function	4
+ARID1A	L32P	Oncogenic	Loss-of-function	2
+ARID1A	G35A	Likely Oncogenic	Loss-of-function	3
+ARID1A	G35R	Likely Neutral	Likely Neutral	1
+ARID1A	G35V	Likely Oncogenic	Loss-of-function	1
+ARID1A	A36P	Likely Oncogenic	Loss-of-function	2
+ARID1A	P48L	Oncogenic	Loss-of-function	2
+ARID1A	I49S	Oncogenic	Loss-of-function	2
+ARID1A	Q50*	Oncogenic	Loss-of-function	1
+ARID1A	Q50P	Oncogenic	Loss-of-function	1
+ARID1A	M53I	Oncogenic	Loss-of-function	3
+ARID1A	S56I	Oncogenic	Loss-of-function	3
+ARID1A	A57V	Likely Neutral	Likely Neutral	2
+ARID1A	V59G	Likely Oncogenic	Likely Loss-of-function	5
+ARID1A	A60R	Oncogenic	Loss-of-function	3
+ARID1A	A60V	Likely Oncogenic	Loss-of-function	1
+ARID1A	L63P	Inconclusive	Inconclusive	1
+ARID1A	G67R	Oncogenic	Loss-of-function	1
+ARID1A	G67S	Oncogenic	Loss-of-function	3
+ARID1A	A68T	Oncogenic	Loss-of-function	2
+ARID1A	E69G	Oncogenic	Loss-of-function	2
+ARID1A	N71I	Oncogenic	Loss-of-function	2
+ARID1A	N71K	Oncogenic	Loss-of-function	1
+ARID1A	N71S	Likely Oncogenic	Likely Loss-of-function	8
+ARID1A	P73L	Oncogenic	Loss-of-function	1
+ARID1A	D74N	Oncogenic	Loss-of-function	2
+ARID1A	D74Y	Likely Oncogenic	Loss-of-function	1
+ARID1A	T77P	Oncogenic	Loss-of-function	1
+ARID1A	R79P	Oncogenic	Loss-of-function	1
+ARID1A	R80L	Likely Oncogenic	Likely Loss-of-function	1
+ARID1A	P81L	Oncogenic	Loss-of-function	1
+ARID1A	P81T	Oncogenic	Loss-of-function	3
+ARID1A	H83N	Likely Oncogenic	Loss-of-function	3
+ARID1A	H83Y	Oncogenic	Loss-of-function	2
+ARID1A	D84G	Oncogenic	Loss-of-function	1
+ARID1A	D84H	Likely Oncogenic	Loss-of-function	2
+ARID1A	D84N	Likely Oncogenic	Loss-of-function	2
+ARID1A	D84V	Oncogenic	Loss-of-function	2
+ARID1A	D84Y	Oncogenic	Loss-of-function	1
+ARID1A	R87L	Oncogenic	Loss-of-function	2
+ARID1A	R87P	Oncogenic	Loss-of-function	3
+ARID1A	R87W	Oncogenic	Loss-of-function	1
+ARID1A	E88K	Oncogenic	Loss-of-function	1
+ARID1A	G93W	Likely Oncogenic	Loss-of-function	1
+ARID1A	L97R	Oncogenic	Loss-of-function	2
+ARID1A	R99P	Oncogenic	Loss-of-function	2
+ARID1A	G101W	Oncogenic	Loss-of-function	3
+ARID1A	D108N	Likely Oncogenic	Likely Loss-of-function	1
+ARID1A	D108Y	Likely Oncogenic	Likely Loss-of-function	1
+ARID1A	R112G	Oncogenic	Loss-of-function	1
+ARID1A	P114L	Oncogenic	Loss-of-function	2
+ARID1A	P114S	Oncogenic	Loss-of-function	2
+ARID1A	V118D	Oncogenic	Loss-of-function	1
+ARID1A	V126D	Oncogenic	Loss-of-function	1
+ARID1A	A148T	Inconclusive	Inconclusive	2
+ARID1A	D153H	Likely Oncogenic	Likely Loss-of-function	1
+ATM	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	1
+BRAF	1	V600	Erdheim-Chester Disease	Vemurafenib	2
+BRAF	1	V600	Melanoma	Vemurafenib + Cobimetinib + Atezolizumab	1
+BRAF	1	V600E	Anaplastic Thyroid Cancer	Dabrafenib + Trametinib	1
+BRAF	1	V600E	Colorectal Cancer	Encorafenib + Cetuximab	1
+BRAF	1	V600E	Melanoma	Dabrafenib	3
+BRAF	1	V600E	Melanoma	Dabrafenib + Trametinib	10
+BRAF	1	V600E	Melanoma	Encorafenib + Binimetinib	1
+BRAF	1	V600E	Melanoma	Trametinib	4
+BRAF	1	V600E	Melanoma	Vemurafenib	3
+BRAF	1	V600E	Melanoma	Vemurafenib + Cobimetinib	3
+BRAF	1	V600E	Non-Small Cell Lung Cancer	Dabrafenib + Trametinib	2
+BRAF	1	V600K	Melanoma	Dabrafenib + Trametinib	10
+BRAF	1	V600K	Melanoma	Encorafenib + Binimetinib	1
+BRAF	1	V600K	Melanoma	Trametinib	4
+BRAF	1	V600K	Melanoma	Vemurafenib + Cobimetinib	3
+BRAF	2	Fusions	Pilocytic Astrocytoma	Selumetinib	1
+BRAF	2	Oncogenic Mutations (excluding V600)	Erdheim-Chester Disease	Cobimetinib, Trametinib	1
+BRAF	2	Oncogenic Mutations (excluding V600)	Langerhans Cell Histiocytosis	Cobimetinib, Trametinib	2
+BRAF	2	Oncogenic Mutations (excluding V600)	Rosai-Dorfman Disease	Cobimetinib, Trametinib	1
+BRAF	2	Oncogenic Mutations (excluding V600E and V600K)	Melanoma	Dabrafenib + Trametinib	10
+BRAF	2	Oncogenic Mutations (excluding V600E and V600K)	Melanoma	Encorafenib + Binimetinib	1
+BRAF	2	Oncogenic Mutations (excluding V600E and V600K)	Melanoma	Vemurafenib + Cobimetinib	2
+BRAF	2	V600	Langerhans Cell Histiocytosis	Vemurafenib, Dabrafenib	1
+BRAF	2	V600E	Colorectal Cancer	Encorafenib + Panitumumab	2
+BRAF	2	V600E	Diffuse Glioma	Dabrafenib + Trametinib, Vemurafenib + Cobimetinib	8
+BRAF	2	V600E	Encapsulated Glioma	Vemurafenib + Cobimetinib, Dabrafenib + Trametinib	12
+BRAF	2	V600E	Ganglioglioma, Pleomorphic Xanthoastrocytoma, Pilocytic Astrocytoma	Vemurafenib + Cobimetinib, Dabrafenib + Trametinib	5
+BRAF	2	V600E	Hairy Cell Leukemia	Vemurafenib	1
+BRAF	2	V600E	Pilocytic Astrocytoma	Selumetinib	1
+BRAF	3A	Fusions	Melanoma	Cobimetinib, Trametinib	3
+BRAF	3A	Fusions	Ovarian Cancer	Cobimetinib, Trametinib	2
+BRAF	3A	K601	Melanoma	Trametinib	5
+BRAF	3A	L597	Melanoma	Trametinib	3
+BRAF	3A	Oncogenic Mutations (excluding V600)	Histiocytosis	Cobimetinib, Trametinib	1
+BRAF	3A	V600	Histiocytosis	Vemurafenib, Dabrafenib	3
+BRAF	3A	V600E	Biliary Tract Cancer, NOS	Dabrafenib + Trametinib	1
+BRAF	4	G464	All Solid Tumors	PLX8394	5
+BRAF	4	G469A	All Solid Tumors	PLX8394	5
+BRAF	4	G469R	All Solid Tumors	PLX8394	5
+BRAF	4	G469V	All Solid Tumors	PLX8394	5
+BRAF	4	K601	All Solid Tumors	PLX8394	5
+BRAF	4	L597	All Solid Tumors	PLX8394	5
+BRCA1	1	Oncogenic Mutations	Ovary/Fallopian Tube, Ovarian Cancer, Peritoneal Serous Carcinoma	Niraparib	3
+BRCA1	1	Oncogenic Mutations	Ovary/Fallopian Tube, Ovarian Cancer, Peritoneal Serous Carcinoma	Olaparib + Bevacizumab, Olaparib	4
+BRCA1	1	Oncogenic Mutations	Ovary/Fallopian Tube, Ovarian Cancer, Peritoneal Serous Carcinoma	Rucaparib	4
+BRCA1	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	2
+BRCA1	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Rucaparib	2
+BRCA1	3A	Oncogenic Mutations	Breast Cancer	Olaparib	2
+BRCA1	3A	Oncogenic Mutations	Breast Cancer	Talazoparib	3
+BRCA1	3A	Oncogenic Mutations	Pancreatic Adenocarcinoma, Acinar Cell Carcinoma of the Pancreas	Olaparib	2
+BRCA2	1	Oncogenic Mutations	Ovary/Fallopian Tube, Ovarian Cancer, Peritoneal Serous Carcinoma	Niraparib	3
+BRCA2	1	Oncogenic Mutations	Ovary/Fallopian Tube, Ovarian Cancer, Peritoneal Serous Carcinoma	Olaparib + Bevacizumab, Olaparib	5
+BRCA2	1	Oncogenic Mutations	Ovary/Fallopian Tube, Ovarian Cancer, Peritoneal Serous Carcinoma	Rucaparib	4
+BRCA2	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	2
+BRCA2	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Rucaparib	2
+BRCA2	3A	Oncogenic Mutations	Breast Cancer	Olaparib	2
+BRCA2	3A	Oncogenic Mutations	Breast Cancer	Talazoparib	2
+BRCA2	3A	Oncogenic Mutations	Pancreatic Adenocarcinoma, Acinar Cell Carcinoma of the Pancreas	Olaparib	2
+BRCA2	3A	Oncogenic Mutations	Pancreatic Adenocarcinoma, Acinar Cell Carcinoma of the Pancreas	Rucaparib	3
+CDKN2A	4	Oncogenic Mutations	All Solid Tumors	Abemaciclib, Palbociclib, Ribociclib	5
+EGFR	1	Exon 19 deletion	Non-Small Cell Lung Cancer	Afatinib	3
+EGFR	1	Exon 19 deletion	Non-Small Cell Lung Cancer	Dacomitinib	2
+EGFR	1	Exon 19 deletion	Non-Small Cell Lung Cancer	Erlotinib, Erlotinib + Ramucirumab	2
+EGFR	1	Exon 19 deletion	Non-Small Cell Lung Cancer	Gefitinib	6
+EGFR	1	Exon 19 deletion	Non-Small Cell Lung Cancer	Osimertinib	3
+EGFR	1	Exon 20 insertion	Non-Small Cell Lung Cancer	Amivantamab	1
+EGFR	1	Exon 20 insertion	Non-Small Cell Lung Cancer	Mobocertinib	3
+EGFR	1	G719	Non-Small Cell Lung Cancer	Afatinib	3
+EGFR	1	L858R	Non-Small Cell Lung Cancer	Afatinib	3
+EGFR	1	L858R	Non-Small Cell Lung Cancer	Dacomitinib	2
+EGFR	1	L858R	Non-Small Cell Lung Cancer	Erlotinib, Erlotinib + Ramucirumab	2
+EGFR	1	L858R	Non-Small Cell Lung Cancer	Gefitinib	6
+EGFR	1	L858R	Non-Small Cell Lung Cancer	Osimertinib	3
+EGFR	1	L861Q	Non-Small Cell Lung Cancer	Afatinib	6
+EGFR	1	S768I	Non-Small Cell Lung Cancer	Afatinib	4
+EGFR	1	T790M	Non-Small Cell Lung Cancer	Osimertinib	4
+EGFR	R1	Exon 20 insertion	Non-Small Cell Lung Cancer	Erlotinib, Afatinib, Gefitinib	10
+EGFR	R1	T790M	Non-Small Cell Lung Cancer	Erlotinib, Afatinib, Gefitinib	4
+EGFR	2	A763_Y764insFQEA	Non-Small Cell Lung Cancer	Erlotinib	6
+EGFR	3A	E709_T710delinsD	Non-Small Cell Lung Cancer	Afatinib	4
+EGFR	3A	Exon 19 insertion	Non-Small Cell Lung Cancer	Erlotinib	8
+EGFR	3A	Exon 19 insertion	Non-Small Cell Lung Cancer	Gefitinib	4
+EGFR	3A	Exon 20 insertion	Non-Small Cell Lung Cancer	Poziotinib	3
+EGFR	3A	Kinase Domain Duplication	Non-Small Cell Lung Cancer	Afatinib	3
+EGFR	4	A289V	Glioma	Lapatinib	3
+EGFR	4	A763_Y764insFQEA	Non-Small Cell Lung Cancer	Afatinib	1
+EGFR	4	Amplification	Glioma	Lapatinib	3
+EGFR	4	D761Y	Non-Small Cell Lung Cancer	Osimertinib	2
+EGFR	4	Exon 19 insertion	Non-Small Cell Lung Cancer	Afatinib	1
+EGFR	4	Kinase Domain Duplication	Non-Small Cell Lung Cancer	Erlotinib	4
+EGFR	4	Kinase Domain Duplication	Non-Small Cell Lung Cancer	Gefitinib	3
+EGFR	4	L747P	Non-Small Cell Lung Cancer	Afatinib	3
+EGFR	4	R108K	Glioma	Lapatinib	3
+EGFR	4	T263P	Glioma	Lapatinib	3
+EGFR	R2	C797G	Non-Small Cell Lung Cancer	Osimertinib	2
+EGFR	R2	C797S	Non-Small Cell Lung Cancer	Osimertinib	4
+EGFR	R2	D761Y	Non-Small Cell Lung Cancer	Gefitinib	4
+EGFR	R2	G724S	Non-Small Cell Lung Cancer	Osimertinib	4
+ERBB2	1	Amplification	Breast Cancer	Ado-Trastuzumab Emtansine	2
+ERBB2	1	Amplification	Breast Cancer	Capecitabine + Neratinib, Neratinib	4
+ERBB2	1	Amplification	Breast Cancer	Chemotherapy + Pertuzumab + Trastuzumab	6
+ERBB2	1	Amplification	Breast Cancer	Chemotherapy + Trastuzumab, Trastuzumab	1
+ERBB2	1	Amplification	Breast Cancer	Lapatinib + Letrozole, Capecitabine + Lapatinib	2
+ERBB2	1	Amplification	Breast Cancer	Margetuximab + Chemotherapy	1
+ERBB2	1	Amplification	Breast Cancer	Trastuzumab Deruxtecan	1
+ERBB2	1	Amplification	Breast Cancer	Tucatinib + Capecitabine + Trastuzumab	1
+ERBB2	1	Amplification	Esophagogastric Cancer	Chemotherapy + Trastuzumab	1
+ERBB2	1	Amplification	Esophagogastric Cancer	Pembrolizumab + Chemotherapy + Trastuzumab	1
+ERBB2	1	Amplification	Esophagogastric Cancer	Trastuzumab Deruxtecan	1
+ERBB2	2	Amplification	Colorectal Cancer	Lapatinib + Trastuzumab	1
+ERBB2	2	Amplification	Colorectal Cancer	Pertuzumab + Trastuzumab	1
+ERBB2	2	Amplification	Colorectal Cancer	Trastuzumab Deruxtecan	1
+ERBB2	2	Amplification	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma	Trastuzumab + Carboplatin-Taxol Regimen	1
+ERBB2	2	Oncogenic Mutations	Non-Small Cell Lung Cancer	Ado-Trastuzumab Emtansine	3
+ERBB2	2	Oncogenic Mutations	Non-Small Cell Lung Cancer	Trastuzumab Deruxtecan	1
+ERBB2	3A	Oncogenic Mutations	Breast Cancer	Neratinib	3
+ERBB2	3A	Oncogenic Mutations	Non-Small Cell Lung Cancer	Neratinib	2
+FGFR1	2	Fusions	Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement	Pemigatinib	2
+FGFR1	3A	Amplification	Lung Squamous Cell Carcinoma	Erdafitinib, Debio1347, Infigratinib	5
+FGFR1	4	Oncogenic Mutations	All Solid Tumors	AZD4547, Erdafitinib, Debio1347, Infigratinib	8
+FGFR2	1	Fusions	Bladder Cancer	Erdafitinib	2
+FGFR2	1	Fusions	Cholangiocarcinoma	Infigratinib	1
+FGFR2	1	Fusions	Cholangiocarcinoma	Pemigatinib	1
+FGFR2	4	Oncogenic Mutations	All Solid Tumors	AZD4547, Erdafitinib, Debio1347, Infigratinib	8
+FGFR3	1	Fusions	Bladder Cancer	Erdafitinib	2
+FGFR3	1	G370C	Bladder Cancer	Erdafitinib	2
+FGFR3	1	R248C	Bladder Cancer	Erdafitinib	2
+FGFR3	1	S249C	Bladder Cancer	Erdafitinib	2
+FGFR3	1	Y373C	Bladder Cancer	Erdafitinib	2
+FGFR3	3A	G380R	Bladder Cancer	Erdafitinib	7
+FGFR3	3A	K650	Bladder Cancer	Erdafitinib	7
+FGFR3	3A	S371C	Bladder Cancer	Erdafitinib	7
+FGFR3	4	Oncogenic Mutations	All Solid Tumors	AZD4547, Erdafitinib, Debio1347, Infigratinib	12
+FLT3	1	D835	Acute Myeloid Leukemia	Gilteritinib	4
+FLT3	1	D835	Acute Myeloid Leukemia	Midostaurin + High Dose Chemotherapy	1
+FLT3	1	I836	Acute Myeloid Leukemia	Gilteritinib	4
+FLT3	1	I836	Acute Myeloid Leukemia	Midostaurin + High Dose Chemotherapy	1
+FLT3	1	Internal tandem duplication	Acute Myeloid Leukemia	Gilteritinib	4
+FLT3	1	Internal tandem duplication	Acute Myeloid Leukemia	Midostaurin + High Dose Chemotherapy	1
+FLT3	3A	Internal tandem duplication	Acute Myeloid Leukemia	Crenolanib	2
+FLT3	3A	Internal tandem duplication	Acute Myeloid Leukemia	Quizartinib	4
+FLT3	3A	Internal tandem duplication	Acute Myeloid Leukemia	Sorafenib	2
+KIT	1	A502_Y503dup	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	A502_Y503dup	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	A502_Y503dup	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	A502_Y503dup	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	A829P	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	A829P	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	A829P	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	A829P	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	C809G	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	C809G	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	C809G	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	C809G	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	D572_P573dup	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	D572_P573dup	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	D572_P573dup	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	D572_P573dup	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	D572A	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	D572A	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	D572A	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	D572A	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	D579_H580insFNPTQLPYD	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	D579_H580insFNPTQLPYD	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	D579_H580insFNPTQLPYD	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	D579_H580insFNPTQLPYD	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	D579_H580insLPCD	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	D579_H580insLPCD	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	D579_H580insLPCD	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	D579_H580insLPCD	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	D579del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	D579del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	D579del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	D579del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	D816	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	D816	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	D816	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	D816	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	D816	Mastocytosis	Avapritinib	2
+KIT	1	D820	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	D820	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	D820	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	D820	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	E554_I571del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	E554_I571del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	E554_I571del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	E554_I571del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	E554_K558del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	E554_K558del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	E554_K558del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	E554_K558del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	E554_V559del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	E554_V559del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	E554_V559del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	E554_V559del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	Exon 11 deletion	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	Exon 11 deletion	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	Exon 11 deletion	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	I563_L576del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	I563_L576del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	I563_L576del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	I563_L576del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	K509I	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	K509I	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	K509I	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	K509I	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	K550_G592del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	K550_K558del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	K550_K558del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	K550_K558del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	K550_K558del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	K550_V555delinsI	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	K550_V555delinsI	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	K550_V555delinsI	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	K550_V555delinsI	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	K550_W557del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	K550_W557del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	K550_W557del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	K550_W557del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	K558_E562del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	K558_E562del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	K558_E562del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	K558_E562del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	K558_V559del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	K558_V559del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	K558_V559del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	K558_V559del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	K558_V560del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	K558_V560del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	K558_V560del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	K558_V560del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	K558delinsNP	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	K558delinsNP	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	K558delinsNP	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	K558delinsNP	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	K558N	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	K558N	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	K558N	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	K558N	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	K642E	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	K642E	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	K642E	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	K642E	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	L576del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	L576del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	L576del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	L576del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	L576P	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	L576P	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	L576P	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	L576P	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	M552_K558del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	M552_K558del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	M552_K558del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	M552_K558del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	M552_W557del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	M552_W557del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	M552_W557del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	M552_W557del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	N505I	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	N505I	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	N505I	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	N505I	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	N564_Y578del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	N564_Y578del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	N564_Y578del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	N564_Y578del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	N822	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	N822	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	N822	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	N822	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	P551_E554del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	P551_E554del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	P551_E554del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	P551_E554del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	P551_M552del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	P551_M552del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	P551_M552del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	P551_M552del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	P551_V555del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	P551_V555del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	P551_V555del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	P551_V555del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	P551_W557delinsL	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	P551_W557delinsL	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	P551_W557delinsL	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	P551_W557delinsL	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	P573_D579del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	P573_D579del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	P573_D579del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	P573_D579del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	P573Q	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	P573Q	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	P573Q	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	P573Q	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	P577_D579del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	P577_D579del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	P577_D579del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	P577_D579del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	P577_R588dup	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	P577_R588dup	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	P577_R588dup	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	P577_R588dup	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	P577_W582delinsPYD	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	P577_W582delinsPYD	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	P577_W582delinsPYD	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	P577_W582delinsPYD	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	Q556_K558del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	Q556_K558del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	Q556_K558del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	Q556_K558del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	Q575_L576dup	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	Q575_L576dup	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	Q575_L576dup	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	Q575_L576dup	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	Q575_P585dup	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	Q575_P585dup	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	Q575_P585dup	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	Q575_P585dup	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	S476I	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	S476I	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	S476I	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	S476I	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	S501_A502dup	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	S501_A502dup	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	S501_A502dup	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	S501_A502dup	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	T574_R588delinsL	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	T574_R588delinsL	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	T574_R588delinsL	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	T574_R588delinsL	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	T574insTQLPYD	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	T574insTQLPYD	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	T574insTQLPYD	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	T574insTQLPYD	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	T670I	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	T670I	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	T670I	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	T670I	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V555_L576del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V555_L576del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V555_L576del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V555_L576del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V555_V559del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V555_V559del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V555_V559del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V555_V559del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V559_G565del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V559_G565del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V559_G565del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V559_G565del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V559_V560del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V559_V560del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V559_V560del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V559_V560del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V559A	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V559A	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V559A	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V559A	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V559C	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V559C	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V559C	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V559C	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V559D	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V559D	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V559D	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V559D	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V559del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V559del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V559del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V559del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V559F	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V559F	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V559F	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V559F	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V559G	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V559G	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V559G	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V559G	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V559I	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V559I	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V559I	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V559I	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V560D	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V560D	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V560D	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V560D	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V560del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V560del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V560del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V560del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V560E	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V560E	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V560E	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V560E	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V560G	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V560G	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V560G	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V560G	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V569_L576del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V569_L576del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V569_L576del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V569_L576del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	V654A	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	V654A	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	V654A	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	V654A	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	W557_K558del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	W557_K558del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	W557_K558del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	W557_K558del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	W557_V559delinsC	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	W557_V559delinsC	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	W557_V559delinsC	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	W557_V559delinsC	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	W557_V560del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	W557_V560del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	W557_V560del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	W557_V560del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	W557C	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	W557C	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	W557C	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	W557C	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	W557G	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	W557G	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	W557G	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	W557G	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	W557R	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	W557R	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	W557R	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	W557R	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	X550_splice	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	X550_splice	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	X550_splice	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	X550_splice	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	Y553_K558del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	Y553_K558del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	Y553_K558del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	Y553_K558del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	Y553_Q556del	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	Y553_Q556del	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	Y553_Q556del	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	Y553_Q556del	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	Y568_L576delinsVN	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	Y568_L576delinsVN	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	Y568_L576delinsVN	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	Y568_L576delinsVN	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	Y578_D579dup	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	Y578_D579dup	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	Y578_D579dup	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	Y578_D579dup	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	Y578_D579insEQQLPY	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	Y578_D579insEQQLPY	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	Y578_D579insEQQLPY	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	Y578_D579insEQQLPY	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	Y578C	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	Y578C	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	Y578C	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	Y578C	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	1	Y823D	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	1	Y823D	Gastrointestinal Stromal Tumor	Regorafenib	1
+KIT	1	Y823D	Gastrointestinal Stromal Tumor	Ripretinib	1
+KIT	1	Y823D	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	2	A829P	Gastrointestinal Stromal Tumor	Sorafenib	3
+KIT	2	C809G	Gastrointestinal Stromal Tumor	Sorafenib	3
+KIT	2	D579del	Melanoma	Imatinib	2
+KIT	2	D816	Gastrointestinal Stromal Tumor	Sorafenib	3
+KIT	2	D820	Gastrointestinal Stromal Tumor	Sorafenib	3
+KIT	2	K642E	Melanoma	Imatinib	2
+KIT	2	L576del	Melanoma	Imatinib	2
+KIT	2	L576P	Melanoma	Imatinib	2
+KIT	2	N822	Gastrointestinal Stromal Tumor	Sorafenib	3
+KIT	2	P577del	Melanoma	Imatinib	2
+KIT	2	V559A	Melanoma	Imatinib	2
+KIT	2	V560D	Melanoma	Imatinib	2
+KIT	2	V560del	Melanoma	Imatinib	2
+KIT	2	V560G	Melanoma	Imatinib	2
+KIT	2	V654A	Melanoma	Imatinib	2
+KIT	2	W557G	Melanoma	Imatinib	2
+KIT	2	W557R	Melanoma	Imatinib	2
+KIT	2	Y553_K558del	Melanoma	Imatinib	2
+KIT	2	Y823D	Gastrointestinal Stromal Tumor	Sorafenib	3
+KIT	4	A829P	Gastrointestinal Stromal Tumor	Nilotinib	2
+KIT	4	A829P	Gastrointestinal Stromal Tumor	Pazopanib	1
+KIT	4	C809G	Gastrointestinal Stromal Tumor	Nilotinib	2
+KIT	4	C809G	Gastrointestinal Stromal Tumor	Pazopanib	1
+KIT	4	D816	Gastrointestinal Stromal Tumor	Nilotinib	2
+KIT	4	D816	Gastrointestinal Stromal Tumor	Pazopanib	1
+KIT	4	D820	Gastrointestinal Stromal Tumor	Nilotinib	2
+KIT	4	D820	Gastrointestinal Stromal Tumor	Pazopanib	1
+KIT	4	N822	Gastrointestinal Stromal Tumor	Nilotinib	2
+KIT	4	N822	Gastrointestinal Stromal Tumor	Pazopanib	1
+KIT	4	Y823D	Gastrointestinal Stromal Tumor	Nilotinib	2
+KIT	4	Y823D	Gastrointestinal Stromal Tumor	Pazopanib	1
+KIT	R2	A829P	Gastrointestinal Stromal Tumor	Imatinib	3
+KIT	R2	A829P	Gastrointestinal Stromal Tumor	Sunitinib	1
+KIT	R2	C809G	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	R2	C809G	Gastrointestinal Stromal Tumor	Sunitinib	4
+KIT	R2	D816	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	R2	D816	Gastrointestinal Stromal Tumor	Sunitinib	4
+KIT	R2	D820	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	R2	D820	Gastrointestinal Stromal Tumor	Sunitinib	4
+KIT	R2	N822	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	R2	N822	Gastrointestinal Stromal Tumor	Sunitinib	4
+KIT	R2	T670I	Gastrointestinal Stromal Tumor	Imatinib	6
+KIT	R2	V654A	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	R2	Y823D	Gastrointestinal Stromal Tumor	Imatinib	4
+KIT	R2	Y823D	Gastrointestinal Stromal Tumor	Sunitinib	4
+KRAS	1	G12C	Non-Small Cell Lung Cancer	Sotorasib	1
+KRAS	1	Wildtype	Colorectal Cancer	Chemotherapy + Cetuximab, Cetuximab	3
+KRAS	1	Wildtype	Colorectal Cancer	Chemotherapy + Panitumumab, Panitumumab	6
+KRAS	R1	Oncogenic Mutations	Colorectal Cancer	Panitumumab, Cetuximab	5
+KRAS	2	Oncogenic Mutations	Erdheim-Chester Disease	Cobimetinib, Trametinib	1
+KRAS	2	Oncogenic Mutations	Langerhans Cell Histiocytosis	Cobimetinib, Trametinib	2
+KRAS	2	Oncogenic Mutations	Rosai-Dorfman Disease	Cobimetinib, Trametinib	1
+KRAS	3A	G12C	Colorectal Cancer	Cetuximab + Adagrasib, Adagrasib	1
+KRAS	3A	G12C	Non-Small Cell Lung Cancer	Adagrasib	1
+KRAS	3A	Oncogenic Mutations	Histiocytosis	Cobimetinib, Trametinib	1
+KRAS	4	Oncogenic Mutations	All Solid Tumors	Cobimetinib, Binimetinib, Trametinib	8
+MAP2K1	2	Oncogenic Mutations	Erdheim-Chester Disease	Cobimetinib, Trametinib	1
+MAP2K1	2	Oncogenic Mutations	Langerhans Cell Histiocytosis	Cobimetinib, Trametinib	2
+MAP2K1	2	Oncogenic Mutations	Rosai-Dorfman Disease	Cobimetinib, Trametinib	1
+MAP2K1	3A	Oncogenic Mutations	Histiocytosis	Cobimetinib, Trametinib	1
+MAP2K1	3A	Oncogenic Mutations	Melanoma, Non-Small Cell Lung Cancer, Low-Grade Serous Ovarian Cancer	Cobimetinib, Trametinib	6
+MET	1	D1010	Non-Small Cell Lung Cancer	Capmatinib	1
+MET	1	D1010	Non-Small Cell Lung Cancer	Tepotinib	1
+MET	1	Exon 14 deletion	Non-Small Cell Lung Cancer	Capmatinib	1
+MET	1	Exon 14 deletion	Non-Small Cell Lung Cancer	Tepotinib	1
+MET	1	Exon 14 splice mutation	Non-Small Cell Lung Cancer	Capmatinib	1
+MET	1	Exon 14 splice mutation	Non-Small Cell Lung Cancer	Tepotinib	1
+MET	2	Amplification	Non-Small Cell Lung Cancer	Crizotinib	4
+MET	2	D1010	Non-Small Cell Lung Cancer	Crizotinib	6
+MET	2	Exon 14 deletion	Non-Small Cell Lung Cancer	Crizotinib	6
+MET	2	Exon 14 splice mutation	Non-Small Cell Lung Cancer	Crizotinib	6
+MET	3A	Y1003mut	Non-Small Cell Lung Cancer	Crizotinib, Tepotinib, Capmatinib	8
+MET	4	Fusions	All Solid Tumors	Crizotinib	4
+MET	R2	Amplification	Non-Small Cell Lung Cancer	Erlotinib, Osimertinib, Gefitinib	5
+MET	R2	D1228N	Non-Small Cell Lung Cancer	Crizotinib, Cabozantinib, Capmatinib	5
+MET	R2	Y1230H	Non-Small Cell Lung Cancer	Crizotinib, Capmatinib	5
+MTOR	3A	E2014K	Bladder Cancer	Everolimus	2
+MTOR	3A	E2419K	Bladder Cancer	Everolimus	2
+MTOR	3A	L2209V	Renal Cell Carcinoma	Temsirolimus	1
+MTOR	3A	L2427Q	Renal Cell Carcinoma	Temsirolimus	1
+MTOR	3A	Q2223K	Renal Cell Carcinoma	Everolimus	1
+MTOR	4	Oncogenic Mutations	All Solid Tumors	Temsirolimus, Everolimus	5
+NF1	1	Oncogenic Mutations	Neurofibroma	Selumetinib	2
+NF1	4	Oncogenic Mutations	All Solid Tumors	Cobimetinib, Trametinib	5
+NRAS	1	Wildtype	Colorectal Cancer	Chemotherapy + Panitumumab, Panitumumab	1
+NRAS	R1	Oncogenic Mutations	Colorectal Cancer	Panitumumab, Cetuximab	4
+NRAS	2	Oncogenic Mutations	Erdheim-Chester Disease	Cobimetinib, Trametinib	1
+NRAS	2	Oncogenic Mutations	Langerhans Cell Histiocytosis	Cobimetinib, Trametinib	2
+NRAS	2	Oncogenic Mutations	Rosai-Dorfman Disease	Cobimetinib, Trametinib	1
+NRAS	3A	Oncogenic Mutations	Histiocytosis	Cobimetinib, Trametinib	1
+NRAS	3A	Oncogenic Mutations	Melanoma	Binimetinib	2
+NRAS	3A	Oncogenic Mutations	Thyroid Cancer	Iodine I 131-6-Beta-Iodomethyl-19-Norcholesterol + Selumetinib	2
+NRAS	4	Oncogenic Mutations	Melanoma	Binimetinib + Ribociclib	4
+NTRK3	1	Fusions	All Solid Tumors	Entrectinib	5
+NTRK3	1	Fusions	All Solid Tumors	Larotrectinib	2
+NTRK3	R1	F617L	All Solid Tumors	Larotrectinib	2
+NTRK3	R1	G623R	All Solid Tumors	Larotrectinib	5
+NTRK3	R1	G696A	All Solid Tumors	Larotrectinib	4
+PALB2	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	1
+PIK3CA	1	C420R	Breast Cancer	Alpelisib + Fulvestrant	3
+PIK3CA	1	E542K	Breast Cancer	Alpelisib + Fulvestrant	3
+PIK3CA	1	E545A	Breast Cancer	Alpelisib + Fulvestrant	3
+PIK3CA	1	E545D	Breast Cancer	Alpelisib + Fulvestrant	3
+PIK3CA	1	E545G	Breast Cancer	Alpelisib + Fulvestrant	3
+PIK3CA	1	E545K	Breast Cancer	Alpelisib + Fulvestrant	3
+PIK3CA	1	H1047L	Breast Cancer	Alpelisib + Fulvestrant	3
+PIK3CA	1	H1047R	Breast Cancer	Alpelisib + Fulvestrant	3
+PIK3CA	1	H1047Y	Breast Cancer	Alpelisib + Fulvestrant	3
+PIK3CA	1	Q546E	Breast Cancer	Alpelisib + Fulvestrant	3
+PIK3CA	1	Q546R	Breast Cancer	Alpelisib + Fulvestrant	3
+PIK3CA	2	Oncogenic Mutations (excluding C420R, E542K, E545A, E545D, E545G, E545K, Q546E, Q546R, H1047L, H1047R and H1047Y)	Breast Cancer	Alpelisib + Fulvestrant	3
+PTCH1	3A	Truncating Mutations	Medulloblastoma	Sonidegib, Vismodegib	6
+PTEN	4	Oncogenic Mutations	All Solid Tumors	GSK2636771, AZD8186	2
+RET	1	Fusions	Non-Small Cell Lung Cancer	Pralsetinib	1
+RET	1	Fusions	Non-Small Cell Lung Cancer	Selpercatinib	2
+RET	1	Fusions	Thyroid Cancer	Pralsetinib	3
+RET	1	Fusions	Thyroid Cancer	Selpercatinib	1
+RET	1	Oncogenic Mutations	Medullary Thyroid Cancer	Pralsetinib	3
+RET	1	Oncogenic Mutations	Medullary Thyroid Cancer	Selpercatinib	1
+RET	2	Fusions	Non-Small Cell Lung Cancer	Cabozantinib	3
+RET	3A	Fusions	Non-Small Cell Lung Cancer	Vandetanib	1
+ROS1	1	Fusions	Non-Small Cell Lung Cancer	Crizotinib	3
+ROS1	1	Fusions	Non-Small Cell Lung Cancer	Entrectinib	3
+SF3B1	4	Oncogenic Mutations	Acute Myeloid Leukemia	H3B-8800	2
+SF3B1	4	Oncogenic Mutations	Chronic Myelomonocytic Leukemia	H3B-8800	2
+SF3B1	4	Oncogenic Mutations	Myelodysplastic Syndromes	H3B-8800	2
