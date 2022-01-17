@@ -137,67 +137,10 @@ ARAF	2	Oncogenic Mutations	Rosai-Dorfman Disease	Cobimetinib, Trametinib	1
 ARAF	3A	Oncogenic Mutations	Histiocytosis	Cobimetinib, Trametinib	1
 ARAF	3A	Oncogenic Mutations	Histiocytosis	Sorafenib	2
 ARAF	3A	Oncogenic Mutations	Non-Small Cell Lung Cancer	Sorafenib	1
-ARID1A	Deletion	Oncogenic	Loss-of-function	5
-ARID1A	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	3
-ARID1A	L16P	Oncogenic	Loss-of-function	2
-ARID1A	G23D	Oncogenic	Loss-of-function	2
-ARID1A	R24P	Likely Oncogenic	Likely Loss-of-function	4
-ARID1A	L32P	Oncogenic	Loss-of-function	2
-ARID1A	G35A	Likely Oncogenic	Loss-of-function	3
-ARID1A	G35R	Likely Neutral	Likely Neutral	1
-ARID1A	G35V	Likely Oncogenic	Loss-of-function	1
-ARID1A	A36P	Likely Oncogenic	Loss-of-function	2
-ARID1A	P48L	Oncogenic	Loss-of-function	2
-ARID1A	I49S	Oncogenic	Loss-of-function	2
-ARID1A	Q50*	Oncogenic	Loss-of-function	1
-ARID1A	Q50P	Oncogenic	Loss-of-function	1
-ARID1A	M53I	Oncogenic	Loss-of-function	3
-ARID1A	S56I	Oncogenic	Loss-of-function	3
-ARID1A	A57V	Likely Neutral	Likely Neutral	2
-ARID1A	V59G	Likely Oncogenic	Likely Loss-of-function	5
-ARID1A	A60R	Oncogenic	Loss-of-function	3
-ARID1A	A60V	Likely Oncogenic	Loss-of-function	1
-ARID1A	L63P	Inconclusive	Inconclusive	1
-ARID1A	G67R	Oncogenic	Loss-of-function	1
-ARID1A	G67S	Oncogenic	Loss-of-function	3
-ARID1A	A68T	Oncogenic	Loss-of-function	2
-ARID1A	E69G	Oncogenic	Loss-of-function	2
-ARID1A	N71I	Oncogenic	Loss-of-function	2
-ARID1A	N71K	Oncogenic	Loss-of-function	1
-ARID1A	N71S	Likely Oncogenic	Likely Loss-of-function	8
-ARID1A	P73L	Oncogenic	Loss-of-function	1
-ARID1A	D74N	Oncogenic	Loss-of-function	2
-ARID1A	D74Y	Likely Oncogenic	Loss-of-function	1
-ARID1A	T77P	Oncogenic	Loss-of-function	1
-ARID1A	R79P	Oncogenic	Loss-of-function	1
-ARID1A	R80L	Likely Oncogenic	Likely Loss-of-function	1
-ARID1A	P81L	Oncogenic	Loss-of-function	1
-ARID1A	P81T	Oncogenic	Loss-of-function	3
-ARID1A	H83N	Likely Oncogenic	Loss-of-function	3
-ARID1A	H83Y	Oncogenic	Loss-of-function	2
-ARID1A	D84G	Oncogenic	Loss-of-function	1
-ARID1A	D84H	Likely Oncogenic	Loss-of-function	2
-ARID1A	D84N	Likely Oncogenic	Loss-of-function	2
-ARID1A	D84V	Oncogenic	Loss-of-function	2
-ARID1A	D84Y	Oncogenic	Loss-of-function	1
-ARID1A	R87L	Oncogenic	Loss-of-function	2
-ARID1A	R87P	Oncogenic	Loss-of-function	3
-ARID1A	R87W	Oncogenic	Loss-of-function	1
-ARID1A	E88K	Oncogenic	Loss-of-function	1
-ARID1A	G93W	Likely Oncogenic	Loss-of-function	1
-ARID1A	L97R	Oncogenic	Loss-of-function	2
-ARID1A	R99P	Oncogenic	Loss-of-function	2
-ARID1A	G101W	Oncogenic	Loss-of-function	3
-ARID1A	D108N	Likely Oncogenic	Likely Loss-of-function	1
-ARID1A	D108Y	Likely Oncogenic	Likely Loss-of-function	1
-ARID1A	R112G	Oncogenic	Loss-of-function	1
-ARID1A	P114L	Oncogenic	Loss-of-function	2
-ARID1A	P114S	Oncogenic	Loss-of-function	2
-ARID1A	V118D	Oncogenic	Loss-of-function	1
-ARID1A	V126D	Oncogenic	Loss-of-function	1
-ARID1A	A148T	Inconclusive	Inconclusive	2
-ARID1A	D153H	Likely Oncogenic	Likely Loss-of-function	1
+ARID1A	4	Truncating Mutations	All Solid Tumors	PLX2853	2
+ARID1A	4	Truncating Mutations	All Solid Tumors	Tazemetostat	2
 ATM	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	1
+BARD1	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	1
 BRAF	1	V600	Erdheim-Chester Disease	Vemurafenib	2
 BRAF	1	V600	Melanoma	Vemurafenib + Cobimetinib + Atezolizumab	1
 BRAF	1	V600E	Anaplastic Thyroid Cancer	Dabrafenib + Trametinib	1
@@ -257,6 +200,17 @@ BRCA2	3A	Oncogenic Mutations	Breast Cancer	Olaparib	2
 BRCA2	3A	Oncogenic Mutations	Breast Cancer	Talazoparib	2
 BRCA2	3A	Oncogenic Mutations	Pancreatic Adenocarcinoma, Acinar Cell Carcinoma of the Pancreas	Olaparib	2
 BRCA2	3A	Oncogenic Mutations	Pancreatic Adenocarcinoma, Acinar Cell Carcinoma of the Pancreas	Rucaparib	3
+BRIP1	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	1
+BTK	R1	C481S	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Ibrutinib	9
+BTK	R2	C481F	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Ibrutinib	3
+BTK	R2	C481R	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Ibrutinib	8
+BTK	R2	C481Y	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Ibrutinib	4
+BTK	R2	T316A	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Ibrutinib	2
+BTK	R2	T474I	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Ibrutinib	2
+BTK	R2	T474S	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Ibrutinib	1
+CDK12	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	1
+CDK12	4	Truncating Mutations	All Solid Tumors	Pembrolizumab, Nivolumab, Cemiplimab	1
+CDK4	4	Amplification	Dedifferentiated Liposarcoma, Well-Differentiated Liposarcoma	Abemaciclib, Palbociclib	2
 CDKN2A	4	Oncogenic Mutations	All Solid Tumors	Abemaciclib, Palbociclib, Ribociclib	5
 EGFR	1	Exon 19 deletion	Non-Small Cell Lung Cancer	Afatinib	3
 EGFR	1	Exon 19 deletion	Non-Small Cell Lung Cancer	Dacomitinib	2
@@ -315,6 +269,8 @@ ERBB2	2	Oncogenic Mutations	Non-Small Cell Lung Cancer	Ado-Trastuzumab Emtansine
 ERBB2	2	Oncogenic Mutations	Non-Small Cell Lung Cancer	Trastuzumab Deruxtecan	1
 ERBB2	3A	Oncogenic Mutations	Breast Cancer	Neratinib	3
 ERBB2	3A	Oncogenic Mutations	Non-Small Cell Lung Cancer	Neratinib	2
+ESR1	3A	Oncogenic Mutations	Breast Cancer	AZD9496, Fulvestrant	3
+FANCL	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	1
 FGFR1	2	Fusions	Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement	Pemigatinib	2
 FGFR1	3A	Amplification	Lung Squamous Cell Carcinoma	Erdafitinib, Debio1347, Infigratinib	5
 FGFR1	4	Oncogenic Mutations	All Solid Tumors	AZD4547, Erdafitinib, Debio1347, Infigratinib	8
@@ -340,6 +296,9 @@ FLT3	1	Internal tandem duplication	Acute Myeloid Leukemia	Midostaurin + High Dos
 FLT3	3A	Internal tandem duplication	Acute Myeloid Leukemia	Crenolanib	2
 FLT3	3A	Internal tandem duplication	Acute Myeloid Leukemia	Quizartinib	4
 FLT3	3A	Internal tandem duplication	Acute Myeloid Leukemia	Sorafenib	2
+JAK2	2	Fusions	Myeloid/Lymphoid Neoplasms with Eosinophilia and Rearrangement of  PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2	Ruxolitinib, Fedratinib	4
+JAK2	3A	PCM1-JAK2 Fusion	Chronic Eosinophilic Leukemia, NOS	Ruxolitinib	8
+KDM6A	4	Oncogenic Mutations	Bladder Cancer	Tazemetostat	3
 KIT	1	A502_Y503dup	Gastrointestinal Stromal Tumor	Imatinib	4
 KIT	1	A502_Y503dup	Gastrointestinal Stromal Tumor	Regorafenib	1
 KIT	1	A502_Y503dup	Gastrointestinal Stromal Tumor	Ripretinib	1
@@ -722,6 +681,7 @@ MAP2K1	2	Oncogenic Mutations	Langerhans Cell Histiocytosis	Cobimetinib, Trametin
 MAP2K1	2	Oncogenic Mutations	Rosai-Dorfman Disease	Cobimetinib, Trametinib	1
 MAP2K1	3A	Oncogenic Mutations	Histiocytosis	Cobimetinib, Trametinib	1
 MAP2K1	3A	Oncogenic Mutations	Melanoma, Non-Small Cell Lung Cancer, Low-Grade Serous Ovarian Cancer	Cobimetinib, Trametinib	6
+MDM2	4	Amplification	Dedifferentiated Liposarcoma, Well-Differentiated Liposarcoma	Milademetan	5
 MET	1	D1010	Non-Small Cell Lung Cancer	Capmatinib	1
 MET	1	D1010	Non-Small Cell Lung Cancer	Tepotinib	1
 MET	1	Exon 14 deletion	Non-Small Cell Lung Cancer	Capmatinib	1
@@ -754,12 +714,24 @@ NRAS	3A	Oncogenic Mutations	Histiocytosis	Cobimetinib, Trametinib	1
 NRAS	3A	Oncogenic Mutations	Melanoma	Binimetinib	2
 NRAS	3A	Oncogenic Mutations	Thyroid Cancer	Iodine I 131-6-Beta-Iodomethyl-19-Norcholesterol + Selumetinib	2
 NRAS	4	Oncogenic Mutations	Melanoma	Binimetinib + Ribociclib	4
+NRG1	3A	Fusions	All Solid Tumors	Zenocutuzumab	1
 NTRK3	1	Fusions	All Solid Tumors	Entrectinib	5
 NTRK3	1	Fusions	All Solid Tumors	Larotrectinib	2
 NTRK3	R1	F617L	All Solid Tumors	Larotrectinib	2
 NTRK3	R1	G623R	All Solid Tumors	Larotrectinib	5
 NTRK3	R1	G696A	All Solid Tumors	Larotrectinib	4
 PALB2	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	1
+PDGFRA	1	Exon 18 in-frame deletions	Gastrointestinal Stromal Tumor	Avapritinib	2
+PDGFRA	1	Exon 18 in-frame insertions	Gastrointestinal Stromal Tumor	Avapritinib	2
+PDGFRA	1	Exon 18 missense mutations	Gastrointestinal Stromal Tumor	Avapritinib	2
+PDGFRA	1	FIP1L1-PDGFRA Fusion	Chronic Eosinophilic Leukemia, NOS	Imatinib	1
+PDGFRA	1	Fusions	Myelodysplastic/Myeloproliferative Neoplasms	Imatinib	8
+PDGFRA	R1	D842V	Gastrointestinal Stromal Tumor	Imatinib	11
+PDGFRA	2	D842V	Gastrointestinal Stromal Tumor	Dasatinib	1
+PDGFRA	2	Oncogenic Mutations	Gastrointestinal Stromal Tumor	Imatinib	1
+PDGFRA	2	Oncogenic Mutations	Gastrointestinal Stromal Tumor	Regorafenib	2
+PDGFRA	2	Oncogenic Mutations	Gastrointestinal Stromal Tumor	Ripretinib	1
+PDGFRA	2	Oncogenic Mutations	Gastrointestinal Stromal Tumor	Sunitinib	3
 PIK3CA	1	C420R	Breast Cancer	Alpelisib + Fulvestrant	3
 PIK3CA	1	E542K	Breast Cancer	Alpelisib + Fulvestrant	3
 PIK3CA	1	E545A	Breast Cancer	Alpelisib + Fulvestrant	3
@@ -774,6 +746,11 @@ PIK3CA	1	Q546R	Breast Cancer	Alpelisib + Fulvestrant	3
 PIK3CA	2	Oncogenic Mutations (excluding C420R, E542K, E545A, E545D, E545G, E545K, Q546E, Q546R, H1047L, H1047R and H1047Y)	Breast Cancer	Alpelisib + Fulvestrant	3
 PTCH1	3A	Truncating Mutations	Medulloblastoma	Sonidegib, Vismodegib	6
 PTEN	4	Oncogenic Mutations	All Solid Tumors	GSK2636771, AZD8186	2
+RAD51B	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	1
+RAF1	2	Oncogenic Mutations	Erdheim-Chester Disease	Cobimetinib, Trametinib	1
+RAF1	2	Oncogenic Mutations	Langerhans Cell Histiocytosis	Cobimetinib, Trametinib	2
+RAF1	2	Oncogenic Mutations	Rosai-Dorfman Disease	Cobimetinib, Trametinib	1
+RAF1	3A	Oncogenic Mutations	Histiocytosis	Cobimetinib, Trametinib	1
 RET	1	Fusions	Non-Small Cell Lung Cancer	Pralsetinib	1
 RET	1	Fusions	Non-Small Cell Lung Cancer	Selpercatinib	2
 RET	1	Fusions	Thyroid Cancer	Pralsetinib	3
@@ -787,3 +764,6 @@ ROS1	1	Fusions	Non-Small Cell Lung Cancer	Entrectinib	3
 SF3B1	4	Oncogenic Mutations	Acute Myeloid Leukemia	H3B-8800	2
 SF3B1	4	Oncogenic Mutations	Chronic Myelomonocytic Leukemia	H3B-8800	2
 SF3B1	4	Oncogenic Mutations	Myelodysplastic Syndromes	H3B-8800	2
+SMARCB1	1	Deletion	Epithelioid Sarcoma	Tazemetostat	1
+SMARCB1	4	Oncogenic Mutations	All Liquid Tumors	Tazemetostat	5
+TSC1	1	Oncogenic Mutations	Encapsulated Glioma	Everolimus	1
