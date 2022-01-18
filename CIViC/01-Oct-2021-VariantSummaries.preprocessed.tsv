@@ -123,7 +123,7 @@ variant_id	gene	entrez_id	variant	variant_types	comment	conditions	condition_2_t
 144	DDR2	4921	G774V	missense_variant		1				-
 145	DDR2	4921	S768R	missense_variant		1				-
 148	KRAS	3845	G12A	missense_variant		1				-
-151	BCL2	596	IGH-BCL2	transcript_regulatory_region_fusion		1				-
+151	BCL2	596	IGH-BCL2	transcript_regulatory_region_fusion,transcript_fusion		1				-
 152	BCL2	596	Overexpression	N/A		0				-
 153	FOXP1	27086	AMPLIFICATION	transcript_amplification		0				-
 154	REL	5966	AMPLIFICATION	transcript_amplification		0				-
@@ -203,7 +203,7 @@ variant_id	gene	entrez_id	variant	variant_types	comment	conditions	condition_2_t
 244	ATM	472	N2875H	missense_variant		1				-
 245	NF2	4771	Y177fs	frameshift_elongation		1				-
 247	PDGFRA	5156	V561A	missense_variant		1				-
-248	TERT	7015	C228T	regulatory_region_variant		1				-
+248	TERT	7015	C228T	missense_variant,regulatory_region_variant		1				-
 249	XRCC1	7515	R194W	missense_variant		1				-
 250	GSTP1	2950	DELETION	transcript_ablation		0				-
 251	BIRC7	79444	AMPLIFICATION	transcript_amplification		0				-
@@ -405,8 +405,8 @@ variant_id	gene	entrez_id	variant	variant_types	comment	conditions	condition_2_t
 458	FCGR2B	2213	I232T	missense_variant		1				-
 460	EGFR	1956	P753S	missense_variant		1				-
 461	PML	5371	B2 DOMAIN MUTATION	missense_variant		0				-
-462	PML	5371	PML-RARA	missense_variant		2	missense_variant	A216V		-
-463	PML	5371	PML-RARA	missense_variant		2	missense_variant	L218P		-
+462	PML	5371	PML-RARA	missense_variant,transcript_fusion		2	missense_variant	A216V		-
+463	PML	5371	PML-RARA	missense_variant,transcript_fusion		2	missense_variant	L218P		-
 464	MET	4233	EXON 14 MUTATION and AMPLIFICATION	exon_loss_variant,transcript_amplification		0				-
 465	ROS1	6098	CD74-ROS1	missense_variant,transcript_fusion		2	missense_variant	G2032R		-
 466	FGFR1	2260	ZNF198-FGFR1	transcript_fusion		1				-
@@ -447,7 +447,7 @@ variant_id	gene	entrez_id	variant	variant_types	comment	conditions	condition_2_t
 505	GNAQ	2776	MUTATION			0				-
 506	GNA11	2767	MUTATION			0				-
 507	GNAQ	2776	Q209	protein_altering_variant		1				-
-508	PMS2	5395	K706FS*19	minus_1_frameshift_variant		1				-
+508	PMS2	5395	K706fs*19	minus_1_frameshift_variant		1				-
 509	KIT	3815	Exon 9 Mutation	exon_variant		0				-
 510	PTEN	5728	Mutation	protein_altering_variant		0				-
 511	FGFR2	2263	Mutation	transcript_variant,gain_of_function_variant		0				-
@@ -654,11 +654,11 @@ variant_id	gene	entrez_id	variant	variant_types	comment	conditions	condition_2_t
 741	MLH1	4292	R100*	stop_gained		1				-
 742	WWTR1	25937	WWTR1-CAMTA1	transcript_fusion		1				-
 743	MLH1	4292	T117M	missense_variant		1				-
-744	MLH1	4292	Q426FS	frameshift_truncation		1				-
+744	MLH1	4292	Q426fs	frameshift_truncation		1				-
 745	MLH1	4292	V49A	missense_variant		1				-
-746	MLH1	4292	D667FS	frameshift_truncation		1				-
+746	MLH1	4292	D667fs	frameshift_truncation		1				-
 747	MLH1	4292	M1L	missense_variant		1				-
-748	MLH1	4292	*757L	stop_lost		1				-
+748	MLH1	4292	X757L	stop_lost		1				-
 749	MLH1	4292	R265G	missense_variant		1				-
 750	MLH1	4292	V213fs	frameshift_truncation		1				-
 751	MLH1	4292	N551T	missense_variant		1				-
@@ -933,7 +933,7 @@ variant_id	gene	entrez_id	variant	variant_types	comment	conditions	condition_2_t
 1535	ABL1	25	BCR-ABL1	missense_variant,transcript_fusion	orig  BCR-ABL1 E453K	2	missense_variant	E453K		-
 1536	ABL1	25	BCR-ABL1	missense_variant,transcript_fusion	orig  BCR-ABL1 E453A	2	missense_variant	E453A		-
 1537	ABL1	25	BCR-ABL1	missense_variant,transcript_fusion	orig  BCR-ABL1 P480A	2	missense_variant	P480A		-
-1549	KIT	3815	K558NP	inframe_insertion		1				-
+1549	KIT	3815	K558insNP	inframe_insertion	orig K558NP	1				-
 1550	KIT	3815	V560_L576del	inframe_deletion		1				-
 1551	KIT	3815	V569_L576del	inframe_deletion		1				-
 1555	BRCA1	672	W1815*	stop_gained	orig W1815X	1				-
@@ -1151,9 +1151,9 @@ variant_id	gene	entrez_id	variant	variant_types	comment	conditions	condition_2_t
 1974	VHL	7428		splice_acceptor_variant		0				-
 1977	VHL	7428	V194fs	minus_2_frameshift_variant	orig V194fs (c.581_582del)	1				-
 1980	VHL	7428	R82P	missense_variant	orig R82P (c.245G>C)	1				-
-1986	VHL	7428	*214L	stop_lost	orig *214L (c.641G>T)	1				-
-1987	VHL	7428	*214W	stop_lost	orig *214W (c.642A>G)	1				-
-1988	VHL	7428	*214C	stop_lost	orig *214C (c.642A>T)	1				-
+1986	VHL	7428	X214L	stop_lost	orig *214L (c.641G>T)	1				-
+1987	VHL	7428	X214W	stop_lost	orig *214W (c.642A>G)	1				-
+1988	VHL	7428	X214C	stop_lost	orig *214C (c.642A>T)	1				-
 1990	VHL	7428		splice_acceptor_variant		0				-
 1991	PIK3CA	5290				0				-
 1992	VHL	7428		splice_acceptor_variant		0				-
@@ -1275,7 +1275,7 @@ variant_id	gene	entrez_id	variant	variant_types	comment	conditions	condition_2_t
 2264	VHL	7428	R82_V84del	inframe_deletion	orig R82_V84del (c.244_252del)	1				-
 2265	VHL	7428	A56_P59del		orig A56_P59del (c.166_178del)	1				-
 2283	ACVR1	90	G328E	missense_variant,gain_of_function_variant		1				-
-2286	NRG1	3084	NRG1-*		Fusion	1				-
+2286	NRG1	3084	NRG1-*	transcript_fusion	Fusion	1				-
 2287	NTRK2	4915	STRN-NTRK2	transcript_fusion		1				-
 2289	NTRK1	4914	PDE4DIP-NTRK1	transcript_fusion		1				-
 2290	VHL	7428	G144E	missense_variant	orig G144E (c.431G>A)	1				-
@@ -1326,14 +1326,14 @@ variant_id	gene	entrez_id	variant	variant_types	comment	conditions	condition_2_t
 2458	VHL	7428	R167P	missense_variant	orig R167P (c.500G>C)	1				-
 2459	VHL	7428	L178P		orig L178P (c.532C>T)	1				-
 2468	PRKCB	5579	D427N			1				-
-2488	VHL	7428	*214G	stop_lost	orig *214G (c.640T>G)	1				-
-2489	VHL	7428	*214C	stop_lost	orig *214C (c.641_642insC)	1				-
+2488	VHL	7428	X214G	stop_lost	orig *214G (c.640T>G)	1				-
+2489	VHL	7428	X214C	stop_lost	orig *214C (c.641_642insC)	1				-
 2508	VHL	7428	L129P	missense_variant	orig L129P (c.386T>C)	1				-
 2511	VHL	7428	S80fs	minus_1_frameshift_variant,frameshift_truncation	orig S80fs (c.239del)	1				-
 2553	VHL	7428	D121_A122del		orig D121_A122del (c.361_366del)	1				-
 2561	VHL	7428	N150fs	minus_1_frameshift_variant,frameshift_truncation	orig N150fs (c.447del)	1				-
 2570	HRAS	3265	Q61			1				-
-2571	ABL2	27	ABL2-*		Fusion	1				-
+2571	ABL2	27	ABL2-*	transcript_fusion	Fusion	1				-
 2575	ABL1	25	ETV6-ABL1	transcript_fusion		1				-
 2580	VHL	7428	N131T	non_conservative_missense_variant	orig N131T (c.392A>C)	1				-
 2581	NCOA2	10499	HEY1-NCOA2	transcript_fusion		1				-
