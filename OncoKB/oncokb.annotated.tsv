@@ -33,6 +33,11 @@ ABL1	H396P	Resistance	Likely Gain-of-function	2
 ABL1	H396R	Resistance	Likely Gain-of-function	1
 ABL1	E459K	Resistance	Likely Gain-of-function	1
 ABL2	Fusions	Likely Oncogenic	Likely Gain-of-function	10
+ACVR2A	R206H	Likely Oncogenic	Likely Gain-of-function	5
+ACVR2A	Q207E	Likely Oncogenic	Likely Gain-of-function	1
+ACVR2A	G328E	Likely Oncogenic	Likely Gain-of-function	4
+ACVR2A	G328V	Likely Oncogenic	Gain-of-function	6
+ACVR2A	G356D	Likely Oncogenic	Gain-of-function	5
 AKT1	Amplification	Likely Oncogenic	Likely Gain-of-function	6
 AKT1	LAMTOR1-AKT1 Fusion	Likely Oncogenic	Likely Gain-of-function	1
 AKT1	E17K	Oncogenic	Gain-of-function	9
@@ -150,6 +155,33 @@ ALK	T1343I	Likely Neutral	Likely Neutral	1
 ALK	D1349H	Likely Neutral	Likely Neutral	1
 ALK	E1384K	Likely Oncogenic	Gain-of-function	1
 ALK	R1464*	Likely Neutral	Likely Neutral	1
+AMER1	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	1
+APC	Deletion	Likely Oncogenic	Likely Loss-of-function	4
+APC	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	3
+APC	R640G	Oncogenic	Loss-of-function	1
+APC	N1026S	Likely Oncogenic	Loss-of-function	1
+APC	I1307K	Inconclusive	Inconclusive	1
+AR	Amplification	Likely Oncogenic	Likely Gain-of-function	6
+AR	AR-V7	Oncogenic	Gain-of-function	3
+AR	ARv567es	Oncogenic	Gain-of-function	3
+AR	L57del	Likely Neutral	Likely Neutral	1
+AR	L57Q	Likely Neutral	Loss-of-function	1
+AR	Q58_Q59insL	Likely Neutral	Likely Loss-of-function	1
+AR	Q120E	Likely Neutral	Likely Neutral	1
+AR	A159T	Inconclusive	Inconclusive	1
+AR	G216R	Likely Neutral	Likely Neutral	1
+AR	N235K	Likely Neutral	Likely Loss-of-function	2
+AR	G248V	Inconclusive	Inconclusive	1
+AR	L272F	Likely Neutral	Likely Neutral	1
+AR	P380R	Inconclusive	Inconclusive	1
+AR	L702H	Likely Oncogenic	Likely Gain-of-function	2
+AR	W742C	Likely Oncogenic	Likely Gain-of-function	1
+AR	W742L	Oncogenic	Gain-of-function	1
+AR	H875Y	Oncogenic	Gain-of-function	2
+AR	F876L	Likely Oncogenic	Likely Gain-of-function	1
+AR	F877L	Likely Oncogenic	Likely Gain-of-function	2
+AR	T878A	Oncogenic	Gain-of-function	5
+AR	T878S	Likely Oncogenic	Likely Gain-of-function	1
 ARAF	S214A	Likely Oncogenic	Likely Gain-of-function	2
 ARAF	S214C	Oncogenic	Gain-of-function	1
 ARAF	S214F	Oncogenic	Gain-of-function	1
@@ -251,6 +283,17 @@ ATM	P2974L	Likely Oncogenic	Likely Loss-of-function	1
 ATM	R3008C	Oncogenic	Loss-of-function	3
 ATM	R3008H	Likely Oncogenic	Likely Loss-of-function	4
 ATM	R3047*	Likely Oncogenic	Likely Loss-of-function	1
+BAP1	Deletion	Likely Oncogenic	Likely Loss-of-function	4
+BAP1	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	2
+BAP1	I47F	Likely Oncogenic	Loss-of-function	1
+BAP1	F81V	Likely Oncogenic	Likely Loss-of-function	1
+BAP1	C91A	Likely Oncogenic	Loss-of-function	1
+BAP1	C91S	Oncogenic	Likely Loss-of-function	2
+BAP1	A95D	Likely Oncogenic	Loss-of-function	3
+BAP1	R146K	Inconclusive	Inconclusive	1
+BAP1	F170I	Likely Oncogenic	Loss-of-function	1
+BAP1	G178V	Likely Oncogenic	Loss-of-function	2
+BAP1	E685V	Likely Oncogenic	Loss-of-function	1
 BARD1	Deletion	Likely Oncogenic	Likely Loss-of-function	3
 BARD1	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	2
 BARD1	L44R	Likely Oncogenic	Loss-of-function	1
@@ -259,6 +302,11 @@ BARD1	C71Y	Oncogenic	Likely Loss-of-function	1
 BARD1	C78S	Likely Neutral	Likely Neutral	1
 BARD1	C83R	Likely Oncogenic	Likely Loss-of-function	1
 BARD1	R99E	Likely Oncogenic	Loss-of-function	1
+BCL2	Fusions	Likely Oncogenic	Likely Gain-of-function	3
+BCL2	IGH-BCL2 Fusion	Oncogenic	Gain-of-function	7
+BCL2	G33R	Likely Oncogenic	Gain-of-function	1
+BCL2	P59S	Likely Oncogenic	Likely Gain-of-function	2
+BCL2	G101V	Likely Oncogenic	Likely Gain-of-function	2
 BCL6	Amplification	Likely Oncogenic	Likely Gain-of-function	4
 BCL6	Fusions	Likely Oncogenic	Likely Gain-of-function	3
 BCL6	IGH-BCL6 Fusion	Oncogenic	Gain-of-function	5
@@ -999,6 +1047,12 @@ BTK	C481S	Resistance	Gain-of-function	11
 BTK	C481Y	Resistance	Likely Loss-of-function	4
 BTK	R544S	Likely Oncogenic	Likely Gain-of-function	2
 BTK	Y551F	Likely Neutral	Loss-of-function	3
+CASP8	Deletion	Likely Oncogenic	Likely Loss-of-function	3
+CASP8	Promoter Hypermethylation	Likely Oncogenic	Loss-of-function	3
+CASP8	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	4
+CASP8	CASP8L	Likely Oncogenic	Loss-of-function	4
+CASP8	C248T	Likely Oncogenic	Likely Loss-of-function	1
+CASP8	G325A	Likely Oncogenic	Likely Gain-of-function	1
 CBL	Deletion	Likely Oncogenic	Likely Loss-of-function	3
 CBL	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	3
 CBL	S80N	Inconclusive	Inconclusive	2
@@ -1026,6 +1080,21 @@ CBL	P428L	Likely Neutral	Likely Neutral	1
 CBL	V430M	Likely Neutral	Likely Neutral	1
 CBL	N454D	Likely Neutral	Neutral	1
 CBL	W802*	Likely Oncogenic	Likely Gain-of-function	1
+CCND1	Amplification	Oncogenic	Gain-of-function	3
+CCND1	IGH-CCND1 Fusion	Likely Oncogenic	Gain-of-function	4
+CCND1	Y44D	Likely Oncogenic	Gain-of-function	2
+CCND1	C47S	Likely Oncogenic	Gain-of-function	2
+CCND1	256_286trunc	Likely Oncogenic	Gain-of-function	4
+CCND1	L283_D294del	Inconclusive	Inconclusive	3
+CCND1	T286A	Oncogenic	Gain-of-function	3
+CCND1	T286I	Oncogenic	Gain-of-function	3
+CCND1	P287A	Likely Oncogenic	Gain-of-function	2
+CCND1	P287S	Likely Oncogenic	Likely Gain-of-function	2
+CCND1	P287T	Oncogenic	Gain-of-function	2
+CCND1	D289A	Likely Oncogenic	Likely Gain-of-function	1
+CCND1	D289del	Inconclusive	Inconclusive	4
+CCND1	D289_D292del	Likely Oncogenic	Likely Gain-of-function	3
+CCND1	V293A	Inconclusive	Inconclusive	1
 CCND3	Amplification	Likely Oncogenic	Likely Gain-of-function	2
 CCND3	IGH-CCND3 Fusion	Likely Oncogenic	Likely Gain-of-function	3
 CCND3	Q276*	Likely Oncogenic	Gain-of-function	4
@@ -1108,6 +1177,21 @@ CDKN2A	V118D	Oncogenic	Loss-of-function	1
 CDKN2A	V126D	Oncogenic	Loss-of-function	1
 CDKN2A	A148T	Inconclusive	Inconclusive	2
 CDKN2A	D153H	Likely Oncogenic	Likely Loss-of-function	1
+CHEK2	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	3
+CHEK2	E64K	Likely Oncogenic	Likely Loss-of-function	1
+CHEK2	P85L	Likely Neutral	Neutral	2
+CHEK2	R117G	Likely Oncogenic	Loss-of-function	2
+CHEK2	R145W	Likely Oncogenic	Likely Loss-of-function	8
+CHEK2	I157T	Likely Oncogenic	Likely Loss-of-function	13
+CHEK2	E161del	Likely Oncogenic	Loss-of-function	1
+CHEK2	R180H	Inconclusive	Inconclusive	1
+CHEK2	R181C	Inconclusive	Inconclusive	2
+CHEK2	I189V	Likely Oncogenic	Likely Loss-of-function	1
+CHEK2	E321K	Likely Oncogenic	Loss-of-function	1
+CHEK2	H371Y	Likely Oncogenic	Loss-of-function	4
+CHEK2	S372F	Likely Oncogenic	Likely Loss-of-function	1
+CHEK2	K373E	Oncogenic	Loss-of-function	1
+CHEK2	S428F	Likely Oncogenic	Likely Loss-of-function	2
 CIITA	CIITA-BX648577 Fusion	Likely Oncogenic	Likely Loss-of-function	1
 CIITA	Deletion	Likely Oncogenic	Likely Loss-of-function	3
 CIITA	Fusions	Likely Oncogenic	Likely Loss-of-function	1
@@ -1609,7 +1693,49 @@ ESR1	D538G	Oncogenic	Gain-of-function	6
 ETNK1	H243Y	Likely Oncogenic	Likely Loss-of-function	2
 ETNK1	N244S	Likely Oncogenic	Likely Loss-of-function	2
 ETNK1	G245A	Likely Oncogenic	Likely Loss-of-function	2
+EZH2	Amplification	Oncogenic	Gain-of-function	5
+EZH2	Overexpression	Oncogenic	Gain-of-function	5
+EZH2	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	2
+EZH2	K515R	Likely Neutral	Likely Neutral	2
+EZH2	C576W	Likely Oncogenic	Likely Loss-of-function	1
+EZH2	Y646C	Oncogenic	Likely Gain-of-function	6
+EZH2	Y646F	Likely Oncogenic	Likely Gain-of-function	8
+EZH2	Y646H	Oncogenic	Likely Gain-of-function	7
+EZH2	Y646N	Likely Oncogenic	Likely Gain-of-function	8
+EZH2	Y646S	Oncogenic	Likely Gain-of-function	5
+EZH2	A687V	Likely Oncogenic	Likely Gain-of-function	4
+EZH2	R690C	Likely Oncogenic	Likely Loss-of-function	1
+EZH2	A692V	Likely Oncogenic	Likely Gain-of-function	4
+EZH2	Y731D	Likely Oncogenic	Likely Loss-of-function	3
 FANCL	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	2
+FBXW7	Deletion	Likely Oncogenic	Likely Loss-of-function	5
+FBXW7	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	3
+FBXW7	K11R	Likely Oncogenic	Likely Loss-of-function	1
+FBXW7	T15insVR	Likely Neutral	Likely Neutral	1
+FBXW7	V154I	Likely Neutral	Likely Neutral	1
+FBXW7	T205A	Likely Neutral	Likely Gain-of-function	1
+FBXW7	S227A	Likely Oncogenic	Loss-of-function	1
+FBXW7	I347M	Likely Neutral	Likely Neutral	1
+FBXW7	G423R	Likely Oncogenic	Likely Loss-of-function	2
+FBXW7	G423V	Likely Oncogenic	Likely Loss-of-function	1
+FBXW7	W425C	Likely Oncogenic	Likely Loss-of-function	1
+FBXW7	S462Y	Likely Neutral	Likely Neutral	1
+FBXW7	R465C	Oncogenic	Loss-of-function	6
+FBXW7	R465H	Likely Oncogenic	Loss-of-function	6
+FBXW7	R479H	Likely Oncogenic	Loss-of-function	1
+FBXW7	R479L	Likely Oncogenic	Loss-of-function	2
+FBXW7	R479Q	Oncogenic	Loss-of-function	4
+FBXW7	D480N	Likely Neutral	Likely Neutral	1
+FBXW7	R482Q	Oncogenic	Loss-of-function	1
+FBXW7	A503V	Likely Neutral	Likely Neutral	1
+FBXW7	R505C	Oncogenic	Loss-of-function	9
+FBXW7	R505L	Oncogenic	Loss-of-function	1
+FBXW7	V514F	Likely Oncogenic	Likely Loss-of-function	1
+FBXW7	D520N	Likely Oncogenic	Likely Loss-of-function	2
+FBXW7	Y545C	Likely Oncogenic	Likely Loss-of-function	1
+FBXW7	S562L	Likely Neutral	Likely Neutral	1
+FBXW7	R658Q	Likely Oncogenic	Likely Loss-of-function	2
+FBXW7	R689Q	Likely Oncogenic	Likely Loss-of-function	2
 FGFR1	Amplification	Oncogenic	Gain-of-function	5
 FGFR1	BCR-FGFR1 Fusion	Likely Oncogenic	Gain-of-function	3
 FGFR1	CEP110-FGFR1 Fusion	Likely Oncogenic	Gain-of-function	2
@@ -1786,6 +1912,33 @@ FLT3	K868N	Likely Neutral	Likely Loss-of-function	1
 FOXP1	IGH-FOXP1 Fusion	Likely Oncogenic	Likely Gain-of-function	3
 FOXP1	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	1
 FOXP1	R514C	Likely Oncogenic	Likely Loss-of-function	1
+GATA3	Amplification	Likely Oncogenic	Likely Gain-of-function	7
+GATA3	Deletion	Likely Oncogenic	Likely Loss-of-function	5
+GATA3	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	5
+GNAS	R201C	Oncogenic	Gain-of-function	2
+GNAS	R201H	Oncogenic	Gain-of-function	3
+GNAS	Q227L	Likely Oncogenic	Likely Gain-of-function	2
+GNAS	Q227R	Likely Oncogenic	Likely Gain-of-function	1
+IDH1	P33S	Likely Neutral	Likely Neutral	1
+IDH1	R49C	Likely Neutral	Loss-of-function	1
+IDH1	G70D	Likely Neutral	Loss-of-function	1
+IDH1	G97D	Likely Oncogenic	Switch-of-function	1
+IDH1	I99M	Likely Neutral	Likely Neutral	1
+IDH1	R100A	Likely Oncogenic	Switch-of-function	1
+IDH1	G123R	Likely Neutral	Loss-of-function	1
+IDH1	I130M	Likely Neutral	Likely Neutral	1
+IDH1	R132C	Oncogenic	Switch-of-function	2
+IDH1	R132G	Oncogenic	Switch-of-function	2
+IDH1	R132H	Oncogenic	Switch-of-function	7
+IDH1	R132L	Likely Oncogenic	Likely Switch-of-function	3
+IDH1	R132Q	Likely Oncogenic	Likely Switch-of-function	2
+IDH1	R132S	Likely Oncogenic	Switch-of-function	6
+IDH1	H133Q	Likely Neutral	Likely Neutral	1
+IDH1	A134D	Likely Neutral	Loss-of-function	1
+IDH1	Y139D	Likely Oncogenic	Switch-of-function	1
+IDH1	E190K	Likely Neutral	Likely Neutral	1
+IDH1	S280F	Inconclusive	Inconclusive	1
+IDH1	V294M	Likely Neutral	Likely Neutral	1
 IKZF1	Deletion	Likely Oncogenic	Loss-of-function	4
 JAK2	Amplification	Oncogenic	Gain-of-function	1
 JAK2	ATF7IP-JAK2 Fusion	Oncogenic	Gain-of-function	1
@@ -2026,6 +2179,7 @@ KRAS	D153V	Oncogenic	Gain-of-function	4
 KRAS	F156L	Oncogenic	Gain-of-function	3
 KRAS	R164Q	Inconclusive	Inconclusive	2
 MAF	IGH-MAF Fusion	Oncogenic	Likely Gain-of-function	7
+MAFB	IGH-MAFB Fusion	Oncogenic	Gain-of-function	8
 MAP2K1	Amplification	Inconclusive	Inconclusive	2
 MAP2K1	D16N	Likely Neutral	Likely Neutral	1
 MAP2K1	T28I	Inconclusive	Inconclusive	2
@@ -2398,6 +2552,28 @@ NRG1	ATP1B1-NRG1 fusion	Oncogenic	Gain-of-function	5
 NRG1	CD74-NRG1 fusion	Oncogenic	Gain-of-function	8
 NRG1	Fusions	Likely Oncogenic	Likely Gain-of-function	10
 NRG1	SLC3A2-NRG1 fusion	Oncogenic	Gain-of-function	4
+NTRK1	Amplification	Likely Oncogenic	Likely Gain-of-function	1
+NTRK1	CD74-NTRK1 Fusion	Likely Oncogenic	Likely Gain-of-function	1
+NTRK1	EPS15-NTRK1 Fusion	Likely Oncogenic	Likely Gain-of-function	4
+NTRK1	Fusions	Likely Oncogenic	Likely Gain-of-function	3
+NTRK1	LMNA-NTRK1 Fusion	Oncogenic	Gain-of-function	4
+NTRK1	MPRIP-NTRK1 Fusion	Likely Oncogenic	Likely Gain-of-function	1
+NTRK1	NFASC-NTRK1 Fusion	Likely Oncogenic	Likely Gain-of-function	2
+NTRK1	TFG-NTRK1 Fusion	Likely Oncogenic	Likely Gain-of-function	4
+NTRK1	TPR-NTRK1 Fusion	Likely Oncogenic	Likely Gain-of-function	6
+NTRK1	TRKAIII Splice Variant	Likely Oncogenic	Likely Gain-of-function	1
+NTRK1	Delta-NTRK1	Likely Oncogenic	Likely Gain-of-function	1
+NTRK1	G595R	Likely Oncogenic	Gain-of-function	3
+NTRK1	A608D	Inconclusive	Inconclusive	1
+NTRK1	G667A	Inconclusive	Inconclusive	1
+NTRK1	G667C	Likely Oncogenic	Likely Gain-of-function	4
+NTRK1	G667S	Inconclusive	Inconclusive	5
+NTRK1	V710A	Likely Neutral	Likely Loss-of-function	1
+NTRK2	ETV6-NTRK2 Fusion	Likely Oncogenic	Likely Gain-of-function	1
+NTRK2	Fusions	Likely Oncogenic	Likely Gain-of-function	8
+NTRK2	M713I	Likely Neutral	Likely Loss-of-function	1
+NTRK2	R715G	Likely Neutral	Likely Neutral	1
+NTRK2	R734C	Likely Neutral	Likely Loss-of-function	1
 NTRK3	BTBD1-NTRK3 Fusion	Oncogenic	Gain-of-function	1
 NTRK3	EML4-NTRK3 Fusion	Likely Oncogenic	Likely Gain-of-function	2
 NTRK3	ETV6-NTRK3 Fusion	Oncogenic	Gain-of-function	17
@@ -2419,6 +2595,9 @@ PALB2	N241D	Inconclusive	Inconclusive	1
 PALB2	L939W	Likely Oncogenic	Likely Loss-of-function	4
 PALB2	T1030I	Likely Oncogenic	Likely Loss-of-function	4
 PALB2	L1143P	Likely Oncogenic	Likely Loss-of-function	4
+PBRM1	Deletion	Likely Oncogenic	Likely Loss-of-function	5
+PBRM1	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	6
+PBRM1	N1333Gfs*	Oncogenic	Loss-of-function	1
 PDGFRA	Amplification	Oncogenic	Gain-of-function	5
 PDGFRA	BCR-PDGFRA Fusion	Likely Oncogenic	Likely Gain-of-function	3
 PDGFRA	CDK5RAP2-PDGFRA Fusion	Likely Oncogenic	Likely Gain-of-function	1
@@ -3005,14 +3184,84 @@ SF3B1	K700E	Likely Oncogenic	Switch-of-function	10
 SF3B1	K700R	Likely Oncogenic	Likely Switch-of-function	4
 SF3B1	G742D	Likely Oncogenic	Switch-of-function	5
 SF3B1	R957Q	Likely Oncogenic	Switch-of-function	1
+SMAD2	Deletion	Likely Oncogenic	Loss-of-function	8
+SMAD2	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	4
+SMAD2	S276L	Likely Oncogenic	Likely Loss-of-function	1
+SMAD2	D300H	Likely Oncogenic	Likely Loss-of-function	2
+SMAD2	D300N	Likely Oncogenic	Likely Loss-of-function	1
+SMAD2	P305L	Likely Oncogenic	Likely Loss-of-function	1
+SMAD2	R310H	Likely Oncogenic	Likely Loss-of-function	1
+SMAD2	V319D	Likely Oncogenic	Likely Loss-of-function	1
+SMAD2	R321Q	Likely Oncogenic	Loss-of-function	2
+SMAD2	F346V	Likely Neutral	Likely Neutral	1
+SMAD2	W368H	Likely Neutral	Likely Neutral	2
+SMAD2	K375A	Inconclusive	Inconclusive	1
+SMAD2	N387P	Inconclusive	Inconclusive	1
+SMAD2	Y406H	Inconclusive	Inconclusive	1
+SMAD2	T413N	Likely Oncogenic	Likely Loss-of-function	1
+SMAD2	K420A	Likely Oncogenic	Likely Loss-of-function	2
+SMAD2	Y426A	Likely Oncogenic	Likely Loss-of-function	2
+SMAD2	R428A	Inconclusive	Inconclusive	1
+SMAD2	D450E	Likely Oncogenic	Likely Loss-of-function	1
+SMAD2	D450H	Likely Oncogenic	Likely Loss-of-function	1
+SMAD2	S465A	Likely Oncogenic	Likely Loss-of-function	1
+SMAD2	S467A	Likely Oncogenic	Likely Loss-of-function	1
+SMAD2	S467P	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	Deletion	Likely Oncogenic	Loss-of-function	8
+SMAD4	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	5
+SMAD4	L43V	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	R100T	Likely Oncogenic	Loss-of-function	2
+SMAD4	P102L	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	P130S	Likely Oncogenic	Loss-of-function	1
+SMAD4	H132Y	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	C324Y	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	E330A	Likely Oncogenic	Loss-of-function	1
+SMAD4	E330G	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	E330K	Likely Oncogenic	Loss-of-function	1
+SMAD4	D351H	Likely Oncogenic	Loss-of-function	5
+SMAD4	Y353L	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	Y353S	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	D357Y	Likely Oncogenic	Loss-of-function	1
+SMAD4	R361C	Likely Oncogenic	Loss-of-function	4
+SMAD4	V370D	Likely Oncogenic	Likely Loss-of-function	5
+SMAD4	R378A	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	W398V	Inconclusive	Inconclusive	1
+SMAD4	G419V	Likely Oncogenic	Loss-of-function	1
+SMAD4	R420H	Likely Oncogenic	Likely Neutral	2
+SMAD4	K428A	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	R441P	Likely Neutral	Likely Neutral	3
+SMAD4	V465M	Inconclusive	Inconclusive	1
+SMAD4	D493A	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	D493H	Likely Oncogenic	Loss-of-function	2
+SMAD4	R496H	Likely Oncogenic	Loss-of-function	1
+SMAD4	R497H	Likely Oncogenic	Loss-of-function	1
+SMAD4	K507A	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	K507Q	Likely Oncogenic	Likely Loss-of-function	1
+SMAD4	G508S	Likely Oncogenic	Likely Loss-of-function	2
+SMAD4	W509R	Inconclusive	Inconclusive	1
+SMAD4	Y513A	Inconclusive	Inconclusive	1
+SMAD4	R515A	Likely Oncogenic	Loss-of-function	1
+SMAD4	R515G	Likely Oncogenic	Loss-of-function	1
+SMAD4	A532H	Likely Oncogenic	Loss-of-function	1
+SMAD4	D537E	Likely Oncogenic	Loss-of-function	3
+SMAD4	D537Y	Oncogenic	Loss-of-function	2
 SMARCB1	Deletion	Likely Oncogenic	Likely Loss-of-function	8
 SMARCB1	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	6
+SOX9	Deletion	Oncogenic	Loss-of-function	5
+SOX9	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	2
+SOX9	F12L	Likely Oncogenic	Loss-of-function	1
+SOX9	A19V	Likely Neutral	Neutral	1
+SOX9	H65Y	Likely Oncogenic	Loss-of-function	1
+SOX9	P70R	Likely Oncogenic	Likely Loss-of-function	1
+SOX9	L142P	Likely Oncogenic	Loss-of-function	1
+SOX9	K398A	Likely Oncogenic	Gain-of-function	1
 STAG2	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	4
 SUZ12	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	1
 SUZ12	F603L	Likely Oncogenic	Likely Loss-of-function	1
 SUZ12	D605V	Likely Oncogenic	Likely Loss-of-function	1
 SUZ12	E610G	Likely Oncogenic	Likely Loss-of-function	1
 SUZ12	E610V	Likely Oncogenic	Likely Loss-of-function	1
+TCF7L2	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	5
 TP53	Deletion	Likely Oncogenic	Likely Loss-of-function	7
 TP53	Truncating Mutations	Likely Oncogenic	Likely Loss-of-function	6
 TP53	P47S	Likely Neutral	Neutral	1

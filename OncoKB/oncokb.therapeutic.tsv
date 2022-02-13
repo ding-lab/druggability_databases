@@ -212,6 +212,7 @@ CDK12	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	1
 CDK12	4	Truncating Mutations	All Solid Tumors	Pembrolizumab, Nivolumab, Cemiplimab	1
 CDK4	4	Amplification	Dedifferentiated Liposarcoma, Well-Differentiated Liposarcoma	Abemaciclib, Palbociclib	2
 CDKN2A	4	Oncogenic Mutations	All Solid Tumors	Abemaciclib, Palbociclib, Ribociclib	5
+CHEK2	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	1
 EGFR	1	Exon 19 deletion	Non-Small Cell Lung Cancer	Afatinib	3
 EGFR	1	Exon 19 deletion	Non-Small Cell Lung Cancer	Dacomitinib	2
 EGFR	1	Exon 19 deletion	Non-Small Cell Lung Cancer	Erlotinib, Erlotinib + Ramucirumab	2
@@ -270,6 +271,13 @@ ERBB2	2	Oncogenic Mutations	Non-Small Cell Lung Cancer	Trastuzumab Deruxtecan	1
 ERBB2	3A	Oncogenic Mutations	Breast Cancer	Neratinib	3
 ERBB2	3A	Oncogenic Mutations	Non-Small Cell Lung Cancer	Neratinib	2
 ESR1	3A	Oncogenic Mutations	Breast Cancer	AZD9496, Fulvestrant	3
+EZH2	1	A692V	Follicular Lymphoma	Tazemetostat	1
+EZH2	1	Y646C	Follicular Lymphoma	Tazemetostat	1
+EZH2	1	Y646F	Follicular Lymphoma	Tazemetostat	1
+EZH2	1	Y646H	Follicular Lymphoma	Tazemetostat	1
+EZH2	1	Y646N	Follicular Lymphoma	Tazemetostat	1
+EZH2	1	Y646S	Follicular Lymphoma	Tazemetostat	1
+EZH2	2	Oncogenic Mutations (excluding Y646S, Y646H, Y646C, Y646F, Y646N, A682G and A692V)	Follicular Lymphoma	Tazemetostat	1
 FANCL	1	Oncogenic Mutations	Prostate Cancer, NOS, Prostate Cancer	Olaparib	1
 FGFR1	2	Fusions	Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement	Pemigatinib	2
 FGFR1	3A	Amplification	Lung Squamous Cell Carcinoma	Erdafitinib, Debio1347, Infigratinib	5
@@ -296,6 +304,14 @@ FLT3	1	Internal tandem duplication	Acute Myeloid Leukemia	Midostaurin + High Dos
 FLT3	3A	Internal tandem duplication	Acute Myeloid Leukemia	Crenolanib	2
 FLT3	3A	Internal tandem duplication	Acute Myeloid Leukemia	Quizartinib	4
 FLT3	3A	Internal tandem duplication	Acute Myeloid Leukemia	Sorafenib	2
+IDH1	1	R132	Cholangiocarcinoma, Intrahepatic Cholangiocarcinoma	Ivosidenib	2
+IDH1	1	R132C	Acute Myeloid Leukemia	Ivosidenib	4
+IDH1	1	R132G	Acute Myeloid Leukemia	Ivosidenib	4
+IDH1	1	R132H	Acute Myeloid Leukemia	Ivosidenib	4
+IDH1	1	R132L	Acute Myeloid Leukemia	Ivosidenib	4
+IDH1	1	R132S	Acute Myeloid Leukemia	Ivosidenib	4
+IDH1	2	Oncogenic Mutations	Chondrosarcoma	Ivosidenib	1
+IDH1	3A	R132	Glioma	Ivosidenib	2
 JAK2	2	Fusions	Myeloid/Lymphoid Neoplasms with Eosinophilia and Rearrangement of  PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2	Ruxolitinib, Fedratinib	4
 JAK2	3A	PCM1-JAK2 Fusion	Chronic Eosinophilic Leukemia, NOS	Ruxolitinib	8
 KDM6A	4	Oncogenic Mutations	Bladder Cancer	Tazemetostat	3
@@ -715,6 +731,12 @@ NRAS	3A	Oncogenic Mutations	Melanoma	Binimetinib	2
 NRAS	3A	Oncogenic Mutations	Thyroid Cancer	Iodine I 131-6-Beta-Iodomethyl-19-Norcholesterol + Selumetinib	2
 NRAS	4	Oncogenic Mutations	Melanoma	Binimetinib + Ribociclib	4
 NRG1	3A	Fusions	All Solid Tumors	Zenocutuzumab	1
+NTRK1	1	Fusions	All Solid Tumors	Entrectinib	5
+NTRK1	1	Fusions	All Solid Tumors	Larotrectinib	2
+NTRK1	R1	G595R	All Solid Tumors	Larotrectinib	9
+NTRK1	R2	G595R	All Solid Tumors	Entrectinib	3
+NTRK2	1	Fusions	All Solid Tumors	Entrectinib	5
+NTRK2	1	Fusions	All Solid Tumors	Larotrectinib	2
 NTRK3	1	Fusions	All Solid Tumors	Entrectinib	5
 NTRK3	1	Fusions	All Solid Tumors	Larotrectinib	2
 NTRK3	R1	F617L	All Solid Tumors	Larotrectinib	2
