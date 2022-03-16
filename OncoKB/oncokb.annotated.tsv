@@ -162,8 +162,8 @@ APC	R640G	Oncogenic	Loss-of-function	1
 APC	N1026S	Likely Oncogenic	Loss-of-function	1
 APC	I1307K	Inconclusive	Inconclusive	1
 AR	Amplification	Likely Oncogenic	Likely Gain-of-function	6
-AR	AR-V7	Oncogenic	Gain-of-function	3
-AR	ARv567es	Oncogenic	Gain-of-function	3
+AR	AR-V7_splice	Oncogenic	Gain-of-function	3
+AR	ARv567es_splice	Oncogenic	Gain-of-function	3
 AR	L57del	Likely Neutral	Likely Neutral	1
 AR	L57Q	Likely Neutral	Loss-of-function	1
 AR	Q58_Q59insL	Likely Neutral	Likely Loss-of-function	1
