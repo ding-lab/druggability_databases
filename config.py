@@ -61,3 +61,11 @@ evidence_level_anno = {
     # Miscellaneous
     '-': '-',
 }
+
+# HUGO gene names
+hgnc_files = {
+    'gene_list': druggability_databases_path + '/HGNC/' + 'hgnc_complete_set.txt',
+}
+hgnc_params = {
+    'upstream_version': '2022-03-01',
+}
