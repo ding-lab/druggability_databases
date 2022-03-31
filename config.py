@@ -1,5 +1,5 @@
 
-druggability_databases_path = 'druggability_databases'
+# This directory is named 'druggability_databases'
 
 # Read preprocessed DrugBank
 drugbank_files = {
@@ -8,23 +8,23 @@ drugbank_files = {
 
 # Read in CIViC
 civic_files = {
-    'assertions':    druggability_databases_path + '/CIViC/' + '01-Oct-2021-AssertionSummaries.tsv',
-    'genes':         druggability_databases_path + '/CIViC/' + '01-Oct-2021-GeneSummaries.tsv',
-    'variants':      druggability_databases_path + '/CIViC/' + '01-Oct-2021-VariantSummaries.lifted.tsv',
-    'evidence':      druggability_databases_path + '/CIViC/' + '01-Oct-2021-ClinicalEvidenceSummaries.tsv',
-    'variantgroups': druggability_databases_path + '/CIViC/' + '01-Oct-2021-VariantGroupSummaries.tsv',
-    'variants_preprocessed':      druggability_databases_path + '/CIViC/' + '01-Oct-2021-VariantSummaries.preprocessed.tsv',
+    'assertions':            'CIViC/01-Oct-2021-AssertionSummaries.tsv',
+    'genes':                 'CIViC/01-Oct-2021-GeneSummaries.tsv',
+    'variants':              'CIViC/01-Oct-2021-VariantSummaries.lifted.tsv',
+    'evidence':              'CIViC/01-Oct-2021-ClinicalEvidenceSummaries.tsv',
+    'variantgroups':         'CIViC/01-Oct-2021-VariantGroupSummaries.tsv',
+    'variants_preprocessed': 'CIViC/01-Oct-2021-VariantSummaries.preprocessed.tsv',
 }
 civic_params = {
     'ref_build_liftover': 'GRCh38',
-    'upstream_version': '01-Oct-2021',
+    'upstream_version':   '01-Oct-2021',
 }
 
 
 # Read in current oncokb
 oncokb_files = {
-    'variants':      druggability_databases_path + '/OncoKB/' + 'oncokb.annotated.tsv',
-    'therapeutics':  druggability_databases_path + '/OncoKB/' + 'oncokb.therapeutic.tsv',
+    'variants':      'OncoKB/oncokb.annotated.tsv',
+    'therapeutics':  'OncoKB/oncokb.therapeutic.tsv',
 }
 oncokb_params = {
     'date_accessed': '',
@@ -32,10 +32,12 @@ oncokb_params = {
 
 # Read in gzipped fasta protein file
 uniprot_files = {
-    'fasta':         druggability_databases_path + '/Uniprot/' + 'uniprot_sprot.fasta.human.tsv.gz',
+    'fasta':         'Uniprot/uniprot_sprot.fasta.human.tsv.gz',
 }
 uniprot_params = {
     'upstream_version': '',
+    'date_accessed':    '2022-01-24',
+    'md5':              '9d9a5ad72da1e590091a225d654570b1',
 }
 
 evidence_level_anno = {
@@ -64,7 +66,7 @@ evidence_level_anno = {
 
 # HUGO gene names
 hgnc_files = {
-    'gene_list': druggability_databases_path + '/HGNC/' + 'hgnc_complete_set.txt',
+    'gene_list':        'HGNC/hgnc_complete_set.txt',
 }
 hgnc_params = {
     'upstream_version': '2022-03-01',
