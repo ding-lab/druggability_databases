@@ -141,7 +141,7 @@ variant_id	gene	entrez_id	variant	variant_types	comment	conditions	condition_2_t
 168	BTK	695	C481S	missense_variant		1				-
 169	AKT1	207	Q79K	missense_variant		1				-
 170	ALK	238	EML4-ALK	transcript_fusion,transcript_amplification		2	transcript_amplification	Amplification		-
-171	ALK	238	*-ALK G1202R	missense_variant,transcript_fusion,any_mate		2	missense_variant	G1202R		-
+171	ALK	238	*-ALK	missense_variant,transcript_fusion,any_mate		2	missense_variant	G1202R		-
 172	ALK	238	EML4-ALK	missense_variant,transcript_fusion		2	missense_variant	S1206Y		-
 173	ALK	238	EML4-ALK	inframe_insertion,transcript_fusion		2	missense_variant	T1151insT		-
 174	APC	324	*			0				-
