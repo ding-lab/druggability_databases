@@ -1,0 +1,736 @@
+
+
+{
+	'clinical_study': 
+		{
+			'@rank': "411",
+			'required_header': 
+				{
+					'download_date': "ClinicalTrials.gov processed this data on February 21, 2022",
+					'link_text': "Link to the current ClinicalTrials.gov record.",
+					'url': "https://clinicaltrials.gov/show/NCT03071757"
+				},
+			'id_info': 
+				{
+					'org_study_id': "M16-074",
+					'secondary_id': "2016-004205-14",
+					'nct_id': "NCT03071757"
+				},
+			'brief_title': "A Study of the Safety, Tolerability and Pharmacokinetics of ABBV-368 as a Single Agent and Combination in Subjects With Locally Advanced or Metastatic Solid Tumors",
+			'official_title': "A Multicenter, Phase 1, Open-Label, Dose-Escalation Study of the Safety, Tolerability and Pharmacokinetics of ABBV-368 as a Single Agent and Combination in Subjects With Locally Advanced or Metastatic Solid Tumors",
+			'sponsors': 
+				{
+					'lead_sponsor': 
+						{
+							'agency': "AbbVie",
+							'agency_class': "Industry"
+						}
+				},
+			'source': "AbbVie",
+			'oversight_info': 
+				{
+					'has_dmc': "No",
+					'is_fda_regulated_drug': "Yes",
+					'is_fda_regulated_device': "No",
+					'is_us_export': "No"
+				},
+			'brief_summary': 
+				{
+					'textblock': "The primary purpose of this Phase 1, open-label study is to evaluate the safety,
+					      pharmacokinetics, and preliminary efficacy of ABBV-368 as a monotherapy and in combination
+					      with ABBV-181 in participants with locally advanced or metastatic solid tumors. The study
+					      will consist of 3 parts: ABBV-368 dose escalation, ABBV-368 tumor-specific dose expansion
+					      (triple negative breast cancer [TNBC] cohort and head and neck cancer cohort) and 18F-AraG
+					      Imaging Substudy."
+				},
+			'detailed_description': 
+				{
+					'textblock': "Recruitment is closed in Part 1A; subjects are in maintenance"
+				},
+			'overall_status': "Active, not recruiting",
+			'start_date': 
+				{
+					'@type': "Actual",
+					'#text': "March 21, 2017"
+				},
+			'completion_date': 
+				{
+					'@type': "Anticipated",
+					'#text': "February 25, 2022"
+				},
+			'primary_completion_date': 
+				{
+					'@type': "Anticipated",
+					'#text': "February 25, 2022"
+				},
+			'phase': "Phase 1",
+			'study_type': "Interventional",
+			'has_expanded_access': "No",
+			'study_design_info': 
+				{
+					'allocation': "Non-Randomized",
+					'intervention_model': "Parallel Assignment",
+					'primary_purpose': "Treatment",
+					'masking': "None (Open Label)"
+				},
+			'primary_outcome': 
+				[
+					0: 
+						{
+							'measure': "Terminal half-life (t1/2) of ABBV-368",
+							'time_frame': "Multiple time points in each cycle (each cycle is 28 days), throughout study completion, an average of 2 years, or participant becomes lost to follow up, or study termination",
+							'description': "Terminal half-life of ABBV-368"
+						},
+					1: 
+						{
+							'measure': "Area under the serum concentration-time curve (AUC) of ABBV-368",
+							'time_frame': "Multiple time points in each cycle (each cycle is 28 days), throughout study completion, an average of 2 years, or participant becomes lost to follow up, or study termination",
+							'description': "Area under the serum concentration-time curve of ABBV-368"
+						},
+					2: 
+						{
+							'measure': "Maximum tolerated dose (MTD) of ABBV-368 when administered as monotherapy or in combination with ABBV-181",
+							'time_frame': "Up to 1 year",
+							'description': "The MTD of ABBV-368 when administered as monotherapy or as combination therapy with ABBV-181 will be determined during the dose escalation phase of the study."
+						},
+					3: 
+						{
+							'measure': "Recommended Phase 2 dose (RPTD) for ABBV-368 when administered as monotherapy or as combination therapy with ABBV-181",
+							'time_frame': "Up to 18 months",
+							'description': "Recommended Phase 2 dose (RPTD) for ABBV-368 when administered as monotherapy or as combination therapy with ABBV-181 will be established during the Dose expansion of the study"
+						},
+					4: 
+						{
+							'measure': "Time to Cmax (Tmax) of ABBV-368",
+							'time_frame': "Multiple time points in each cycle (each cycle is 28 days), throughout study completion, an average of 2 years, or participant becomes lost to follow up, or study termination",
+							'description': "Time to Cmax of ABBV-368"
+						},
+					5: 
+						{
+							'measure': "Terminal phase elimination rate constant (β) of ABBV-368",
+							'time_frame': "Multiple time points in each cycle (each cycle is 28 days), throughout study completion, an average of 2 years, or participant becomes lost to follow up, or study termination",
+							'description': "Terminal phase elimination rate constant of ABBV-368"
+						},
+					6: 
+						{
+							'measure': "Number of Participants With Adverse Events",
+							'time_frame': "Multiple time points in each cycle (each cycle is 28 days), throughout study completion, an average of 2 years, or participant becomes lost to follow up, or study termination",
+							'description': "An adverse event (AE) is defined as any untoward medical occurrence in a patient or clinical investigation subject administered a pharmaceutical product and which does not necessarily have a causal relationship with this treatment. The investigator assessed the relationship of each event to the use of study drug as either reasonable possibility or no reasonable possibility. A serious adverse event (SAE) is an event that results in death, is life-threatening, requires or prolongs hospitalization, results in a congenital anomaly, persistent or significant disability/incapacity or is an important medical event that, based on medical judgment, may jeopardize the subject and may require medical or surgical intervention to prevent any of the outcomes listed above. Treatment-emergent events (TEAEs/TESAEs) are defined as any event that began or worsened in severity after the first dose of study drug. For more details on adverse events please see the Adverse Event section."
+						},
+					7: 
+						{
+							'measure': "Maximum observed serum concentration (Cmax) of ABBV-368",
+							'time_frame': "Multiple time points in each cycle (each cycle is 28 days), throughout study completion, an average of 2 years, or participant becomes lost to follow up, or study termination",
+							'description': "Maximum observed serum concentration of ABBV-368"
+						}
+				],
+			'secondary_outcome': 
+				[
+					0: 
+						{
+							'measure': "Objective Response Rate (ORR)",
+							'time_frame': "Multiple time points in each cycle (each cycle is 28 days), throughout study completion, an average of 2 years, or participant becomes lost to follow up, or study termination",
+							'description': "ORR is defined as the proportion of subjects with a confirmed partial or complete response to the treatment."
+						},
+					1: 
+						{
+							'measure': "Clinical benefit rate (CBR)",
+							'time_frame': "Multiple time points in each cycle (each cycle is 28 days), throughout study completion, an average of 2 years, or participant becomes lost to follow up, or study termination",
+							'description': "CBR defined as the proportion of subjects with a confirmed partial response (PR), complete response (CR), or stable disease."
+						},
+					2: 
+						{
+							'measure': "Duration of Objective Response (DOR)",
+							'time_frame': "Multiple time points in each cycle (each cycle is 28 days), throughout study completion, an average of 2 years, or participant becomes lost to follow up, or study termination",
+							'description': "DOR defined as the time from the initial objective response to disease progression or death, whichever occurs first."
+						},
+					3: 
+						{
+							'measure': "Progression-Free Survival (PFS)",
+							'time_frame': "Multiple time points in each cycle (each cycle is 28 days), throughout study completion, an average of 2 years, or participant becomes lost to follow up, or study termination",
+							'description': "PFS time is defined as the time from the first dose of study drug (Day 1) to disease progression or death, whichever occurs first."
+						}
+				],
+			'number_of_arms': "5",
+			'enrollment': 
+				{
+					'@type': "Anticipated",
+					'#text': "170"
+				},
+			'condition': "Advanced Solid Tumors Cancer",
+			'arm_group': 
+				[
+					0: 
+						{
+							'arm_group_label': "Part 3B: 18F-AraG Imaging Substudy in HNSCC Participants",
+							'arm_group_type': "Experimental",
+							'description': "Part 3B: Additional participants (with HNSCC) will be enrolled in 18F-AraG Imaging Substudy that will further evaluate ABBV-368 intravenous administration Q4W plus ABBV-181."
+						},
+					1: 
+						{
+							'arm_group_label': "Part 3A: 18F-AraG Imaging Substudy in TNBC Participants",
+							'arm_group_type': "Experimental",
+							'description': "Part 3A: Additional participants (with TNBC) will be enrolled in 18F-AraG Imaging Substudy that will further evaluate ABBV-368 intravenous administration Q4W plus ABBV-181."
+						},
+					2: 
+						{
+							'arm_group_label': "Part 2B: Combination Therapy Cohort Expansion",
+							'arm_group_type': "Experimental",
+							'description': "Part 2B: Additional participants (with Head and Neck carcinoma) will be enrolled in a dose expansion cohort that will further evaluate ABBV-368 (various dose levels) intravenous administration Q4W plus ABBV-181."
+						},
+					3: 
+						{
+							'arm_group_label': "Part 2A: Monotherapy Cohort Expansion",
+							'arm_group_type': "Experimental",
+							'description': "Part 2A: Additional participants (triple negative breast cancer [TNBC]) will be enrolled in a dose expansion cohort that will further evaluate ABBV-368 (various dose levels) intravenous administration Q4W."
+						},
+					4: 
+						{
+							'arm_group_label': "Part 1A: Monotherapy Dose Escalation",
+							'arm_group_type': "Experimental",
+							'description': "Part 1A: ABBV-368 (various dose levels) intravenous administration every 2 weeks (Q2W). One cycle of treatment is 28 days, thus there will be 2 doses with ABBV-368 per cycle."
+						}
+				],
+			'intervention': 
+				[
+					0: 
+						{
+							'intervention_type': "Drug",
+							'intervention_name': "ABBV-368",
+							'description': "Intravenous infusion",
+							'arm_group_label': 
+								[
+									0: "Part 1A: Monotherapy Dose Escalation",
+									1: "Part 2A: Monotherapy Cohort Expansion",
+									2: "Part 2B: Combination Therapy Cohort Expansion",
+									3: "Part 3A: 18F-AraG Imaging Substudy in TNBC Participants",
+									4: "Part 3B: 18F-AraG Imaging Substudy in HNSCC Participants"
+								]
+						},
+					1: 
+						{
+							'intervention_type': "Drug",
+							'intervention_name': "ABBV-181",
+							'description': "Intravenous infusion",
+							'arm_group_label': 
+								[
+									0: "Part 2B: Combination Therapy Cohort Expansion",
+									1: "Part 3A: 18F-AraG Imaging Substudy in TNBC Participants",
+									2: "Part 3B: 18F-AraG Imaging Substudy in HNSCC Participants"
+								]
+						}
+				],
+			'eligibility': 
+				{
+					'criteria': 
+						{
+							'textblock': "Inclusion Criteria:
+							
+							          -  Participants must have histologic or cytology diagnosis of a known immunogenic solid
+							             tumor, as described for Part 1 Dose Escalation and Part 2 Cohort Expansion:
+							
+							          -  Part 1 Dose Escalation:
+							
+							          -  Participants with advanced or metastatic solid tumors that have exhausted standard
+							             treatment for their incurable disease and for whom there is currently no programmed
+							             cell death 1 (PD-1)/ programmed cell death-ligand 1 (PD-L1) approved therapy, with
+							             immunogenic type tumors such as, but not limited to triple negative breast cancer
+							             (TNBC), ovarian cancer, small cell lung cancer, mesothelioma, and cholangiocarcinoma.
+							
+							          -  Participants who are refractory to a PD-1/PD-L1 agent, with tumor types such as
+							             melanoma, NSCLC, platinum-pretreated head and neck cancer, second line bladder and
+							             RCC.
+							
+							          -  Part 2A and 2B Cohort Expansion:
+							
+							          -  2A : TNBC ABBV-368 monotherapy cohorts: Subjects with locally advanced or metastatic
+							             TNBC that have exhausted standard treatment for their incurable disease.
+							
+							          -  2B : Head and Neck cohort: Participants with recurrent squamous cell head and neck
+							             carcinoma that are not candidates for curative treatment with local or systemic
+							             therapy, or metastatic (disseminated) head and neck squamous cell carcinoma of the
+							             oral cavity, oropharynx, hypopharynx, and larynx that is considered incurable by local
+							             therapies.
+							
+							          -  Part 3A and 3B Imaging Substudy:
+							
+							          -  3A: Participants with locally advanced or metastatic TNBC that have exhausted standard
+							             treatment for their incurable disease and are treatment naïve to a PD-1/PD-L1
+							             targeting agent.
+							
+							          -  3B: Participants with recurrent HNSCC that are not candidates for curative treatment
+							             with local or systemic therapy, or metastatic HNSCC of the oral cavity, oropharynx,
+							             hypopharynx, and larynx that is considered incurable by local therapies. Participants
+							             must be treatment naïve to a PD-1/PD-L1 targeting agent.
+							
+							          -  Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) of 0 to 2.
+							
+							          -  Participants must have immune-related Response Evaluation Criteria for Solid Tumors
+							             (iRECIST) evaluable or measurable disease in the PART 1 and measurable disease per
+							             iRECIST in PART 2
+							
+							          -  Adequate bone marrow, kidney and liver function.
+							
+							        Exclusion Criteria:
+							
+							          -  Received anticancer therapy including chemotherapy, immunotherapy, radiation therapy,
+							             biologic, herbal therapy, or any investigational therapy within a period of 21 days
+							             prior to the first dose of ABBV-368.
+							
+							          -  Prior treatment with an OX40 targeting agent.
+							
+							          -  has known uncontrolled metastases to the central nervous system (CNS).
+							
+							          -  History of active autoimmune disorders and other conditions that compromise or impair
+							             the immune system.
+							
+							          -  Confirmed positive test results for human immunodeficiency virus (HIV), or subjects
+							             with chronic or active hepatitis A, B or C. Subjects who have a history of hepatitis B
+							             or C who have documented cures after anti-viral therapy may be enrolled.
+							
+							          -  Has received live vaccine within 28 days prior to the first dose of study drug."
+						},
+					'gender': "All",
+					'minimum_age': "18 Years",
+					'maximum_age': "N/A",
+					'healthy_volunteers': "No"
+				},
+			'overall_official': 
+				{
+					'last_name': "ABBVIE INC.",
+					'role': "Study Director",
+					'affiliation': "AbbVie"
+				},
+			'location': 
+				[
+					0: 
+						{
+							'facility': 
+								{
+									'name': "Moores Cancer Center at UC San Diego /ID# 201334",
+									'address': 
+										{
+											'city': "La Jolla",
+											'state': "California",
+											'zip': "92093",
+											'country': "United States"
+										}
+								}
+						},
+					1: 
+						{
+							'facility': 
+								{
+									'name': "University of California, Davis Comprehensive Cancer Center /ID# 201342",
+									'address': 
+										{
+											'city': "Sacramento",
+											'state': "California",
+											'zip': "95817",
+											'country': "United States"
+										}
+								}
+						},
+					2: 
+						{
+							'facility': 
+								{
+									'name': "Stanford University /ID# 206949",
+									'address': 
+										{
+											'city': "Stanford",
+											'state': "California",
+											'zip': "94305",
+											'country': "United States"
+										}
+								}
+						},
+					3: 
+						{
+							'facility': 
+								{
+									'name': "Yale University /ID# 207895",
+									'address': 
+										{
+											'city': "New Haven",
+											'state': "Connecticut",
+											'zip': "06510",
+											'country': "United States"
+										}
+								}
+						},
+					4: 
+						{
+							'facility': 
+								{
+									'name': "Carolina BioOncology Institute /ID# 160786",
+									'address': 
+										{
+											'city': "Huntersville",
+											'state': "North Carolina",
+											'zip': "28078",
+											'country': "United States"
+										}
+								}
+						},
+					5: 
+						{
+							'facility': 
+								{
+									'name': "Greenville Hospital System /ID# 160785",
+									'address': 
+										{
+											'city': "Greenville",
+											'state': "South Carolina",
+											'zip': "29605",
+											'country': "United States"
+										}
+								}
+						},
+					6: 
+						{
+							'facility': 
+								{
+									'name': "University of Texas Southwestern Medical Center /ID# 201934",
+									'address': 
+										{
+											'city': "Dallas",
+											'state': "Texas",
+											'zip': "75390-7208",
+											'country': "United States"
+										}
+								}
+						},
+					7: 
+						{
+							'facility': 
+								{
+									'name': "South Texas Accelerated Research Therapeutics /ID# 160788",
+									'address': 
+										{
+											'city': "San Antonio",
+											'state': "Texas",
+											'zip': "78229",
+											'country': "United States"
+										}
+								}
+						},
+					8: 
+						{
+							'facility': 
+								{
+									'name': "University of Virginia /ID# 212895",
+									'address': 
+										{
+											'city': "Charlottesville",
+											'state': "Virginia",
+											'zip': "22908",
+											'country': "United States"
+										}
+								}
+						},
+					9: 
+						{
+							'facility': 
+								{
+									'name': "Virginia Cancer Specialists - Fairfax /ID# 160787",
+									'address': 
+										{
+											'city': "Fairfax",
+											'state': "Virginia",
+											'zip': "22031",
+											'country': "United States"
+										}
+								}
+						},
+					10: 
+						{
+							'facility': 
+								{
+									'name': "AP-HM - Hopital de la Timone /ID# 165036",
+									'address': 
+										{
+											'city': "Marseille CEDEX 05",
+											'state': "Bouches-du-Rhone",
+											'zip': "13385",
+											'country': "France"
+										}
+								}
+						},
+					11: 
+						{
+							'facility': 
+								{
+									'name': "Institut Curie /ID# 165038",
+									'address': 
+										{
+											'city': "Paris CEDEX 05",
+											'state': "Ile-de-France",
+											'zip': "75248",
+											'country': "France"
+										}
+								}
+						},
+					12: 
+						{
+							'facility': 
+								{
+									'name': "Centre Leon Berard /ID# 165037",
+									'address': 
+										{
+											'city': "Lyon CEDEX 08",
+											'state': "Rhone",
+											'zip': "69373",
+											'country': "France"
+										}
+								}
+						},
+					13: 
+						{
+							'facility': 
+								{
+									'name': "Institut Gustave Roussy /ID# 165035",
+									'address': 
+										{
+											'city': "Villejuif Cedex",
+											'state': "Val-de-Marne",
+											'zip': "94805",
+											'country': "France"
+										}
+								}
+						},
+					14: 
+						{
+							'facility': 
+								{
+									'name': "National Cancer Center Hospital East /ID# 214530",
+									'address': 
+										{
+											'city': "Kashiwa-shi",
+											'state': "Chiba",
+											'zip': "277-8577",
+											'country': "Japan"
+										}
+								}
+						},
+					15: 
+						{
+							'facility': 
+								{
+									'name': "National Cancer Center Hospital /ID# 214531",
+									'address': 
+										{
+											'city': "Chuo-ku",
+											'state': "Tokyo",
+											'zip': "104-0045",
+											'country': "Japan"
+										}
+								}
+						},
+					16: 
+						{
+							'facility': 
+								{
+									'name': "Pan American Center for Oncology Trials, LLC /ID# 213809",
+									'address': 
+										{
+											'city': "Rio Piedras",
+											'zip': "00935",
+											'country': "Puerto Rico"
+										}
+								}
+						},
+					17: 
+						{
+							'facility': 
+								{
+									'name': "Hospital Duran i Reynals /ID# 205997",
+									'address': 
+										{
+											'city': "Hospitalet de Llobregat",
+											'state': "Barcelona",
+											'zip': "08907",
+											'country': "Spain"
+										}
+								}
+						},
+					18: 
+						{
+							'facility': 
+								{
+									'name': "Hospital Universitario Puerta de Hierro, Majadahonda /ID# 206973",
+									'address': 
+										{
+											'city': "Majadahonda",
+											'state': "Madrid",
+											'zip': "28222",
+											'country': "Spain"
+										}
+								}
+						},
+					19: 
+						{
+							'facility': 
+								{
+									'name': "CLINICA UNIVERSIDAD DE NAVARRA-Pamplona /ID# 208879",
+									'address': 
+										{
+											'city': "Pamplona",
+											'state': "Navarra",
+											'zip': "31008",
+											'country': "Spain"
+										}
+								}
+						},
+					20: 
+						{
+							'facility': 
+								{
+									'name': "Hospital General Universitario Gregorio Maranon /ID# 205999",
+									'address': 
+										{
+											'city': "Madrid",
+											'zip': "28007",
+											'country': "Spain"
+										}
+								}
+						},
+					21: 
+						{
+							'facility': 
+								{
+									'name': "CLINICA UNIVERSIDAD DE NAVARRA-Madrid /ID# 205996",
+									'address': 
+										{
+											'city': "Madrid",
+											'zip': "28027",
+											'country': "Spain"
+										}
+								}
+						},
+					22: 
+						{
+							'facility': 
+								{
+									'name': "Hospital Universitario Fundacion Jimenez Diaz /ID# 211500",
+									'address': 
+										{
+											'city': "Madrid",
+											'zip': "28040",
+											'country': "Spain"
+										}
+								}
+						},
+					23: 
+						{
+							'facility': 
+								{
+									'name': "Hospital Clinico Universitario de Valencia /ID# 211499",
+									'address': 
+										{
+											'city': "Valencia",
+											'zip': "46010",
+											'country': "Spain"
+										}
+								}
+						},
+					24: 
+						{
+							'facility': 
+								{
+									'name': "National Cheng Kung University Hospital /ID# 164002",
+									'address': 
+										{
+											'city': "Tainan",
+											'zip': "704",
+											'country': "Taiwan"
+										}
+								}
+						},
+					25: 
+						{
+							'facility': 
+								{
+									'name': "National Taiwan University Hospital /ID# 164000",
+									'address': 
+										{
+											'city': "Taipei City",
+											'zip': "100",
+											'country': "Taiwan"
+										}
+								}
+						},
+					26: 
+						{
+							'facility': 
+								{
+									'name': "Taipei Medical University Hospital /ID# 164001",
+									'address': 
+										{
+											'city': "Taipei City",
+											'zip': "11031",
+											'country': "Taiwan"
+										}
+								}
+						}
+				],
+			'location_countries': 
+				{
+					'country': 
+						[
+							0: "France",
+							1: "Japan",
+							2: "Puerto Rico",
+							3: "Spain",
+							4: "Taiwan",
+							5: "United States"
+						]
+				},
+			'verification_date': "January 2022",
+			'study_first_submitted': "March 2, 2017",
+			'study_first_submitted_qc': "March 2, 2017",
+			'study_first_posted': 
+				{
+					'@type': "Actual",
+					'#text': "March 7, 2017"
+				},
+			'last_update_submitted': "January 24, 2022",
+			'last_update_submitted_qc': "January 24, 2022",
+			'last_update_posted': 
+				{
+					'@type': "Actual",
+					'#text': "February 1, 2022"
+				},
+			'responsible_party': 
+				{
+					'responsible_party_type': "Sponsor"
+				},
+			'keyword': 
+				[
+					0: "Solid Tumors",
+					1: "Cancer",
+					2: "Metastatic Solid Tumors",
+					3: "Advanced Solid Tumors",
+					4: "Triple negative breast cancer (TNBC)",
+					5: "Ovarian cancer",
+					6: "Hepatocellular carcinoma (HCC)",
+					7: "Gastric cancer",
+					8: "Mesothelioma",
+					9: "Small cell lung cancer (SCLC)",
+					10: "Cholangiocarcinoma",
+					11: "Merkel cell carcinoma",
+					12: "Melanoma",
+					13: "Non-small cell lung cancer (NSCLC)",
+					14: "2'-Deoxy-2'-[18F]Fluoro-9-β-DArabinofuranosylguanine (18F-AraG)"
+				],
+			'condition_browse': 
+				{
+					'mesh_term': "Neoplasms"
+				},
+			'patient_data': 
+				{
+					'sharing_ipd': "No"
+				}
+		}
+}
+
