@@ -71,3 +71,12 @@ hgnc_files = {
 hgnc_params = {
     'upstream_version': '2022-03-01',
 }
+
+# Clinical trials
+trials_files = {
+    'summary_file':     'clinical_trials/CHOL.tsv',
+}
+trials_params = {
+    'date_accessed':    '2022-06-24',
+    'md5':              '',
+}
