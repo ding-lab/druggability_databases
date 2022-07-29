@@ -74,7 +74,7 @@ hgnc_params = {
 
 # Clinical trials
 trials_files = {
-    'summary_file':     'clinical_trials/CHOL.tsv',
+    'chol':  {'disease_name': 'cholangiocarcinoma', 'summary_file': 'clinical_trials/CHOL.tsv',},
 }
 trials_params = {
     'date_accessed':    '2022-06-24',
