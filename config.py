@@ -64,19 +64,21 @@ evidence_level_anno = {
     '-': '-',
 }
 
-# HUGO gene names
-hgnc_files = {
-    'gene_list':        'HGNC/hgnc_complete_set.txt',
-}
-hgnc_params = {
-    'upstream_version': '2022-03-01',
-}
-
 # Clinical trials
 trials_files = {
     'chol':  {'disease_name': 'cholangiocarcinoma', 'summary_file': 'clinical_trials/CHOL.tsv',},
+    'mm':    {'disease_name': 'multiple myeloma',   'summary_file': 'clinical_trials/MM.tsv',  },
+    'crc':   {'disease_name': 'colorectal',         'summary_file': 'clinical_trials/CRC.tsv', },
 }
 trials_params = {
     'date_accessed':    '2022-06-24',
     'md5':              '',
+}
+
+# Gene lists
+gene_lists = {
+    'hgnc_symbols': {'description': 'HGNC gene list',                  'filename': 'HGNC/hgnc_complete_set.txt',      'upstream_version': '2022-03-01',},
+    'hr_repair':    {'description': 'homologous recombination repair', 'filename': 'gene_lists/HR_repair_genes.lst', },
+    'mm_repair':    {'description': 'mismatch repair',                 'filename': 'gene_lists/MM_repair_genes.lst', },
+    'dna_repair':   {'description': 'DNA repair',                      'filename': 'gene_lists/dna_repair_genes.lst',},
 }
