@@ -66,13 +66,9 @@ evidence_level_anno = {
 
 # Clinical trials
 trials_files = {
-    'chol':  {'disease_name': 'cholangiocarcinoma', 'summary_file': 'clinical_trials/CHOL.tsv',},
-    'mm':    {'disease_name': 'multiple myeloma',   'summary_file': 'clinical_trials/MM.tsv',  },
-    'crc':   {'disease_name': 'colorectal',         'summary_file': 'clinical_trials/CRC.tsv', },
-}
-trials_params = {
-    'date_accessed':    '2022-06-24',
-    'md5':              '',
+    'chol':  {'disease_name': 'cholangiocarcinoma', 'summary_file': 'clinical_trials/CHOL.tsv', 'version': '220918'},
+    'mm':    {'disease_name': 'multiple myeloma',   'summary_file': 'clinical_trials/MM.tsv',   'version': 'NA'},
+    'crc':   {'disease_name': 'colorectal',         'summary_file': 'clinical_trials/CRC.tsv',  'version': 'NA'},
 }
 
 # Gene lists
