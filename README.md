@@ -5,4 +5,4 @@
 
 
 ## Installation
-The expected installation method is described at the **[druggability tool](https://github.com/ding-lab/druggability)** repository whereby the databases are installed into subdirectory ``druggability_databases`` as specified in ``myglobal.py``. Alternative locations can be specified by editing ``DRUGDBDIR`` in ``myglobal.py``.
+The expected installation method is described at the **[druggability tool](https://github.com/ding-lab/druggability)** repository whereby the databases are installed into subdirectory ``druggability_databases`` as specified in ``myglobal.py``. Alternative locations can be specified by git-cloning druggability_databased to the desired location and then updating ``DRUGDBDIR`` in ``myglobal.py``.
