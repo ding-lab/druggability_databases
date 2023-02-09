@@ -66,9 +66,9 @@ evidence_level_anno = {
 
 # Clinical trials
 trials_files = {
-    'chol':  {'disease_name': 'cholangiocarcinoma', 'summary_file': 'clinical_trials/CHOL.tsv', 'version': '220918'},
-    'mm':    {'disease_name': 'multiple myeloma',   'summary_file': 'clinical_trials/MM.tsv',   'version': 'NA'},
-    'crc':   {'disease_name': 'colorectal',         'summary_file': 'clinical_trials/CRC.tsv',  'version': 'NA'},
+    'chol':  {'disease_name': 'cholangiocarcinoma', 'summary_file': 'clinical_trials/CHOL.tsv', 'accessed': '220918'},
+    'mm':    {'disease_name': 'multiple myeloma',   'summary_file': 'clinical_trials/MM.tsv',   'accessed': 'NA'},
+    'crc':   {'disease_name': 'colorectal',         'summary_file': 'clinical_trials/CRC.tsv',  'accessed': 'NA'},
 }
 
 # Gene lists
@@ -77,4 +77,8 @@ gene_lists = {
     'hr_repair':    {'description': 'homologous recombination repair', 'filename': 'gene_lists/HR_repair_genes.lst', },
     'mm_repair':    {'description': 'mismatch repair',                 'filename': 'gene_lists/MM_repair_genes.lst', },
     'dna_repair':   {'description': 'DNA repair',                      'filename': 'gene_lists/dna_repair_genes.lst',},
+    'wnt_upstream': {'description': 'upstream in Wnt pathway',         'filename': 'gene_lists/Wnt_upstream.lst',},
+    'synergy_ai':   {'description': 'SYNERGY-AI registry',             'filename': 'gene_lists/synergy_ai.lst',},
+    'mapk_pathway': {'description': 'MAPK pathway',                    'filename': 'gene_lists/mapk_pathway.lst',},
+    'mapk_pathway_no_BRAF': {'description': 'MAPK pathway minus BRAF', 'filename': 'gene_lists/mapk_pathway_no_BRAF.lst',},
 }
