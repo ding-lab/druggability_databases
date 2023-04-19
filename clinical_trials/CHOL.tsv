@@ -1,231 +1,234 @@
-Study	Involves genomics	Genomics inclusion summary	Call context	Gene	Alteration Type	Position	Has additional requirement	Gene(additional)	Alteration Type(additional)	Position(additional)	Exclusions (not consistently filled in)	Intervention	Overall status	Phase	Completion Date	
-NCT00107536	yes	any EGFR, ERBB2	somatic	EGFR,ERBB2	mutation,insertion,deletion,fusion	any	no					lapatinib ditosylate	Completed	Phase 2	2009-05-09	
-NCT00553332	yes	mut in RAS/RAF/MEK/ERK pathway; RAS muts (NRAS,KRAS,HRAS) or any BRAF	somatic	NRAS,KRAS,HRAS,BRAF	mutation,insertion,deletion,fusion	any	no					selumetinib	Completed	Phase 2	2013-01-09	
-NCT00779454	yes	KRAS WT arm	somatic	KRAS	none		no					Panitumumab, Gemcitabine, Oxaliplatin, Capecitabine	Completed	Phase 2	2016-03-09	
-NCT00779454	yes	KRAS mutated	somatic	KRAS	mutation,insertion,deletion,fusion	any	no					Gemcitabine, Oxaliplatin, Capecitabine	Completed	Phase 2	2016-03-09	
+Study	Involves genomics	Genomics inclusion summary	Call context	Gene	Alteration Type	Position	Has additional requirement	Gene(additional)	Alteration Type(additional)	Position(additional)	Exclusions (not consistently filled in)	Intervention	Overall status	Phase	Primary completion date	Study completion date
+NCT00107536	yes	any EGFR, ERBB2	somatic	EGFR,ERBB2	mutation,insertion,deletion,fusion	any	no					lapatinib ditosylate	Completed	Phase 2	May 2009	May 2009
+NCT00553332	yes	mut in RAS/RAF/MEK/ERK pathway; RAS muts (NRAS,KRAS,HRAS) or any BRAF	somatic	NRAS,KRAS,HRAS,BRAF	mutation,insertion,deletion,fusion	any	no					selumetinib	Completed	Phase 2	January 2013	January 2013
+NCT00779454	yes	KRAS WT arm	somatic	KRAS	none		no					Panitumumab, Gemcitabine, Oxaliplatin, Capecitabine	Completed	Phase 2	March 2016	March 2016
+NCT00779454	yes	KRAS mutated	somatic	KRAS	mutation,insertion,deletion,fusion	any	no					Gemcitabine, Oxaliplatin, Capecitabine	Completed	Phase 2	March 2016	March 2016
 NCT00779454	:duplicate:															
 NCT00779454	:duplicate:															
-NCT01320254	yes	KRAS WT	somatic	KRAS	none		no					Cisplatin and Gemcitabine with or without Panitumumab	Completed	Phase 2	2016-09-12	
+NCT01320254	yes	KRAS WT	somatic	KRAS	none		no					Cisplatin and Gemcitabine with or without Panitumumab	Completed	Phase 2	September 12, 2016	September 12, 2016
 NCT01320254	:duplicate:															
-NCT01643499	yes	(Yes, this study mentioned CHOL) UGT1A1 alterations	somatic	UGT1A1	mutation,insertion,deletion,fusion	any	no					irinotecan in FOLFIRINOX	Completed	Phase 1	2019-07-09	
-NCT01752920	yes	FGFR abers, includng iCCA with FGFR2 gene fusion	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					derazantinib	Completed	Phase 1/Phase 2	2018-08-28	
+NCT01643499	yes	(Yes, this study mentioned CHOL) UGT1A1 alterations	somatic	UGT1A1	mutation,insertion,deletion,fusion	any	no					irinotecan in FOLFIRINOX	Completed	Phase 1	August 28, 2016	July 2019
+NCT01752920	yes	FGFR abers, includng iCCA with FGFR2 gene fusion	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					derazantinib	Completed	Phase 1/Phase 2	August 28, 2018	August 28, 2018
 NCT01752920	:duplicate:															
-NCT02052778	yes	Phase 1:   1+ FGF/FGFR aberr..  Can include FGFR2 fusions or other FGFR2 aberr.  -OR- FGFR3 fusion or activating muts; any FGFR fusions, mut;   	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					futibatinib	Active, not recruiting	Phase 1/Phase 2	2022-06-30(est.)	
-NCT02052778	yes	Phase 2: FGFR2 rearr. or fusion	somatic	FGFR2	insertion,deletion,fusion	any	no					futibatinib	Active, not recruiting	Phase 1/Phase 2	2022-06-30(est.)	
+NCT02052778	yes	Phase 1:   1+ FGF/FGFR aberr..  Can include FGFR2 fusions or other FGFR2 aberr.  -OR- FGFR3 fusion or activating muts; any FGFR fusions, mut;   	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					futibatinib	Active, not recruiting	Phase 1/Phase 2	May 29, 2021	June 30, 2022(E)
+NCT02052778	yes	Phase 2: FGFR2 rearr. or fusion	somatic	FGFR2	insertion,deletion,fusion	any	no					futibatinib	Active, not recruiting	Phase 1/Phase 2	May 29, 2021	June 30, 2022(E)
 NCT02052778	:duplicate:															
-NCT02073994	yes	IDH1 mut.	somatic	IDH1	mutation,insertion,deletion	any	no					AG-120	Active, not recruiting	Phase 1	2023-06-09(est.)	
+NCT02073994	yes	IDH1 mut.	somatic	IDH1	mutation,insertion,deletion	any	no					AG-120	Active, not recruiting	Phase 1	June 2023(E)	June 2023(E)
 NCT02073994	:duplicate:															
-NCT02150967	yes	cohort 1:  FGFR2 fusions or rearrangements  and those with other FGFR nonfusion alts.  Cohort 2: FGFR alts other than FGFR2 gene fusions or rearrangements	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					infigratinib	Completed	Phase 2	2022-02-07	
+NCT02150967	yes	cohort 1:  FGFR2 fusions or rearrangements  and those with other FGFR nonfusion alts.  Cohort 2: FGFR alts other than FGFR2 gene fusions or rearrangements	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					infigratinib	Completed	Phase 2	March 1, 2021	February 7, 2022
 NCT02150967	:duplicate:															
-NCT02273739	yes	IDH2 mut	somatic	IDH2	mutation,insertion,deletion	any	no					enasidenib	Completed	Phase 1/Phase 2	2016-06-03	
+NCT02273739	yes	IDH2 mut	somatic	IDH2	mutation,insertion,deletion	any	no					enasidenib	Completed	Phase 1/Phase 2	June 3, 2016	June 3, 2016
 NCT02273739	:duplicate:															
-NCT02381886	yes	IDH1R132 muts.	somatic	IDH1	mutation	R132:any:	no					IDH305	Active, not recruiting	Phase 1	2024-10-25(est.)	
-NCT02428855	yes	IDH1 or IDH2 mut	somatic	IDH1,IDH2	mutation,insertion,deletion	any	no					Dasatinib	Completed	Phase 2	2018-02-09	
+NCT02381886	yes	IDH1R132 muts.	somatic	IDH1	mutation	R132:any:	no					IDH305	Active, not recruiting	Phase 1	December 7, 2016	October 25, 2024(E)
+NCT02428855	yes	IDH1 or IDH2 mut	somatic	IDH1,IDH2	mutation,insertion,deletion	any	no					Dasatinib	Completed	Phase 2	February 2018	February 2018
 NCT02428855	:duplicate:															
-NCT02496741	yes	IDH1 or IDH2 mut.	somatic	IDH1,IDH2	mutation,insertion,deletion	any	no					Metformin + chloroquine	Completed	Phase 1/Phase 2	2019-11-18	
+NCT02496741	yes	IDH1 or IDH2 mut.	somatic	IDH1,IDH2	mutation,insertion,deletion	any	no					Metformin + chloroquine	Completed	Phase 1/Phase 2	November 18, 2019	November 18, 2019
 NCT02496741	:duplicate:															
 NCT02496741	:duplicate:															
-NCT02520141	yes	there is a 10-patient expanded cohort looking for DNA repair aberr. or FGFR genetic aberr.	somatic	:dna_repair:	mutation,insertion,deletion,fusion	any	no					Ramucirumab	Completed	Phase 2	2022-06-29	
-NCT02520141	yes	there is a 10-patient expanded cohort looking for DNA repair aberr. or FGFR genetic aberr.	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					Ramucirumab	Completed	Phase 2	2022-06-29	
+NCT02520141	yes	there is a 10-patient expanded cohort looking for DNA repair aberr. or FGFR genetic aberr.	somatic	:dna_repair:	mutation,insertion,deletion,fusion	any	no					Ramucirumab	Completed	Phase 2	June 29, 2022	June 29, 2022
+NCT02520141	yes	there is a 10-patient expanded cohort looking for DNA repair aberr. or FGFR genetic aberr.	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					Ramucirumab	Completed	Phase 2	June 29, 2022	June 29, 2022
 NCT02520141	:duplicate:															
-NCT02568267	yes	NTRK1/2/3, ROS1, or ALK rearr (summary says fusion).	somatic	NTRK1,NTRK2,NTRK3,ROS1,ALK	fusion	any	no					entrectinib	Active, not recruiting	Phase 2	2025-04-01(est.)	
+NCT02568267	yes	NTRK1/2/3, ROS1, or ALK rearr (summary says fusion).	somatic	NTRK1,NTRK2,NTRK3,ROS1,ALK	fusion	any	no					entrectinib	Active, not recruiting	Phase 2	December 31, 2024(E)	April 1, 2025(E)
 NCT02568267	:duplicate:															
-NCT02609958	yes	implied ErbB family mutations; EGFR expr, HER2 overexp., . HER4	somatic	ERBB2,ERBB3,ERBB4,EGFR	mutation,insertion,deletion	any	no					Varlitinib	Completed	Phase 2	2017-10-11	
+NCT02609958	yes	implied ErbB family mutations; EGFR expr, HER2 overexp., . HER4	somatic	ERBB2,ERBB3,ERBB4,EGFR	mutation,insertion,deletion	any	no					Varlitinib	Completed	Phase 2	July 7, 2017	October 11, 2017
 NCT02609958	:duplicate:															
-NCT02699606	yes	FGFR translocations; FGFR mutations; FGFR pathway activation or other potential target/pathway inhibited by erdafitinib  [FGFR1-4]	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					Erdafitinib	Active, not recruiting	Phase 2	2023-12-31(est.)	
-NCT02784795	yes	any alterations related to NOTCH pathway [is NOTCH1-4 good enough?]	somatic	NOTCH1,NOTCH2,NOTCH3,NOTCH4	mutation,fusion	any	no					LY3039478 combo therapy	Completed	Phase 1	2020-02-13	
-NCT02924376	yes	FGFR2 transloc. with a documented fusion partner  -OR- other FGF/FGFR alterations -OR-   FGF/FGFR  WT	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					Pemigatinib	Completed	Phase 2	2022-02-01	
-NCT02924376	yes	FGFR2 transloc. with a documented fusion partner  -OR- other FGF/FGFR alterations -OR-   FGF/FGFR  WT	somatic	FGFR1,FGFR2,FGFR3,FGFR4	none		no					Pemigatinib	Completed	Phase 2	2022-02-01	
+NCT02699606	yes	FGFR translocations; FGFR mutations; FGFR pathway activation or other potential target/pathway inhibited by erdafitinib  [FGFR1-4]	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					Erdafitinib	Active, not recruiting	Phase 2	October 12, 2021	December 31, 2023(E)
+NCT02784795	yes	any alterations related to NOTCH pathway [is NOTCH1-4 good enough?]	somatic	NOTCH1,NOTCH2,NOTCH3,NOTCH4	mutation,fusion	any	no					LY3039478 combo therapy	Completed	Phase 1	August 9, 2018	February 13, 2020
+NCT02924376	yes	FGFR2 transloc. with a documented fusion partner  -OR- other FGF/FGFR alterations -OR-   FGF/FGFR  WT	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					Pemigatinib	Completed	Phase 2	February 1, 2022	February 1, 2022
+NCT02924376	yes	FGFR2 transloc. with a documented fusion partner  -OR- other FGF/FGFR alterations -OR-   FGF/FGFR  WT	somatic	FGFR1,FGFR2,FGFR3,FGFR4	none		no					Pemigatinib	Completed	Phase 2	February 1, 2022	February 1, 2022
 NCT02924376	:duplicate:															
-NCT02989857	yes	IDH1-mutated (R132C/L/G/H/S)	somatic	IDH1	mutation	R132C,R132L,R132G,R132H,R132S	no					AG-120	Completed	Phase 3	2021-05-17	
+NCT02989857	yes	IDH1-mutated (R132C/L/G/H/S)	somatic	IDH1	mutation	R132C,R132L,R132G,R132H,R132S	no					AG-120	Completed	Phase 3	January 31, 2019	May 17, 2021
 NCT02989857	:duplicate:															
-NCT03207347	yes	Known DNA damage repair mutation including [list removed].  VUS are allowed (Cohort B)	somatic	:dna_repair:	mutation,insertion,deletion,fusion	any	no					Niraparib	Completed	Phase 2	2022-08-30	
-NCT03207347	yes		germline	:dna_repair:	mutation,insertion,deletion,fusion	any	no					Niraparib	Completed	Phase 2	2022-08-30	
+NCT03207347	yes	Known DNA damage repair mutation including [list removed].  VUS are allowed (Cohort B)	somatic	:dna_repair:	mutation,insertion,deletion,fusion	any	no					Niraparib	Completed	Phase 2	August 30, 2022	August 30, 2022
+NCT03207347	yes		germline	:dna_repair:	mutation,insertion,deletion,fusion	any	no					Niraparib	Completed	Phase 2	August 30, 2022	August 30, 2022
 NCT03207347	:duplicate:															
 NCT03207347	:duplicate:															
-NCT03212274	yes	 include IDH1: R132V, R132G, R132S	somatic	IDH1	mutation	R132V, R132G, R132S, R132L, R132C, R132H	no					olaparib	Recruiting	Phase 2	2023-07-31(est.)	
-NCT03212274	yes	             R132L, R132C and R132H; IDH2: R140W, R140L, R140Q, R172W, R172G, R172S, R172M, R172K	somatic	IDH2	mutation	R140W, R140L, R140Q, R172W, R172G, R172S, R172M, R172K	no					olaparib	Recruiting	Phase 2	2023-07-31(est.)	
+NCT03212274	yes	 include IDH1: R132V, R132G, R132S	somatic	IDH1	mutation	R132V, R132G, R132S, R132L, R132C, R132H	no					olaparib	Recruiting	Phase 2	July 31, 2023(E)	July 31, 2023(E)
+NCT03212274	yes	             R132L, R132C and R132H; IDH2: R140W, R140L, R140Q, R172W, R172G, R172S, R172M, R172K	somatic	IDH2	mutation	R140W, R140L, R140Q, R172W, R172G, R172S, R172M, R172K	no					olaparib	Recruiting	Phase 2	July 31, 2023(E)	July 31, 2023(E)
 NCT03212274	:duplicate:															
-NCT03230318	yes	FGFR2 fusion (also FGFR2 mut/amp)	somatic	FGFR2	mutation,insertion,deletion,fusion	any	no					Derazantinib	Completed	Phase 2	2022-10-25	
+NCT03230318	yes	FGFR2 fusion (also FGFR2 mut/amp)	somatic	FGFR2	mutation,insertion,deletion,fusion	any	no					Derazantinib	Completed	Phase 2	October 25, 2022	October 25, 2022
 NCT03230318	:duplicate:															
-NCT03345303	yes	PTEN mut / del	somatic	PTEN	mutation,insertion,deletion	any	no					Bortezomib	Unknown status	Phase 3	2022-12-09(est.)	
-NCT03656536	yes	FGFR2 rearrangment	somatic	FGFR2	insertion,deletion,fusion	any	no					Pemigatinib or Gemcitabine + Cisplatin	Recruiting	Phase 3	2028-07-27(est.)	
+NCT03345303	yes	PTEN mut / del	somatic	PTEN	mutation,insertion,deletion	any	no					Bortezomib	Unknown status	Phase 3	December 2020(E)	December 2022(E)
+NCT03656536	yes	FGFR2 rearrangment	somatic	FGFR2	insertion,deletion,fusion	any	no					Pemigatinib or Gemcitabine + Cisplatin	Recruiting	Phase 3	October 26, 2027(E)	July 27, 2028(E)
 NCT03656536	:duplicate:															
-NCT03684811	yes	IDH1-R132 gene-mutated disease	somatic	IDH1	mutation	R132:any:	no					FT-2102 mono and combo therapies	Completed	Phase 1/Phase 2	2022-06-13	
-NCT03773302	yes	activating FGFR2 fusion/rearr. 	somatic	FGFR2	insertion,deletion,fusion	any	no					Gemcitabine + Cisplatin and/or Infigratinib	Active, not recruiting	Phase 3	2026-12-30(est.)	
-NCT03773302	:duplicate:															
-NCT03878095	yes	IDH1 or IDH2 mut	somatic	IDH1,IDH2	mutation,insertion,deletion,fusion	any	no					olaparib and ceralasertib (AZD6738)	Active, not recruiting	Phase 2	2023-03-01(est.)	
+NCT03684811	yes	IDH1-R132 gene-mutated disease	somatic	IDH1	mutation	R132:any:	no					FT-2102 mono and combo therapies	Completed	Phase 1/Phase 2	May 24, 2021	June 13, 2022
+NCT03878095	yes	IDH1 or IDH2 mut	somatic	IDH1,IDH2	mutation,insertion,deletion,fusion	any	no					olaparib and ceralasertib (AZD6738)	Recruiting	Phase 2	March 1, 2024(E)	March 1, 2024(E)
 NCT03878095	:duplicate:															
-NCT03991832	yes	IDH1 or IDH2 mut	somatic	IDH1,IDH2	mutation,insertion,deletion,fusion	any	no					olaparib + durvalumab	Recruiting	Phase 2	2025-03-31(est.)	
+NCT03991832	yes	IDH1 or IDH2 mut	somatic	IDH1,IDH2	mutation,insertion,deletion,fusion	any	no					olaparib + durvalumab	Recruiting	Phase 2	March 31, 2024(E)	March 31, 2025(E)
 NCT03991832	:duplicate:															
 NCT03991832	:duplicate:															
-NCT04034238	yes	dMMR / MSI-high	somatic	:mm_repair:	mutation,insertion,deletion,fusion	any	no					LMB-100 + tofacitinib	Active, not recruiting	Phase 1	2023-07-01(est.)	
-NCT04034238	:duplicate:															
-NCT04088188	yes	IDH1  R132C/L/G/H/S 	somatic	IDH1	mutation	R132C, R132L, R132G, R132H, R132S 	no					ivosidenib, cisplatin, gemcitabine	Recruiting	Phase 1	2025-01-31(est.)	
-NCT04088188	yes	FGFR2 alteration   [pem. was approved for fusion or other rearr.]	somatic	FGFR2	mutation,insertion,deletion,fusion	any	no					pemigatinib, cisplatin, gemcitabine	Recruiting	Phase 1	2025-01-31(est.)	
-NCT04093362	yes	FGFR2 rearrangements (assume fusions)	somatic	FGFR2	insertion,deletion,fusion	any	no					futibatinib	Recruiting	Phase 3	2028-04-09(est.)	
+NCT04088188	yes	IDH1  R132C/L/G/H/S 	somatic	IDH1	mutation	R132C, R132L, R132G, R132H, R132S 	no					ivosidenib, cisplatin, gemcitabine	Recruiting	Phase 1	January 31, 2025(E)	July 31, 2025(E)
+NCT04088188	yes	FGFR2 alteration   [pem. was approved for fusion or other rearr.]	somatic	FGFR2	mutation,insertion,deletion,fusion	any	no					pemigatinib, cisplatin, gemcitabine	Recruiting	Phase 1	January 31, 2025(E)	July 31, 2025(E)
+NCT04093362	yes	FGFR2 rearrangements (assume fusions)	somatic	FGFR2	insertion,deletion,fusion	any	no					futibatinib	Active, not recruiting	Phase 3	September 2023(E)	September 2023(E)
 NCT04093362	:duplicate:															
 NCT04093362	:duplicate:															
-NCT04149691	yes	alteration within FGFR1/2/or 3 [alteration is genetic mutation]	somatic	FGFR1,FGFR2,FGFR3	mutation,insertion,deletion,fusion	any	no					CPL304110	Recruiting	Phase 1	2022-12-09(est.)	
+NCT04149691	yes	alteration within FGFR1/2/or 3 [alteration is genetic mutation]	somatic	FGFR1,FGFR2,FGFR3	mutation,insertion,deletion,fusion	any	no					CPL304110	Recruiting	Phase 1	December 2023(E)	December 2023(E)
 NCT04149691	:duplicate:															
-NCT04190628	yes	any BRAF V600 mutation, or any BRAF	somatic	BRAF	mutation	any	no					ABM-1310 w/wo Cobimetinib	Recruiting	Phase 1	2025-01-09(est.)	
+NCT04190628	yes	any BRAF V600 mutation, or any BRAF	somatic	BRAF	mutation	any	no					ABM-1310 w/wo Cobimetinib	Recruiting	Phase 1	September 2024(E)	January 2025(E)
 NCT04190628	:duplicate:															
 NCT04190628	:duplicate:															
-NCT04233567	yes	FGFR1-3 fusions/transloc. or activating mutations (Cohort  1 &2 ); alterations (such as point mut, ins/del, or amp) in any FGFR gene (Chort 3)	somatic	FGFR1,FGFR2,FGFR3	mutation,insertion,deletion,fusion	any	no					Infigratinib	Recruiting	Phase 2	2022-12-31(est.)	
+NCT04233567	yes	FGFR1-3 fusions/transloc. or activating mutations (Cohort  1 &2 ); alterations (such as point mut, ins/del, or amp) in any FGFR gene (Chort 3)	somatic	FGFR1,FGFR2,FGFR3	mutation,insertion,deletion,fusion	any	no					Infigratinib	Recruiting	Phase 2	December 31, 2022(E)	December 31, 2022(E)
 NCT04233567	:duplicate:															
 NCT04233567	:duplicate:															
-NCT04238715	yes	FGFR2 fusion (only)	somatic	FGFR2	fusion	any	no					E7090	Active, not recruiting	Phase 2	2023-08-01(est.)	
+NCT04238715	yes	FGFR2 fusion (only)	somatic	FGFR2	fusion	any	no					E7090	Active, not recruiting	Phase 2	March 15, 2023(E)	September 15, 2023(E)
 NCT04238715	:duplicate:															
-NCT04256980	yes	FGFR2 rearr.	somatic	FGFR2	insertion,deletion,fusion	any	no					Pemigatinib	Active, not recruiting	Phase 2	2023-12-30(est.)	
+NCT04256980	yes	FGFR2 rearr.	somatic	FGFR2	insertion,deletion,fusion	any	no					Pemigatinib	Active, not recruiting	Phase 2	June 27, 2022	December 30, 2023(E)
 NCT04256980	:duplicate:															
-NCT04353375	yes	FGFR2 fusion	somatic	FGFR2	fusion	any	no					HMPL-453 tartrate	Not yet recruiting	Phase 2	2023-06-30(est.)	
+NCT04353375	yes	FGFR2 fusion	somatic	FGFR2	fusion	any	no					HMPL-453 tartrate	Not yet recruiting	Phase 2	December 31, 2022(E)	June 30, 2023(E)
 NCT04353375	:duplicate:															
 NCT04353375	:duplicate:															
-NCT04383210	yes	NRG1 fusion 	somatic	NRG1	fusion	any	no					Seribantumab	Active, not recruiting	Phase 2	2023-06-09(est.)	
+NCT04383210	yes	NRG1 fusion 	somatic	NRG1	fusion	any	no					Seribantumab	Active, not recruiting	Phase 2	June 2023(E)	June 2023(E)
 NCT04383210	:duplicate:															
 NCT04383210	:duplicate:															
-NCT04521686	yes	IDH1 R132 mut, IDH2 R140, or IDH2 R172 mut.	somatic	IDH1	mutation	R132:any:	no					LY3410738 mono or combo therapy	Recruiting	Phase 1	2023-05-09(est.)	
-NCT04521686	yes	IDH1 R132 mut, IDH2 R140, or IDH2 R172 mut.	somatic	IDH2	mutation	R140:any:,R172:any:	no					LY3410738 mono or combo therapy	Recruiting	Phase 1	2023-05-09(est.)	
+NCT04521686	yes	IDH1 R132 mut (any tumor)	somatic	IDH1	mutation	R132:any:	no					LY3410738 mono or combo therapy	Recruiting	Phase 1	May 2023(E)	May 2023(E)
+NCT04521686	yes	or IDH2 R140 or R172 mut. In chol.	somatic	IDH2	mutation	R140:any:,R172:any:	no					LY3410738 mono or combo therapy	Recruiting	Phase 1	May 2023(E)	May 2023(E)
 NCT04521686	:duplicate:															
-NCT04526106	yes	FGFR2 fusion, mut, or amplification (blood [ctDNA] and/or tumor).  Additional FGFR2 alterations may be considered	somatic	FGFR2	mutation,insertion,deletion,fusion	any	no					RLY-4008	Recruiting	Phase 1/Phase 2	2024-10-09(est.)	
-NCT04565275	yes	FGFR gene alterations	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					ICP-192	Recruiting	Phase 1/Phase 2	2023-02-16(est.)	
+NCT04526106	yes	FGFR2 fusion, mut, or amplification (blood [ctDNA] and/or tumor).  Additional FGFR2 alterations may be considered	somatic	FGFR2	mutation,insertion,deletion,fusion	any	no					RLY-4008	Recruiting	Phase 1/Phase 2	June 2024(E)	October 2024(E)
+NCT04565275	yes	FGFR gene alterations	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					ICP-192	Recruiting	Phase 1/Phase 2	November 30, 2023(E)	April 15, 2024(E)
 NCT04565275	:duplicate:															
 NCT04565275	:duplicate:															
-NCT04566133	yes	KRAS mut of clinical significance	somatic	KRAS	mutation,insertion,deletion,fusion	any	no					Trametinib + hydroxychloroquine	Recruiting	Phase 2	2025-12-31(est.)	
+NCT04566133	yes	KRAS mut of clinical significance	somatic	KRAS	mutation,insertion,deletion,fusion	any	no					Trametinib + hydroxychloroquine	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
 NCT04566133	:duplicate:															
 NCT04566133	:duplicate:															
-NCT04762602	yes	IDH1/2 mutation	somatic	IDH1,IDH2	mutation,insertion,deletion,fusion	any	no					HMPL-306	Recruiting	Phase 1	2023-01-31(est.)	
+NCT04762602	yes	IDH1/2 mutation	somatic	IDH1,IDH2	mutation,insertion,deletion,fusion	any	no					HMPL-306	Recruiting	Phase 1	January 31, 2023(E)	January 31, 2023(E)
 NCT04762602	:duplicate:															
 NCT04762602	:duplicate:															
-NCT04764084	yes	HER2 negative.  Carry pathogenic or suspected pathogenic germline or somatic HRR(homologous recombination repair) gene mutations, HRR genes include [list];  muts in other HRR genes should be evaluated by researchers and the pathogenicity  should be supported by published literature or clinical studies. Description says gBRCA or sBRCA mutations, or HRR gene muts.	somatic	:hr_repair:	mutation,insertion,deletion,fusion	any	no				ERBB2/mutation,fusion/any	Niraparib + Anlotinib	Not yet recruiting	Phase 1	2023-02-28(est.)	
-NCT04764084	yes		germline	:hr_repair:	mutation,insertion,deletion,fusion	any	no				ERBB2/mutation,fusion/any	Niraparib + Anlotinib	Not yet recruiting	Phase 1	2023-02-28(est.)	
+NCT04764084	yes	HER2 negative.  Carry pathogenic or suspected pathogenic germline or somatic HRR(homologous recombination repair) gene mutations, HRR genes include [list];  muts in other HRR genes should be evaluated by researchers and the pathogenicity  should be supported by published literature or clinical studies. Description says gBRCA or sBRCA mutations, or HRR gene muts.	somatic	:hr_repair:	mutation,insertion,deletion,fusion	any	no				ERBB2/mutation,fusion/any	Niraparib + Anlotinib	Unknown status	Phase 1	November 1, 2021(E)	February 28, 2023(E)
+NCT04764084	yes		germline	:hr_repair:	mutation,insertion,deletion,fusion	any	no				ERBB2/mutation,fusion/any	Niraparib + Anlotinib	Unknown status	Phase 1	November 1, 2021(E)	February 28, 2023(E)
 NCT04764084	:duplicate:															
-NCT04794699	yes	homozygous loss of MTAP or MTAP deletion. [likely not germline since homozyg. Del of CDK2NA locus often results in co-deletion of MTAP in GBM, for example]	somatic	MTAP	deletion	any	no					IDE397 (MAT2A inhibitor) mono or combo therapy	Recruiting	Phase 1	2024-06-30(est.)	
-NCT04853017	yes	KRAS/NRAS mutated (G12D or G12R)	somatic	KRAS,NRAS	mutation	G12D,G12R	no					ELI-002-2P immunotherapy	Recruiting	Phase 1	2025-07-09(est.)	
+NCT04794699	yes	homozygous loss of MTAP or MTAP deletion. [likely not germline since homozyg. Del of CDK2NA locus often results in co-deletion of MTAP in GBM, for example]	somatic	MTAP	deletion	any	no					IDE397 (MAT2A inhibitor) mono or combo therapy	Recruiting	Phase 1	December 31, 2023(E)	June 30, 2024(E)
+NCT04853017	yes	KRAS/NRAS mutated (G12D or G12R)	somatic	KRAS,NRAS	mutation	G12D,G12R	no					ELI-002-2P immunotherapy	Recruiting	Phase 1	January 26, 2023	July 2025(E)
 NCT04853017	:duplicate:															
-NCT04919642	yes	FGFR2 fusions (Cohort A1, A2);  other FGFR alterations incl. FGFR2 mut and FGFR1/3 alterations, incl. fusions  (cohort B);  FGFR WT (cohort C)	somatic	FGFR1,FGFR2,FGFR3	mutation,insertion,deletion,fusion	any	no					TT-00420	Recruiting	Phase 2	2023-09-09(est.)	
-NCT04919642	yes	FGFR2 fusions (Cohort A1, A2);  other FGFR alterations incl. FGFR2 mut and FGFR1/3 alterations, incl. fusions  (cohort B);  FGFR WT (cohort C)	somatic	FGFR1,FGFR2,FGFR3	none		no					TT-00420	Recruiting	Phase 2	2023-09-09(est.)	
+NCT04919642	yes	FGFR2 fusions (Cohort A1, A2);  other FGFR alterations incl. FGFR2 mut and FGFR1/3 alterations, incl. fusions  (cohort B);  FGFR WT (cohort C)	somatic	FGFR1,FGFR2,FGFR3	mutation,insertion,deletion,fusion	any	no					TT-00420	Recruiting	Phase 2	September 2023(E)	September 2023(E)
+NCT04919642	yes	FGFR2 fusions (Cohort A1, A2);  other FGFR alterations incl. FGFR2 mut and FGFR1/3 alterations, incl. fusions  (cohort B);  FGFR WT (cohort C)	somatic	FGFR1,FGFR2,FGFR3	none		no					TT-00420	Recruiting	Phase 2	September 2023(E)	September 2023(E)
 NCT04919642	:duplicate:															
 NCT04919642	:duplicate:															
-NCT05174650	yes	FGFR2 fusion/rearrangemnt	somatic	FGFR2	insertion,deletion,fusion	any	no					Atezolizumab + Derazantinib	Recruiting	Phase 2	2026-08-09(est.)	
+NCT05174650	yes	FGFR2 fusion/rearrangemnt	somatic	FGFR2	insertion,deletion,fusion	any	no					Atezolizumab + Derazantinib	Recruiting	Phase 2	December 2025(E)	August 2026(E)
 NCT05174650	:duplicate:															
-NCT05194735	yes	mutation & HLA type	somatic	KRAS	mutation	G12D,G12V	no					TCR-T cells  w/wo Aldesleukin (IL-2)	Recruiting	Phase 1/Phase 2	2029-03-09(est.)	
-NCT05194735	yes	mutation & HLA type	somatic	TP53	mutation	R175H,R248W,Y220C	no					TCR-T cells  w/wo Aldesleukin (IL-2)	Recruiting	Phase 1/Phase 2	2029-03-09(est.)	
-NCT05194735	yes	mutation & HLA type	somatic	EGFR	deletion	E746_A750del	no					TCR-T cells  w/wo Aldesleukin (IL-2)	Recruiting	Phase 1/Phase 2	2029-03-09(est.)	
+NCT05194735	yes	mutation & HLA type	somatic	KRAS	mutation	G12D,G12V	no					TCR-T cells  w/wo Aldesleukin (IL-2)	Recruiting	Phase 1/Phase 2	December 2025(E)	March 2029(E)
+NCT05194735	yes	mutation & HLA type	somatic	TP53	mutation	R175H,R248W,Y220C	no					TCR-T cells  w/wo Aldesleukin (IL-2)	Recruiting	Phase 1/Phase 2	December 2025(E)	March 2029(E)
+NCT05194735	yes	mutation & HLA type	somatic	EGFR	deletion	E746_A750del	no					TCR-T cells  w/wo Aldesleukin (IL-2)	Recruiting	Phase 1/Phase 2	December 2025(E)	March 2029(E)
 NCT05194735	:duplicate:															
-NCT05242822	yes	FGFR2 and/or FGFR3 gene alt. 	somatic	FGFR2,FGFR3	mutation,insertion,deletion,fusion	any	no					KIN-3248	Recruiting	Phase 1	2026-09-09(est.)	
+NCT05242822	yes	FGFR2 and/or FGFR3 gene alt. 	somatic	FGFR2,FGFR3	mutation,insertion,deletion,fusion	any	no					KIN-3248	Recruiting	Phase 1	June 2026(E)	September 2026(E)
 NCT05242822	:duplicate:															
 NCT05242822	:duplicate:															
-NCT01773655	yes	tissue analysis of germline and somatic BAP1 mut or loss of expression	somatic	BAP1	mutation,insertion,deletion,fusion	any	no					no therapy/evaluative	Completed	No data	2020-06-30	
-NCT01773655	yes		germline	BAP1	mutation,insertion,deletion,fusion	any	no					no therapy/evaluative	Completed	No data	2020-06-30	
+NCT01773655	yes	tissue analysis of germline and somatic BAP1 mut or loss of expression	somatic	BAP1	mutation,insertion,deletion,fusion	any	no					no therapy/evaluative	Completed	No data	June 30, 2020	June 30, 2020
+NCT01773655	yes		germline	BAP1	mutation,insertion,deletion,fusion	any	no					no therapy/evaluative	Completed	No data	June 30, 2020	June 30, 2020
 NCT01773655	:duplicate:															
-NCT02762721	yes	FGFR2 fusions	somatic	FGFR2	fusion	any	no					observational only	Completed	No data	2017-04-06	
+NCT02762721	yes	FGFR2 fusions	somatic	FGFR2	fusion	any	no					observational only	Completed	No data	April 6, 2017	April 6, 2017
 NCT02762721	:duplicate:															
-NCT04087876	yes	FGFR genomic alterations	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					Derazantinib	Available	No data	No data	
-NCT04100694	yes	NRG1 fusion	somatic	NRG1	fusion	any	no					MCLA-128	Available	No data	No data	
+NCT04087876	yes	FGFR genomic alterations	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					Derazantinib	Available	No data	No data	No data
+NCT04100694	yes	NRG1 fusion	somatic	NRG1	fusion	any	no					MCLA-128	Available	No data	No data	No data
 NCT04100694	:duplicate:															
-NCT04507503	yes	FGFR2 rearrangements	somatic	FGFR2	insertion,deletion,fusion	any	no					Futibatinib (TAS-120)	Available	No data	No data	
+NCT04507503	yes	FGFR2 rearrangements	somatic	FGFR2	insertion,deletion,fusion	any	no					Futibatinib (TAS-120)	Available	No data	No data	No data
 NCT04507503	:duplicate:															
 NCT04507503	:duplicate:															
-NCT04566393	yes	MAPK pathway-altered solid tumor(s), including but not limited to KRAS, NRAS, HRAS, BRAF, MEK, and ERK mutations	somatic	:mapk_pathway:	mutation,insertion,deletion,fusion	any	no					Ulixertinib	Available	No data	No data	
+NCT04566393	yes	MAPK pathway-altered solid tumor(s), including but not limited to KRAS, NRAS, HRAS, BRAF, MEK, and ERK mutations	somatic	:mapk_pathway:	mutation,insertion,deletion,fusion	any	no					Ulixertinib	Available	No data	No data	No data
 NCT04566393	:duplicate:															
-NCT04792463	yes	known or suggestive of hereditary BAP1 [germline]. Pathogenic, likely path. Variants in BAP1 incl those of uncertain signif.  Germline inactivation of BAP1	germline	BAP1	mutation,insertion,deletion,fusion	any	no					observational, prospective	Recruiting	No data	2026-07-01(est.)	
+NCT04792463	yes	known or suggestive of hereditary BAP1 [germline]. Pathogenic, likely path. Variants in BAP1 incl those of uncertain signif.  Germline inactivation of BAP1	germline	BAP1	mutation,insertion,deletion,fusion	any	no					observational, prospective	Recruiting	No data	July 1, 2026(E)	July 1, 2026(E)
 NCT04792463	:duplicate:															
 NCT04792463	:duplicate:															
 NCT04792463	:duplicate:															
-NCT05266300	yes	Pts who are DPYD-gene compound heterozyg not recommends for treatment. Eligible variants:  rs3918290(c.1905+1G>A)[splice donor] 	somatic	DPYD	mutation	1:97450057:97450057:C:T,1:97450057:97450057:G:A	no					5-FU, capecitabine, tegafur	Completed	No data	2022-10-01	
-NCT05266300	yes	rs67376798(c.2846A>T) 	somatic	DPYD	mutation	1:97082390:97082390:T:A,1:97082390:97082390:A:T	no					5-FU, capecitabine, tegafur	Completed	No data	2022-10-01	
-NCT05266300	yes	rs55886062(c.1679T>G) 	somatic	DPYD	mutation	1:97515786:97515786:A:C,1:97515786:97515786:T:G	no					5-FU, capecitabine, tegafur	Completed	No data	2022-10-01	
-NCT05266300	yes	rs56038477 (rs75017182)/(c.1236G>A)	somatic	DPYD	mutation	1:97573862:97573862:C:T,1:97573862:97573862:G:A	no					5-FU, capecitabine, tegafur	Completed	No data	2022-10-01	
-NCT05266300	yes		germline	DPYD	mutation	1:97450057:97450057:C:T,1:97450057:97450057:G:A	no					5-FU, capecitabine, tegafur	Completed	No data	2022-10-01	
-NCT05266300	yes		germline	DPYD	mutation	1:97082390:97082390:T:A,1:97082390:97082390:A:T	no					5-FU, capecitabine, tegafur	Completed	No data	2022-10-01	
-NCT05266300	yes		germline	DPYD	mutation	1:97515786:97515786:A:C,1:97515786:97515786:T:G	no					5-FU, capecitabine, tegafur	Completed	No data	2022-10-01	
-NCT05266300	yes		germline	DPYD	mutation	1:97573862:97573862:C:T,1:97573862:97573862:G:A	no					5-FU, capecitabine, tegafur	Completed	No data	2022-10-01	
+NCT05266300	yes	Pts who are DPYD-gene compound heterozyg not recommends for treatment. Eligible variants:  rs3918290(c.1905+1G>A)[splice donor] 	somatic	DPYD	mutation	1:97450057:97450057:C:T,1:97450057:97450057:G:A	no					5-FU, capecitabine, tegafur	Completed	No data	June 1, 2022	October 1, 2022
+NCT05266300	yes	rs67376798(c.2846A>T) 	somatic	DPYD	mutation	1:97082390:97082390:T:A,1:97082390:97082390:A:T	no					5-FU, capecitabine, tegafur	Completed	No data	June 1, 2022	October 1, 2022
+NCT05266300	yes	rs55886062(c.1679T>G) 	somatic	DPYD	mutation	1:97515786:97515786:A:C,1:97515786:97515786:T:G	no					5-FU, capecitabine, tegafur	Completed	No data	June 1, 2022	October 1, 2022
+NCT05266300	yes	rs56038477 (rs75017182)/(c.1236G>A)	somatic	DPYD	mutation	1:97573862:97573862:C:T,1:97573862:97573862:G:A	no					5-FU, capecitabine, tegafur	Completed	No data	June 1, 2022	October 1, 2022
+NCT05266300	yes		germline	DPYD	mutation	1:97450057:97450057:C:T,1:97450057:97450057:G:A	no					5-FU, capecitabine, tegafur	Completed	No data	June 1, 2022	October 1, 2022
+NCT05266300	yes		germline	DPYD	mutation	1:97082390:97082390:T:A,1:97082390:97082390:A:T	no					5-FU, capecitabine, tegafur	Completed	No data	June 1, 2022	October 1, 2022
+NCT05266300	yes		germline	DPYD	mutation	1:97515786:97515786:A:C,1:97515786:97515786:T:G	no					5-FU, capecitabine, tegafur	Completed	No data	June 1, 2022	October 1, 2022
+NCT05266300	yes		germline	DPYD	mutation	1:97573862:97573862:C:T,1:97573862:97573862:G:A	no					5-FU, capecitabine, tegafur	Completed	No data	June 1, 2022	October 1, 2022
 NCT05266300	:duplicate:															
-NCT05275478	yes	have an MTAP deletion (homozygous)	somatic	MTAP	deletion	any	no					TNG908	Recruiting	Phase 1/Phase 2	2025-09-09(est.)	
+NCT05275478	yes	have an MTAP deletion (homozygous)	somatic	MTAP	deletion	any	no					TNG908	Recruiting	Phase 1/Phase 2	April 2025(E)	September 2025(E)
 NCT05275478	:duplicate:															
 NCT05275478	:duplicate:															
-NCT00397384	yes	general GI, not specificially CHOL or biliary, but mesh term is a hit.  KRAS WT sufficient, but concern seems to be p.12 & p.13 WTs	somatic	KRAS	mutation	G12:any::disqualifying:,G13:any::disqualifying:	no					cetuximab + erlotinib	Completed	Phase 1	2013-06-09	
-NCT00654160	yes	general GI, not specifically CHOL/biliary, but mesh term is a hit. TA indel geotype. [ PMID: 25887876 indicates this is a poly-mutation, most commonly  as [A(TA)7TAA]  ]	somatic	UGT1A1	insertion	TA,TATA,TATATA,TATATATA,TATATATATA,TATATATATATA,TATATATATATATA	no					irinotecan + fluorouracil + leucovorin	Completed	Phase 1	2012-12-03	
+NCT00397384	yes	general GI, not specificially CHOL or biliary, but mesh term is a hit.  KRAS WT sufficient, but concern seems to be p.12 & p.13 WTs	somatic	KRAS	mutation	G12:any::disqualifying:,G13:any::disqualifying:	no					cetuximab + erlotinib	Completed	Phase 1	June 2013	June 2013
+NCT00654160	yes	TA indel genotype	somatic	UGT1A1	insertion	TA,TATA,TATATA,TATATATA,TATATATATA,TATATATATATA,TATATATATATATA	no					irinotecan + fluorouracil + leucovorin	Completed	Phase 1	November 2010	December 3, 2012
 NCT00654160	:duplicate:															
-NCT05514912	yes	FGFR2 fusion/translocation pos or neg	somatic	FGFR2	fusion	any	no					infigratinib + nab-paclitaxel, cisplatin, gemcitabine	Not yet recruiting	Phase 2	2027-06-23(est.)	
-NCT05514912	yes		somatic	FGFR2	fusion	none	no					nab-paclitaxel, cisplatin, gemcitabine	Not yet recruiting	Phase 2	2027-06-23(est.)	
+NCT05514912	yes	FGFR2 fusion/translocation pos or neg	somatic	FGFR2	fusion	any	no					infigratinib + nab-paclitaxel, cisplatin, gemcitabine	Not yet recruiting	Phase 2	June 23, 2027(E)	June 23, 2027(E)
+NCT05514912	yes		somatic	FGFR2	fusion	none	no					nab-paclitaxel, cisplatin, gemcitabine	Not yet recruiting	Phase 2	June 23, 2027(E)	June 23, 2027(E)
 NCT05514912	:duplicate:															
 NCT05514912	:duplicate:															
-NCT05510427	yes	FGFR2 fusion somatic	somatic	FGFR2	fusion	any	no					infigratinib + bevacizumab + atezolizumab	Not yet recruiting	Phase 1	2023-11-19(est.)	
+NCT05510427	yes	FGFR2 fusion somatic	somatic	FGFR2	fusion	any	no					infigratinib + bevacizumab + atezolizumab	Not yet recruiting	Phase 1	November 19, 2024(E)	November 19, 2026(E)
 NCT05510427	:duplicate:															
-NCT05501912	yes		somatic	BRAF	mutation	V600:any:	no					ABM-1310	Recruiting	Phase 1	2025-08-24(est.)	
+NCT05501912	yes		somatic	BRAF	mutation	V600:any:	no					ABM-1310	Recruiting	Phase 1	August 24, 2025(E)	August 24, 2025(E)
 NCT05501912	:duplicate:															
-NCT05094336	yes	homozygous loss of CDKN2A and/or MTAP(null)  in tumor or blood [ctDNA]	somatic	CDKN2A,MTAP	mutation,insertion,deletion	any	no					AMG-193, with or without docetaxel	Recruiting	Phase 1/Phase 2	2026-12-13(est.)	
+NCT05094336	yes	homozygous loss of CDKN2A and/or MTAP(null)  in tumor or blood [ctDNA]	somatic	CDKN2A,MTAP	mutation,insertion,deletion	any	no					AMG-193, w/wo  docetaxel	Recruiting	Phase 1/Phase 2	September 8, 2025(E)	May 8, 2028(E)
 NCT05094336	:skip:	lost MTAP expr in tumor	somatic	MTAP												
-NCT05039892	yes	FGFR2 Gene Alterations, per title	somatic	FGFR2	mutation,insertion,deletion,fusion	any	no					3D185	Not yet recruiting	Phase 2	2026-12-09(est.)	
+NCT05039892	yes	FGFR2 Gene Alterations, per title	somatic	FGFR2	mutation,insertion,deletion,fusion	any	no					3D185	Not yet recruiting	Phase 2	December 2023(E)	June 2024(E)
 NCT05039892	:duplicate:															
-NCT05429697	yes	PD-L1 expression 1% or more;  or MSI-H, or dMMR positive (loss of MLH1, MSH2, MSH6 or PMS2)	somatic	:mm_repair:	mutation,insertion,deletion,fusion	any	no					 Pembrolizumab + allogenic  NK cells (SMT-NK)	Recruiting	Phase 2/Phase 3	2026-06-08(est.)	
+NCT05429697	yes	PD-L1 expression 1% or more;  or MSI-H, or dMMR positive (loss of MLH1, MSH2, MSH6 or PMS2)	somatic	:mm_repair:	mutation,insertion,deletion,fusion	any	no					 Pembrolizumab + allogenic  NK cells (SMT-NK)	Recruiting	Phase 2/Phase 3	January 8, 2025(E)	June 8, 2026(E)
 NCT05429697	:skip:	loss of MLH1, MSH2, MSH6 or PMS2														
-NCT04941287	yes	actionable mutations excluded; one example of eligibility is  FGFR fusion patients in the 3rd line setting	somatic	FGFR1,FGFR2,FGFR3,FGFR4	fusion	any	no					atezolizumab, varlilumab, w/wo cobimetinib	Recruiting	Phase 2	2023-09-01(est.)	
-NCT05564403	yes	have RAS/RAF/MEK/ERK pathway muts as per ComboMATCH (EAY191).  BRAF V600E ineligible	somatic	NRAS,KRAS,HRAS	mutation,insertion,deletion,fusion	any	no					mFOLFOX6 w/wo binimetinib	Not yet recruiting	Phase 2	2025-01-21(est.)	
-NCT05564403	yes		somatic	BRAF	mutation	V600E:disqualifying:	no					mFOLFOX6 w/wo binimetinib	Not yet recruiting	Phase 2	2025-01-21(est.)	
-NCT05564403	yes		somatic	BRAF	insertion,deletion,fusion	any	no					mFOLFOX6 w/wo binimetinib	Not yet recruiting	Phase 2	2025-01-21(est.)	
+NCT04941287	yes	actionable mutations excluded; one example of eligibility is  FGFR fusion patients in the 3rd line setting	somatic	FGFR1,FGFR2,FGFR3,FGFR4	fusion	any	no					atezolizumab, varlilumab, w/wo cobimetinib	Recruiting	Phase 2	September 1, 2023(E)	September 1, 2023(E)
+NCT05564403	yes	have RAS/RAF/MEK/ERK pathway muts as per ComboMATCH (EAY191).  BRAF V600E ineligible	somatic	NRAS,KRAS,HRAS	mutation,insertion,deletion,fusion	any	no					mFOLFOX6 w/wo binimetinib	Not yet recruiting	Phase 2	January 21, 2025(E)	January 21, 2025(E)
+NCT05564403	yes		somatic	BRAF	mutation	V600E:disqualifying:	no					mFOLFOX6 w/wo binimetinib	Not yet recruiting	Phase 2	January 21, 2025(E)	January 21, 2025(E)
+NCT05564403	yes		somatic	BRAF	insertion,deletion,fusion	any	no					mFOLFOX6 w/wo binimetinib	Not yet recruiting	Phase 2	January 21, 2025(E)	January 21, 2025(E)
 NCT05564403	:duplicate:															
-NCT05565794	yes	FGFR2 fusions/rearr.; not metastatic	somatic	FGFR2	insertion,deletion,fusion	any	no					pemigatinib	Not yet recruiting	Phase 2	2026-11-09(est.)	
+NCT05565794	yes	FGFR2 fusions/rearr.; not metastatic	somatic	FGFR2	insertion,deletion,fusion	any	no					pemigatinib	Not yet recruiting	Phase 2	November 2025(E)	November 2026(E)
 NCT05565794	:duplicate:															
-NCT05678270	yes	FGFR2 fusion / rearr	somatic	FGFR2	insertion,deletion,fusion	any	no					ICP-192	Recruiting	Phase 2	2026-12-09(est.)	
-NCT05614739	yes	FGFR3 pathway alteration in tumor or blood [ctDNA];  a) FGFR3 or its ligands	somatic	FGFR3,FGF1,FGF2,FGF9	mutation,insertion,deletion,fusion	any	no					LOXO-435	Not yet recruiting	Phase 1	2025-06-09(est.)	
-NCT04956640	yes	in tumor or ctDNA	somatic	KRAS	mutation	G12C	no					LY3537982 mono or combo therapy	Recruiting	Phase 1	2023-11-09(est.)	
+NCT05678270	yes	FGFR2 fusion / rearr	somatic	FGFR2	insertion,deletion,fusion	any	no					ICP-192	Recruiting	Phase 2	May 2026(E)	December 2026(E)
+NCT05614739	yes	FGFR3 pathway alteration in tumor or blood [ctDNA];  a) FGFR3 or its ligands	somatic	FGFR3,FGF1,FGF2,FGF9	mutation,insertion,deletion,fusion	any	no					LOXO-435	Recruiting	Phase 1	June 2025(E)	June 2025(E)
+NCT04956640	yes	in tumor or ctDNA	somatic	KRAS	mutation	G12C	no					LY3537982 mono or combo therapy	Recruiting	Phase 1	September 2025(E)	September 2025(E)
 NCT04956640	:duplicate:															
 NCT04956640	:duplicate:															
-NCT05241834	yes	RET fusion or mut	somatic	RET	mutation,fusion	any	no					LOXO-260	Recruiting	Phase 1	2026-04-09(est.)	
-NCT05307705	yes	H1047R or other approved activating mut	somatic	PIK3CA	mutation	any	no					LOXO-783 mono or combo therapy	Recruiting	Phase 1	2025-05-09(est.)	
-NCT04104230	yes	study includes genes asssociated with  hereditary cancers	germline	STK11,CDKN2A,PRSS1,BRCA1,BRCA2,PALB2,MLH1,MSH2,MSH6,PMS2,EPCAM,ATM	mutation,insertion,deletion,fusion	any	no					observational	Recruiting	No data	2025-01-09(est.)	
+NCT05241834	yes	any solid tumor; mut in selected other cancers	somatic	RET	fusion	any	no					LOXO-260	Recruiting	Phase 1	April 2026(E)	April 2026(E)
+NCT05307705	yes	H1047R or other approved activating mut	somatic	PIK3CA	mutation	any	no					LOXO-783 mono or combo therapy	Recruiting	Phase 1	May 2025(E)	May 2025(E)
+NCT04104230	yes	study includes genes asssociated with  hereditary cancers	germline	STK11,CDKN2A,PRSS1,BRCA1,BRCA2,PALB2,MLH1,MSH2,MSH6,PMS2,EPCAM,ATM	mutation,insertion,deletion,fusion	any	no					observational	Recruiting	No data	January 2025(E)	January 2025(E)
 NCT04104230	:duplicate:															
 NCT04104230	:duplicate:															
-NCT03452774	yes	cancer-related indicated by IHC, PCR, FISH or NGS	somatic	:synergy_ai:	mutation,insertion,deletion,fusion	any	no					observational	Recruiting	No data	2025-06-09(est.)	
-NCT03583125	yes	FGFR alts	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					EOC317	Unknown status	Phase 1	2020-11-29(est.)	
-NCT03768375	yes	mut or abnormal activation of erbb2 pathway components, plus their own profiling	somatic	ERBB2	mutation,insertion,deletion	any	no					FORFIRINOX combo therapy	Unknown status	Phase 2	2021-12-30(est.)	
-NCT03772132	yes	mut or abnormal activation of erbb2 pathway components, plus their own profiling	somatic	ERBB2	mutation,insertion,deletion	any	no					FORFIRINOX	Unknown status	Phase 2	2021-12-09(est.)	
-NCT02304809	yes	BRAF V600-mut. Or any other activating mut 	somatic	BRAF	mutation	V600:any:	no				excl: BRAF V600-mut melanoma or CRC	Vemurafenib	Active, not recruiting	Phase 2	2024-05-09(est.)	
-NCT02304809	yes		somatic	BRAF	mutation	T241P,F468S,Q257R	no					Vemurafenib	Active, not recruiting	Phase 2	2024-05-09(est.)	
+NCT03452774	yes	cancer-related indicated by IHC, PCR, FISH or NGS	somatic	:synergy_ai:	mutation,insertion,deletion,fusion	any	no					observational	Recruiting	No data	December 2024(E)	June 2025(E)
+NCT03583125	yes	FGFR alts	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					EOC317	Unknown status	Phase 1	February 29, 2020(E)	November 29, 2020(E)
+NCT03768375	yes	mut or abnormal activation of erbb2 pathway components, plus their own profiling	somatic	ERBB2	mutation,insertion,deletion	any	no					FORFIRINOX combo therapy	Unknown status	Phase 2	December 30, 2020(E)	December 30, 2021(E)
+NCT03772132	yes	mut or abnormal activation of erbb2 pathway components, plus their own profiling	somatic	ERBB2	mutation,insertion,deletion	any	no					FORFIRINOX	Unknown status	Phase 2	December 2020(E)	December 2021(E)
+NCT02304809	yes	BRAF V600-mut. Or any other activating mut 	somatic	BRAF	mutation	V600:any:	no				excl: BRAF V600-mut melanoma or CRC	Vemurafenib	Active, not recruiting	Phase 2	May 7, 2019	May 2024(E)
+NCT02304809	yes		somatic	BRAF	mutation	T241P,F468S,Q257R	no					Vemurafenib	Active, not recruiting	Phase 2	May 7, 2019	May 2024(E)
 NCT02304809	:duplicate:															
-NCT02564900	yes	HER2 expression or mutation (part 2d, not BRCA or GI/GEJ adeno)	somatic	ERBB2	mutation,insertion,deletion,fusion	any	no					DS-8201a	Active, not recruiting	Phase 1	2023-09-30(est.)	
-NCT02746081	yes	IDH1-R132X mutation	somatic	IDH1	mutation	R132:any:	no					BAY1436032	Active, not recruiting	Phase 1	2023-12-29(est.)	
-NCT03101839	yes	Part A: KRAS mut	somatic	KRAS	mutation,insertion,deletion	any	no					AZD4785	Completed	Phase 1	2019-01-08	
-NCT03497624	yes	ROS1 fusion	somatic	ROS1	fusion	any	 no					biospecimen collection	Completed	No data	2020-09-04	
+NCT02564900	yes	HER2 expression or mutation (part 2d, not BRCA or GI/GEJ adeno)	somatic	ERBB2	mutation,insertion,deletion,fusion	any	no					DS-8201a	Active, not recruiting	Phase 1	February 1, 2019	September 30, 2023(E)
+NCT02746081	yes	IDH1-R132X mutation	somatic	IDH1	mutation	R132:any:	no					BAY1436032	Active, not recruiting	Phase 1	November 8, 2018	December 29, 2023(E)
+NCT03101839	yes	solid tumors (e.g. NSCLC, mCRC, pancreatic or CHOL) with KRAS mut.	somatic	KRAS	mutation,insertion,deletion	any	no					AZD4785	Completed	Phase 1	January 8, 2019	January 8, 2019
+NCT03497624	yes	ROS1 fusion for PDX development	somatic	ROS1	fusion	any	 no					biospecimen collection	Completed	No data	September 4, 2020	September 4, 2020
 NCT03497624	:duplicate:															
 NCT03497624	:duplicate:															
-NCT04083976	yes	FGFR mut or fusion. Excludes FGFR gatekeeper and resistance mutations	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any						Erdafitinib	Recruiting	Phase 2	2028-12-04(est.)	
+NCT04083976	yes	FGFR [1-4] mut or fusion, excluding gatekeeper and resistance muts	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	 no					Erdafitinib	Recruiting	Phase 2	December 30, 2027(E)	December 4, 2028(E)
 NCT04083976	:duplicate:															
 NCT04083976	:duplicate:															
 NCT04083976	:duplicate:															
-NCT04145297	yes	MAPK-mutated GI malignancies: KRAS, NRAS, HRAS,   BRAFnon-V600, MEK, and ERK	somatic	:mapk_pathway_no_BRAF:	mutation,insertion,deletion,fusion	any	no					Ulixertinib + Hydroxychloroquine	Recruiting	Phase 1	2025-03-30(est.)	
-NCT04145297	yes	subjects may have BRAF non-V600	somatic	BRAF	mutation	V600:any::disqualifying:	no					Ulixertinib + Hydroxychloroquine	Recruiting	Phase 1	2025-03-30(est.)	
-NCT04906473	yes	IDH1 mut	somatic	IDH1	mutation,insertion,deletion,fusion	any	no					KY100001	Not yet recruiting	Phase 1	2023-10-31(est.)	
-NCT04962867	yes	selected FGFR genetic alterations (incl. fusion, mut, amp).  Other activating point muations allowed as listed; or FGFR1/2 amp	somatic	FGFR1,FGFR2,FGFR3	fusion	any						E7090	Recruiting	Phase 2	2024-12-31(est.)	
-NCT04962867	yes	activating mut (listed)	somatic	FGFR1	mutation	P150S, T340M, R445W, N546K, K656E						E7090	Recruiting	Phase 2	2024-12-31(est.)	
-NCT04962867	yes	activating mut (listed)	somatic	FGFR2	mutation	C62Y, A67V, N82K, D101Y, E160K, E163K, M186T, R203H, R210Q, Q212K, R251Q,             S252W, P253R, P253L, A264T, W290C, K310R, Y328N, G364E, Y375C, C382R, A389T, V392A,         R399Q, H416R, I422V, H544Q, N549H, N549K, N549D, N549S, L560F, K659E, K659N, R664W,E718K, S791T						E7090	Recruiting	Phase 2	2024-12-31(est.)	
-NCT04962867	yes	activating mut (listed)	somatic	FGFR3	mutation	G380E, G380R, A391E, K650T, K650E, K650Q, K650N						E7090	Recruiting	Phase 2	2024-12-31(est.)	
-NCT04962867	yes		somatic	FGFR1	mutation	V561:any::disqualifying:						E7090	Recruiting	Phase 2	2024-12-31(est.)	
-NCT04962867	yes		somatic	FGFR2	mutation	V564:any::disqualifying:, V565:any::disqualifying:						E7090	Recruiting	Phase 2	2024-12-31(est.)	
-NCT04962867	yes		somatic	FGFR3	mutation	V555:any::disqualifying:, V557:any::disqualifying:						E7090	Recruiting	Phase 2	2024-12-31(est.)	
-NCT04962867	yes		somatic	FGFR4	mutation	V550:any::disqualifying:						E7090	Recruiting	Phase 2	2024-12-31(est.)	
-NCT04962867	:skip:	FGFR1,2 amp	somatic	FGFR1,FGFR2	amp							E7090	Recruiting	Phase 2	2024-12-31(est.)	
-NCT04962867	yes	disqualifying:  genetic muts (excluding VUS): KRAS, NRAS, EGFR, BRAF V600,  or translocations  among ALK, ROS1, or NTRK  (assume NTRK1,NTRK2,NTRK3)	somatic	BRAF	mutation	V600:any::disqualifying:						E7090	Recruiting	Phase 2	2024-12-31(est.)	
-NCT04962867	yes	disqualifying:  genetic muts (excluding VUS): KRAS, NRAS, EGFR, BRAF V600,  or translocations  ALK, ROS1, or NTRK  (assume NTRK1,NTRK2,NTRK3)	somatic	ALK,ROS1,NTRK1,NTRK2,NTRK3	fusion	any:disqualifying:						E7090	Recruiting	Phase 2	2024-12-31(est.)	
-NCT04973163	yes		somatic	KRAS	mutation	G12C	no					BI 1823911, with or without BI 1701963	Recruiting	Phase 1	2024-07-26(est.)	
+NCT04145297	yes	MAPK-mutated GI malignancies: KRAS, NRAS, HRAS,   BRAFnon-V600, MEK, and ERK	somatic	:mapk_pathway_no_BRAF:	mutation,insertion,deletion,fusion	any	no					Ulixertinib + Hydroxychloroquine	Active, not recruiting	Phase 1	March 30, 2023(E)	March 30, 2025(E)
+NCT04145297	yes	subjects may have BRAF non-V600	somatic	BRAF	mutation	V600:any::disqualifying:	no					Ulixertinib + Hydroxychloroquine	Active, not recruiting	Phase 1	March 30, 2023(E)	March 30, 2025(E)
+NCT04906473	yes	IDH1 mut	somatic	IDH1	mutation,insertion,deletion,fusion	any	no					KY100001	Not yet recruiting	Phase 1	December 31, 2022(E)	October 31, 2023(E)
+NCT04962867	yes	selected FGFR genetic alterations (incl. fusion, mut, amp).  Other activating point muations allowed as listed; or FGFR1/2 amp	somatic	FGFR1,FGFR2,FGFR3	fusion	any	 no					E7090	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2024(E)
+NCT04962867	yes	activating mut (listed)	somatic	FGFR1	mutation	P150S, T340M, R445W, N546K, K656E	 no					E7090	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2024(E)
+NCT04962867	yes	activating mut (listed)	somatic	FGFR2	mutation	C62Y, A67V, N82K, D101Y, E160K, E163K, M186T, R203H, R210Q, Q212K, R251Q,             S252W, P253R, P253L, A264T, W290C, K310R, Y328N, G364E, Y375C, C382R, A389T, V392A,         R399Q, H416R, I422V, H544Q, N549H, N549K, N549D, N549S, L560F, K659E, K659N, R664W,E718K, S791T	 no					E7090	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2024(E)
+NCT04962867	yes	activating mut (listed)	somatic	FGFR3	mutation	G380E, G380R, A391E, K650T, K650E, K650Q, K650N	 no					E7090	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2024(E)
+NCT04962867	yes		somatic	FGFR1	mutation	V561:any::disqualifying:	 no					E7090	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2024(E)
+NCT04962867	yes		somatic	FGFR2	mutation	V564:any::disqualifying:, V565:any::disqualifying:	 no					E7090	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2024(E)
+NCT04962867	yes		somatic	FGFR3	mutation	V555:any::disqualifying:, V557:any::disqualifying:	 no					E7090	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2024(E)
+NCT04962867	yes		somatic	FGFR4	mutation	V550:any::disqualifying:	 no					E7090	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2024(E)
+NCT04962867	:skip:	FGFR1,2 amp	somatic	FGFR1,FGFR2	amp							E7090	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2024(E)
+NCT04962867	yes	disqualifying:  genetic muts (excluding VUS): KRAS, NRAS, EGFR, BRAF V600,  or translocations  among ALK, ROS1, or NTRK  (assume NTRK1,NTRK2,NTRK3)	somatic	BRAF	mutation	V600:any::disqualifying:	 no					E7090	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2024(E)
+NCT04962867	yes	disqualifying:  genetic muts (excluding VUS): KRAS, NRAS, EGFR, BRAF V600,  or translocations  ALK, ROS1, or NTRK  (assume NTRK1,NTRK2,NTRK3)	somatic	ALK,ROS1,NTRK1,NTRK2,NTRK3	fusion	any:disqualifying:	 no					E7090	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2024(E)
+NCT04973163	yes		somatic	KRAS	mutation	G12C	no					BI 1823911 w/wo  BI 1701963	Recruiting	Phase 1	July 26, 2024(E)	July 26, 2024(E)
 NCT04973163	:duplicate:															
-NCT05023655	yes 	ARID1A mutation	somatic	ARID1A	mutation,insertion,deletion,fusion	any	no					Tazemetostat	Suspended	Phase 2	2025-01-09(est.)	
+NCT05023655	yes 	ARID1A mutation	somatic	ARID1A	mutation,insertion,deletion,fusion	any	no					Tazemetostat	Suspended	Phase 2	January 2025(E)	January 2026(E)
 NCT05023655	:duplicate:															
 NCT05023655	:duplicate:															
-NCT05176665	yes	EGFR/cMET gene alterations or protein over expression:  cMET amp (CN>=5); or cMET overexpr; or EGFR overexpr; or other EGFR or cMET alteration where point mutation activates EGFR or cMET or indels, CN amp	somatic	EGFR,MET	mutation,insertion,deletion	any						EMB-01	Recruiting	Phase 1/Phase 2	2024-08-31(est.)	
+NCT05176665	yes	EGFR/cMET gene alterations or protein over expression:  cMET amp (CN>=5); or cMET overexpr; or EGFR overexpr; or other EGFR or cMET alteration where point mutation activates EGFR or cMET or indels, CN amp	somatic	EGFR,MET	mutation,insertion,deletion	any	 no					EMB-01	Recruiting	Phase 1/Phase 2	August 4, 2024(E)	August 31, 2024(E)
 NCT05176665	:duplicate:															
-NCT05222971	yes	Somatic or germline mutation of at least one the DNA damage repair gene including [list]	somatic	:dna_repair:	mutation,insertion,deletion,fusion	any						Olaparib + durvalumab	Recruiting	Phase 2	2024-10-30(est.)	
-NCT05222971	yes		germline	:dna_repair:	mutation,insertion,deletion,fusion	any						Olaparib + durvalumab	Recruiting	Phase 2	2024-10-30(est.)	
+NCT05222971	yes	Somatic or germline mutation of at least one the DNA damage repair gene including [list]	somatic	:dna_repair:	mutation,insertion,deletion,fusion	any	 no					Olaparib + durvalumab	Recruiting	Phase 2	October 30, 2023(E)	October 30, 2024(E)
+NCT05222971	yes		germline	:dna_repair:	mutation,insertion,deletion,fusion	any	 no					Olaparib + durvalumab	Recruiting	Phase 2	October 30, 2023(E)	October 30, 2024(E)
 NCT05222971	:duplicate:															
-NCT05228015	yes	NF2 deficiency (cohort 2)	somatic	NF2	mutation,insertion,deletion,fusion	any						IK-930	Recruiting	Phase 1	2024-10-09(est.)	
-NCT05228015	yes	YAP1 or TAZ fusion (TAZ = WWTR1) (cohort 4)	somatic	YAP1,TAZ,WWTR1	fusion	any						IK-930	Recruiting	Phase 1	2024-10-09(est.)	
-NCT05244551	yes	for CHOL: FGFR2 fusions and/or [re]arrangments	somatic	FGFR2	insertion,deletion,fusion	any						ABSK061	Recruiting	Phase 1	2025-04-30(est.)	
-NCT01308840	yes	combined KRAS / BRAF WT	somatic	KRAS	none		yes	BRAF	none			Gemcitabine + Oxaliplatin + Panitumumab	Completed	Phase 2	2013-01-09	
-NCT01524978	yes	BRAF V600	somatic	BRAF	mutation	V600:any:	no					vemurafenib	Completed	Phase 2	2016-10-28	
+NCT05228015	yes	NF2 deficiency (cohort 2)	somatic	NF2	mutation,insertion,deletion,fusion	any	 no					IK-930	Recruiting	Phase 1	October 2024(E)	October 2024(E)
+NCT05228015	yes	YAP1 or TAZ fusion (TAZ = WWTR1) (cohort 4)	somatic	YAP1,TAZ,WWTR1	fusion	any	 no					IK-930	Recruiting	Phase 1	October 2024(E)	October 2024(E)
+NCT05244551	yes	for CHOL: FGFR2 fusions and/or [re]arrangments	somatic	FGFR2	insertion,deletion,fusion	any	 no					ABSK061	Recruiting	Phase 1	April 30, 2025(E)	April 30, 2025(E)
+NCT01308840	yes	combined KRAS / BRAF WT	somatic	KRAS,BRAF	mutation,insertion,deletion,fusion	any:disqualifying:	 no					Gemcitabine + Oxaliplatin + Panitumumab	Completed	Phase 2	January 2013	January 2013
+NCT01308840	yes	combined KRAS / BRAF WT	somatic	KRAS,BRAF	none		 no					Gemcitabine + Oxaliplatin + Panitumumab	Completed	Phase 2	January 2013	January 2013
+NCT01524978	yes	BRAF V600	somatic	BRAF	mutation	V600:any:	no					vemurafenib	Completed	Phase 2	October 28, 2016	October 28, 2016
 NCT01524978	:duplicate:															
-NCT05221320	yes	certain GI cancers  [compare to NCT04566393 & NCT04145297]. looking for MAPK-mutated malignancy:  KRAS, NRAS, HRAS, BRAF non-V600, MEK 1/2 (MAP2K1/2), or ERK 1/2 (MAPK3/1);  dMMR/MSI-H allowed	somatic	:mapk_pathway_no_BRAF:	mutation,insertion,deletion,fusion	any	yes	BRAF	mutation	V600:any::disqualifying:		Ulixertinib + Hydroxychloroquine	Recruiting	Phase 2	2024-06-19(est.)	
-NCT05221320	yes		somatic	BRAF	mutation	any	yes	BRAF	mutation	V600:any::disqualifying:		Ulixertinib + Hydroxychloroquine	Recruiting	Phase 2	2024-06-19(est.)	
-NCT05221320	:duplicate:															
+NCT05221320	yes	looking for MAPK-mutated malignancy:  KRAS, NRAS, HRAS, BRAF non-V600, MEK 1/2 (MAP2K1/2), or ERK 1/2 (MAPK3/1);  dMMR/MSI-H allowed	somatic	KRAS,NRAS,MEK1,MEK2,MAP2K1,MAP2K2,ERK1,ERK2,MAPK3,MAPK1	mutation,insertion,deletion,fusion	any	 no					Ulixertinib + Hydroxychloroquine	Recruiting	Phase 2	March 6, 2024(E)	June 19, 2024(E)
+NCT05221320	yes		somatic	BRAF	mutation	any	 no					Ulixertinib + Hydroxychloroquine	Recruiting	Phase 2	March 6, 2024(E)	June 19, 2024(E)
+NCT05221320	yes		somatic	BRAF	mutation	V600:any::disqualifying:	 no					Ulixertinib + Hydroxychloroquine	Recruiting	Phase 2	March 6, 2024(E)	June 19, 2024(E)
+NCT05727176	yes	FGFR2 fusions or other rearr. In chol.	somatic	FGFR2	fusion	any	no					Futibatinib (TAS-120)	Not yet recruiting	Phase 2	June 2025(E)	June 2026(E)
+NCT05727176	:duplicate:															
+NCT05727176	:duplicate:															
+NCT05732831	yes	solid tumor; homozyg del of MTAP	somatic	MTAP	deletion	any	no					TNG462	Not yet recruiting	Phase 1/Phase 2	May 2026(E)	September 2026(E)
+NCT05732831	:duplicate:															
+NCT05732831	:duplicate:															
