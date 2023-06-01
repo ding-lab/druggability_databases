@@ -1,0 +1,57 @@
+Study	Involves genomics	Genomics inclusion summary	Call context	Gene	Alteration Type	Position	Has additional requirement	Gene(additional)	Alteration Type(additional)	Position(additional)	Exclusions (not consistently filled in)	Intervention	Overall status	Phase	Primary completion date	Study completion date
+NCT01351103	yes	dose escalation: BRAF mut CRC.  Or  alts upstream in Wnt pathway.  Dose expansion: BRAF mut CRC with RNF43 mut and/or RSPO fusion;  alts upstream in Wnt pathway (eg RNF43 or RSPO fusion)	somatic	BRAF	mutation	any	no					LGK974	Active, not recruiting	Phase 1	June 14, 2021	November 23, 2023(E)
+NCT01351103	yes		somatic	:wnt_upstream:	mutation,insertion,deletion,fusion	any	no					LGK974	Active, not recruiting	Phase 1	June 14, 2021	November 23, 2023(E)
+NCT02675946	yes	P1: alts (e.g., Rspo2 fusion, Rspo3 fusion or predicted LOF muts in RNF43) must be upstream in WNT pathway and no predicted change-of-fn alts in genes (e.g., APC, CTNNB1, Axin1) downstream in WNT pathway	somatic	:wnt_upstream:	mutation,insertion,deletion,fusion	any	no					CGX1321	Recruiting	Phase 1	March 2023(E)	March 2023(E)
+NCT02675946	yes	P1b or rollover: CRC with mismatch-repair proficient or MSS in subjects that have  and alterations (ditto) upstream in WNT pathway and no (ditto) downstream in WNT	somatic	:wnt_upstream:	mutation,insertion,deletion,fusion	any	no					CGX1321, pembrolizumab	Recruiting	Phase 1	March 2023(E)	March 2023(E)
+NCT02675946	yes	P1b: BRAF V600E with alts (e.g., ) upstream in SNT pathway and no predicted change-of-function alts (e.g.) downstream in WNT pathway	somatic	:wnt_upstream:	mutation,insertion,deletion,fusion	any	yes	BRAF	mutation	V600E		CGX1321, encorafenib, cetuximab	Recruiting	Phase 1	March 2023(E)	March 2023(E)
+NCT03519412	:skip:	MMR-deficient -> trial (cohort D)										pembrolizumab	Recruiting	Phase 2	September 2023(E)	December 2023(E)
+NCT03519412	yes	RAS mutant + MMR-proficient + MGMT IHC neg. +  (high level of) MGMT promoter methylated patents -> priming	somatic	HRAS,NRAS,KRAS	mutation,insertion,deletion,fusion	any	no					temozolomide	Recruiting	Phase 2	September 2023(E)	December 2023(E)
+NCT03519412	:skip:	MMR-deficient or  (TMZ mut. Load > 20 mut./Mb)										pembrolizumab	Recruiting	Phase 2	September 2023(E)	December 2023(E)
+NCT03519412	:duplicate:															
+NCT03608046	yes	require BRAF V600E WT and MSS tumors	somatic	BRAF	none		no					Avelumab, Cetuximab, Irinotecan	Recruiting	Phase 2	December 31, 2023(E)	December 31, 2023(E)
+NCT03667716	yes	for CRC:  MSS +  KRAS mut.	somatic	KRAS	mutation	any	no					COM701 w/wo nivolumab	Active, not recruiting	Phase 1	December 2023(E)	December 2023(E)
+NCT03668431	yes	BRAF V600E with WT for KRAS and NRAS	somatic	BRAF	mutation	V600E	no					PDR001, Dabrafenib, Trametinib	Recruiting	Phase 2	September 1, 2022(E)	December 1, 2022(E)
+NCT03668431	yes		somatic	KRAS,NRAS	none		no									
+NCT03668431	yes		somatic	KRAS,NRAS	mutation,insertion,deletion,fusion	any:disqualifying:	 no									
+NCT03727763	yes	BRAF V600E / KRAS WT;  patients with KRAS/NRAS mut are excluded	somatic	BRAF	mutation	V600E	no					FOLFIRI, vemurafenib, cetuximab	Recruiting	Phase 2	December 1, 2021(E)	December 31, 2022(E)
+NCT03727763	yes		somatic	KRAS,NRAS	none		no									
+NCT03727763	yes		somatic	KRAS,NRAS	mutation,insertion,deletion,fusion	any:disqualifying:	 no									
+NCT03785249	yes	solid tumor KRAS G12C	somatic	KRAS	mutation	G12C	no					adagrasib (MRTX849) w/wo cetuximab	Recruiting	Phase 1/Phase 2	December 2023(E)	September 2024(E)
+NCT03785249	:duplicate:															
+NCT03785249	:duplicate:															
+NCT03785249	:duplicate:															
+NCT03795311	yes	excludes DPYD muts; excludes UGT1A1 muts	somatic	DPYD,UGT1A1	none		no					FOLFIRINOX + Bevacizumab	Unknown status	Phase 1/Phase 2	January 7, 2023(E)	January 7, 2023(E)
+NCT03947385	yes	GNAQ/GNA11 (hotspot) mutations or PRKC fusions	somatic	GNAQ,GNA11	mutation	any	no					IDE196	Recruiting	Phase 1/Phase 2	December 31, 2023(E)	July 31, 2024(E)
+NCT03947385	yes	GNAQ/GNA11 (hotspot) mutations or PRKC fusions	somatic	PRKCA,PRKCB,PRKCD,PRKCE,PRKCG,PRKCH,PRKCI,PRKCQ,PRKCZ	fusion	any	no					IDE196	Recruiting	Phase 1/Phase 2	December 31, 2023(E)	July 31, 2024(E)
+NCT03947385	yes	GNAQ/GNA11 (hotspot)  mutations	somatic	GNAQ,GNA11	mutation	any	no					IDE196, binimetinib	Recruiting	Phase 1/Phase 2	December 31, 2023(E)	July 31, 2024(E)
+NCT03947385	yes	GNAQ/GNA11 (hotspot)  mutations	somatic	GNAQ,GNA11	mutation	any	no					IDE196, crizotinib	Recruiting	Phase 1/Phase 2	December 31, 2023(E)	July 31, 2024(E)
+NCT03953235	yes	includes MSS CRC and optional VEGF or EGFR therapies.  Any of mutations:  [list omitted]	somatic	BRAF	mutation	G466V	no					GRT-C903, GRT-R904, nivolumab, ipilimumab	Active, not recruiting	Phase 1/Phase 2	December 2023(E)	December 2023(E)
+NCT03953235	yes	-	somatic	CTNNB1	mutation	S37F,S45F,S45P,T41A	no					GRT-C903, GRT-R904, nivolumab, ipilimumab	Active, not recruiting	Phase 1/Phase 2	December 2023(E)	December 2023(E)
+NCT03953235	yes	-	somatic	ERBB2	mutation	Y772_A775dup	no					GRT-C903, GRT-R904, nivolumab, ipilimumab	Active, not recruiting	Phase 1/Phase 2	December 2023(E)	December 2023(E)
+NCT03953235	yes	-	somatic	KRAS	mutation	G12C,G12D,G12V,G13D,Q61H,Q61K,Q61L,Q61R	no					GRT-C903, GRT-R904, nivolumab, ipilimumab	Active, not recruiting	Phase 1/Phase 2	December 2023(E)	December 2023(E)
+NCT03953235	yes	-	somatic	NRAS	mutation	G12C,G12D,Q61H,Q61K,Q61L,Q61R	no					GRT-C903, GRT-R904, nivolumab, ipilimumab	Active, not recruiting	Phase 1/Phase 2	December 2023(E)	December 2023(E)
+NCT03953235	yes	-	somatic	TP53	mutation	K132E,K132N,R213L,R249M,S127Y	no					GRT-C903, GRT-R904, nivolumab, ipilimumab	Active, not recruiting	Phase 1/Phase 2	December 2023(E)	December 2023(E)
+NCT04017650	yes	BRAF V600E with MSS	somatic	BRAF	mutation	V600E	no					Encorafenib, Cetuximab, Nivolumab	Recruiting	Phase 1/Phase 2	June 30, 2025(E)	June 30, 2025(E)
+NCT04599140	yes	KRAS or NRAS mutated & MSS/pMMR	somatic	KRAS,NRAS	mutation,insertion,deletion	any	no					SX-682 w/wo  Nivolumab	Recruiting	Phase 1/Phase 2	January 31, 2024(E)	January 31, 2024(E)
+NCT04599140	:duplicate:															
+NCT04599140	:duplicate:															
+NCT04607421	yes	BRAF V600E; exclusion complicated	somatic	BRAF	mutation	V600E	no					Encorafenib, Cetuximab	Recruiting	Phase 3	November 16, 2024(E)	November 15, 2026(E)
+NCT04653480	yes	RAS/BRAF mutant and MSS	somatic	KRAS,NRAS,HRAS,BRAF	mutation,insertion,deletion	any	no					Surufatinib, Toripalimab,  chemo	Recruiting	Phase 2	January 2023(E)	January 2025(E)
+NCT04687631	yes	RAS/BRAF WT	somatic	KRAS,NRAS,HRAS,BRAF	none		no					mFOLFOXIRI, w/ cetuximab or bevacizumab	Recruiting	Phase 3	December 31, 2023(E)	December 31, 2026(E)
+NCT04793958	yes	KRAS G12C	somatic	KRAS	mutation	G12C	no					MRTX849 + Cetuximab vs. chemo (mFOLFOX6 or FOLFIRI)	Recruiting	Phase 3	April 30, 2024(E)	December 30, 2024(E)
+NCT04793958	:duplicate:															
+NCT04907539	yes	aberration in RNF43 or RSPO;  MSS status	somatic	RNF43,RSPO1,RSPO2,RSPO3,RSPO4	mutation,insertion,deletion,fusion	any	no					RXC004 w/wo nivolumab	Recruiting	Phase 2	August 2023(E)	December 2023(E)
+NCT04984369	yes	BRAF positive (implied V600E)	somatic	BRAF	mutation	V600E	no					HLX208 + cetuximab	Recruiting	Phase 2	August 15, 2022(E)	August 15, 2023(E)
+NCT05004350	yes	BRAF V600E  (RAS wt status and MSI status to be evaluated)	somatic	BRAF	mutation	V600E	no					Encorafenib vs. irinotecan or FOLFIRI; w/ cetuximab	Recruiting	Phase 2	April 2024(E)	April 2024(E)
+NCT05019534	yes	BRAF V600E;  and MSS or pMMR	somatic	BRAF	mutation	V600E	no					Vemurafenib, Cetuximab, Camrelizumab	Recruiting	Phase 1	August 1, 2022(E)	December 1, 2022(E)
+NCT05141721	yes	excludes:  dMMR; or MSI-H; or tumor burden < 1 non-synon mut/Mb; or DNA polymerase epsilon mutation; or BRAF V600E	somatic	POLE,POLE2,POLE3,POLE4	none		no					GRT-C901, GRT-R902	Recruiting	Phase 2/Phase 3	March 2027(E)	March 2027(E)
+NCT05141721	:duplicate:															
+NCT05198934	yes	KRAS G12C	somatic	KRAS	mutation	G12C	no					Sotorasib / Panitumumab vs. trifluridine / tipiracil, or regorafenib	Active, not recruiting	Phase 3	May 9, 2023(E)	March 12, 2025(E)
+NCT05198934	:duplicate:															
+NCT05201612	yes	have DNA homol-recomb deficient defined as BRCA deleterious (somatic or gl) and/or low RAD51 score < 10%;  patients "with both MSS or MSI-H" CRC are suitable	somatic	BRCA1,BRCA2	mutation,insertion,deletion,fusion	any	no					Pembrolizumab + olaparib	Recruiting	Phase 2	September 2024(E)	March 2025(E)
+NCT05201612	yes	-	germline	BRCA1,BRCA2	mutation,insertion,deletion,fusion	any	no					Pembrolizumab + olaparib	Recruiting	Phase 2	September 2024(E)	March 2025(E)
+NCT05201612	:duplicate:															
+NCT05223673	yes	without RAS (KRAS and NRAS) and BRAF V600E muts	somatic	KRAS,NRAS	mutation,insertion,deletion,fusion	any:disqualifying:	 no					Futuximab/modotuximab w/wo trifluridine/tipiracil	Recruiting	Phase 3	October 2026(E)	October 2026(E)
+NCT05223673	yes		somatic	KRAS,NRAS,BRAF	none		no									
+NCT05223673	yes		somatic	BRAF	mutation	V600E:disqualifying:	no									
+NCT05330429	yes	excluded: MSI-H or BRAF V600E mutations or dMMR	somatic	BRAF	mutation	V600E:disqualifying:	no					Magrolimab w/wo Bevacizumab and FOLFIRI	Recruiting	Phase 2	February 2024(E)	November 2026(E)
