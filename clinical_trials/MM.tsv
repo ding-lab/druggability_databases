@@ -1,7 +1,5 @@
 Study	Involves genomics	Genomics inclusion summary	Call context	Gene	Alteration Type	Position	Has additional requirement	Gene(additional)	Alteration Type(additional)	Position(additional)	Exclusions (not consistently filled in)	Intervention	Overall status	Phase	Primary completion date	Study completion date
 NCT02407509	yes	 Part2B for MM	somatic	KRAS,NRAS,BRAF	mutation,insertion,deletion	any	no					VS-6766	Recruiting	Phase 1	May 2024(E)	May 2024(E)
-NCT02407509	:duplicate:															
-NCT02407509	:duplicate:															
 NCT02693535	yes	include CDKN2A loss or mutation, CDK4, CDK6 amplifications, CDKN2B loss or mutation	somatic	CDKN2A,CDKN2B	mutation,insertion,deletion	any	no					palbociclib	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
 NCT02693535	yes	include CSF1R, PDGFR, VEGFR1/2/3, KIT, FLT-3, RET, FGFR1/2/3, VHL amplifications or mutations	somatic	CSF1R,PDGFRA,PDGFRB,FLT1,KDR,FLT4,KIT,FLT3,RET,FGFR1,FGFR2,FGFR3,VHL	mutation,insertion,deletion	any	no					sunitinib	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
 NCT02693535	yes	include mTOR, TSC1/2, AKT1 mutations	somatic	MTOR,TSC1,TSC2,AKT1	mutation,insertion,deletion	any	no					temsirolimus	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
@@ -15,23 +13,16 @@ NCT02693535	yes	include MSI high status, high tumor mutational burden, MLH1, MSH
 NCT02693535	yes	include CDKN2A loss or mutation, CDK4, CDK6 amplifications, CDKN2B loss or mutation	somatic	CDKN2A,CDKN2B	mutation,insertion,deletion	any	no					abemaciclib	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
 NCT02693535	yes	include germline or somatic BRCA1/2 and PALB2 mutations	somatic	BRCA1,BRCA2,PALB2	mutation,insertion,deletion	any	no					talazoparib	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
 NCT02693535	yes	include germline or somatic BRCA1/2 and PALB2 mutations	germline	BRCA1,BRCA2,PALB2	mutation,insertion,deletion	any	no					talazoparib	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
-NCT02693535	:skip:	include ERBB2 amplification or overexpression										atezolizumab + PHESGO	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
 NCT02693535	yes	include germline or somatic mutations in BRCA1/2, PALB2, ATM, ATR, CHEK2, FANCA, RAD51C, NBN, MLH1, MRE11A, CDK12; positive genomic instability score, LOH score above threshold	somatic	BRCA1,BRCA2,PALB2,ATM,ATR,CHEK2,FANCA,RAD51C,NBN,MLH1,MRE11,CDK12	mutation,insertion,deletion	any	no					atezolizumab + talazoparib	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
 NCT02693535	yes	include germline or somatic mutations in BRCA1/2, PALB2, ATM, ATR, CHEK2, FANCA, RAD51C, NBN, MLH1, MRE11A, CDK12; positive genomic instability score, LOH score above threshold	germline	BRCA1,BRCA2,PALB2,ATM,ATR,CHEK2,FANCA,RAD51C,NBN,MLH1,MRE11,CDK12	mutation,insertion,deletion	any	no					atezolizumab + talazoparib	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
 NCT02693535	yes	include any ROS1 fusion	somatic	ROS1	fusion	any	no					entrectinib	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
-NCT02693535	:skip:	include NTRK1/2/3 amp										larotrectinib	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
 NCT02693535	yes	include ERBB2 amplification or overexpression, and specific ERBB2 mutations	somatic	ERBB2	mutation,insertion,deletion	any	no					tucatinib + trastuzumab SC	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
 NCT02693535	yes	include FGFR 1,2,3,4 fusion (or other rearrangement) or mutation	somatic	FGFR1,FGFR2,FGFR3,FGFR4	mutation,insertion,deletion,fusion	any	no					futibatinib	Recruiting	Phase 2	December 31, 2024(E)	December 31, 2025(E)
 NCT02765854	yes	rearr. In NFKB2	somatic	NFBK2	deletion,insertion,fusion	any	no					ixazomib, dexamethasone, w/wo lenalidomide	Active, not recruiting	Phase 2	December 1, 2023(E)	December 1, 2024(E)
-NCT02765854	:duplicate:															
-NCT02765854	:duplicate:															
 NCT03016806	yes	FLT3 abnormalities; adverse cytogentics (e.g., t(9:22), t(1:19), t(4:11) and other MLL [aka KMT2A] rearr.)	somatic	FLT3	mutation,insertion,deletion,fusion	any	no					stem cell transplant	Recruiting	Phase 1	June 2025(E)	June 2026(E)
 NCT03016806	yes		somatic	KMT2A	insertion,deletion,fusion	any	no					stem cell transplant	Recruiting	Phase 1	June 2025(E)	June 2026(E)
-NCT03031730	yes	to eval expression in TP53 pathway, given TP53 WT	somatic	TP53	none		no					KRT-232 (MDM2 inhib.) + KRd	Recruiting	Phase 1	December 31, 2023(E)	December 31, 2023(E)
-NCT03031730	:duplicate:															
-NCT03091257	yes		somatic	BRAF,KRAS,NRAS	mutation,insertion,deletion	any	no					Dabrafenib + Trametinib	Unknown status	Phase 1	September 2022(E)	September 2022(E)
-NCT03091257	:duplicate:															
-NCT03091257	:duplicate:															
+NCT03031730	yes	to eval expression in TP53 pathway, given TP53 WT	somatic	TP53	none		no					KRT-232 (MDM2 inhib.) + KRd	Recruiting	Phase 1	December 31, 2024(E)	December 31, 2024(E)
+NCT03091257	yes		somatic	BRAF,KRAS,NRAS	mutation,insertion,deletion	any	no					Dabrafenib + Trametinib	Recruiting	Phase 1	September 15, 2024(E)	September 15, 2024(E)
 NCT03297606	yes	group5: EGFR amp or listed muts  (incl. solid or MM) [to incl ex.19 alt.]	somatic	EGFR	insertion	A763_Y764insFQEA	no					erlotinib	Recruiting	Phase 2	January 31, 2026(E)	January 31, 2027(E)
 NCT03297606	yes	group5: EGFR amp or listed muts  (incl. solid or MM) [to incl ex.19 alt.]	somatic	EGFR	mutation	L858R,L861Q,S768I,G719A,G719C,G719S,G719D,L861R	no					erlotinib	Recruiting	Phase 2	January 31, 2026(E)	January 31, 2027(E)
 NCT03297606	yes	group 7: BRCA1 or BRCA2 mut or loss;  or  HRR pathway deficiency	somatic	:hr_repair:,CDK12,CHEK1,PTEN,MCPH1	mutation,insertion,deletion	any	no					olaparib	Recruiting	Phase 2	January 31, 2026(E)	January 31, 2027(E)
@@ -40,25 +31,18 @@ NCT03297606	yes	group 10: AKT1, AKT2, AKT3, FBXW7, FLCN, mTOR, NF1, NF2, NTRK3, 
 NCT03297606	yes	group 12: BRAFV600	somatic	BRAF	mutation	V600:any:	no					cobimetinib, vemurafenib	Recruiting	Phase 2	January 31, 2026(E)	January 31, 2027(E)
 NCT03297606	yes	group 13: PTCH1, SMO	somatic	PTCH1,SMO	mutation,insertion,deletion,fusion	any	no					vismodegib	Recruiting	Phase 2	January 31, 2026(E)	January 31, 2027(E)
 NCT03297606	yes	group 14: ERBB2	somatic	ERBB2	mutation,insertion,deletion,fusion	any	no					unknown	Recruiting	Phase 2	January 31, 2026(E)	January 31, 2027(E)
-NCT03297606	:duplicate:															
-NCT03297606	:duplicate:															
-NCT03732703	yes	CDKN2C (activating), FGFR3 (activating), KRAS, NRAS, BRAF V600E, IDH2 (activating) or T(11;14)	somatic	CDKN2C	mutation,insertion,deletion	any	no					Abemaciclib + IPd	Recruiting	Phase 1/Phase 2	February 10, 2022(E)	February 10, 2024(E)
-NCT03732703	yes		somatic	FGFR3	mutation,insertion,deletion	any	no					Erdafitinib + IPd	Recruiting	Phase 1/Phase 2	February 10, 2022(E)	February 10, 2024(E)
-NCT03732703	yes		somatic	KRAS,NRAS	mutation,insertion,deletion	any	no					Cobimetinib + IPd	Recruiting	Phase 1/Phase 2	February 10, 2022(E)	February 10, 2024(E)
-NCT03732703	yes		somatic	BRAF	mutation,insertion,deletion	V600E	no					Cobimetinib + IPd	Recruiting	Phase 1/Phase 2	February 10, 2022(E)	February 10, 2024(E)
-NCT03732703	yes		somatic	IDH2	mutation,insertion,deletion	any	no					Enasidenib + IPd	Recruiting	Phase 1/Phase 2	February 10, 2022(E)	February 10, 2024(E)
-NCT03732703	:skip:			T(11;14)			no					venetoclax	Recruiting	Phase 1/Phase 2	February 10, 2022(E)	February 10, 2024(E)
+NCT03732703	yes	CDKN2C (activating), FGFR3 (activating), KRAS, NRAS, BRAF V600E, IDH2 (activating) or T(11;14)	somatic	CDKN2C	mutation,insertion,deletion	any	no					Abemaciclib + IPd	Unknown status	Phase 1/Phase 2	February 10, 2022(E)	February 10, 2024(E)
+NCT03732703	yes		somatic	FGFR3	mutation,insertion,deletion	any	no					Erdafitinib + IPd	Unknown status	Phase 1/Phase 2	February 10, 2022(E)	February 10, 2024(E)
+NCT03732703	yes		somatic	KRAS,NRAS	mutation,insertion,deletion	any	no					Cobimetinib + IPd	Unknown status	Phase 1/Phase 2	February 10, 2022(E)	February 10, 2024(E)
+NCT03732703	yes		somatic	BRAF	mutation,insertion,deletion	V600E	no					Cobimetinib + IPd	Unknown status	Phase 1/Phase 2	February 10, 2022(E)	February 10, 2024(E)
+NCT03732703	yes		somatic	IDH2	mutation,insertion,deletion	any	no					Enasidenib + IPd	Unknown status	Phase 1/Phase 2	February 10, 2022(E)	February 10, 2024(E)
 NCT05378971	yes	EXCLUSIONS: Subject has 17p-, 1q21 amp, t(4;14), t(14;16), t(14;20), t(11;14), and p53 mut	somatic	TP53	mutation,insertion,deletion	any	no					pomalidomide	Recruiting	N/A	May 30, 2025(E)	May 30, 2025(E)
 NCT05422027	yes	High Risk genetic Abnormalities t(4;14) , t(14;16) , t(14;20) , Del 17p, p53 mutation, Gain 1q	somatic	TP53	mutation,insertion,deletion	any	no					selinexor + chemo	Recruiting	Phase 1/Phase 2	June 30, 2025(E)	December 31, 2025(E)
 NCT05469893	yes	high risk smoldering MM; abnormality (t(4,14), t(14,16), 1q gain, or del13q); also high risk cytogenetics defined as presence of t(4;14), t(14;16), t(14;20), 17p deletion, TP53 mutation, 1q21 gain	somatic	TP53	mutation,insertion,deletion	any	no					Teclistamab	Recruiting	Phase 2	July 31, 2030(E)	July 31, 2030(E)
 NCT05651932	yes	In RRMM, t(4;14) FISH, or GOF mut. In MMSET  (=NSD2)	somatic	NSD2	mutation,insertion,deletion	any	no					KTX-1001	Recruiting	Phase 1	December 2024(E)	October 2025(E)
-NCT05651932	:duplicate:															
 NCT05722405	yes	(1q21 amplification/t(4;14)/t(14;16)/t(14;20)/17p deletion/TP53 mutation)	somatic	TP53	mutation,insertion,deletion	any	no					ixazomib w/wo lenalidomide	Recruiting	Phase 4	June 30, 2024(E)	July 31, 2025(E)
 NCT05767359	yes	FISH abnormality (t(4,14), t(14,16), 1q gain, or del13q = 2.  Presence of t(4;14), t(14;16), t(14;20), 17p del, TP53 mut, 1q21 gain	somatic	TP53	mutation,insertion,deletion	any	no					Ciltacabtagene Autoleucel	Recruiting	Phase 2	January 15, 2026(E)	January 15, 2040(E)
 NCT05768178	yes	non-melanoma BRAF V600	somatic	BRAF	mutation	V600:any:	no					vemurafenib + cobimetinib	Recruiting	Phase 2/Phase 3	October 2029(E)	October 2029(E)
-NCT05768178	:duplicate:															
-NCT05768178	:duplicate:															
-NCT05768178	:duplicate:															
-NCT05841550	yes	RAS mut (KRAS/NRAS codon 12/13) in MM	somatic	KRAS,NRAS	mutation	G12:any:,G13:any:	no					TG01	Not yet recruiting	Phase 1/Phase 2	May 1, 2027(E)	May 1, 2035(E)
-NCT05841550	:duplicate:															
+NCT05841550	yes	RAS mut (KRAS/NRAS codon 12/13) in MM	somatic	KRAS,NRAS	mutation	G12:any:,G13:any:	no					TG01	Recruiting	Phase 1/Phase 2	May 19, 2027(E)	May 19, 2035(E)
 NCT05850286	yes	p53 abnormalities	somatic	TP53	mutation,insertion,deletion	any	no					XVRD + CART-ASCT-CART2	Recruiting	Phase 2	April 2025(E)	April 2027(E)
+NCT06140966	yes	two or more:  t(4;14), t(14;16), t(14;20), 1q21+, del(17p), p53 mutation 	somatic	TP53	mutation,insertion,deletion	any	no					daratumumab with carfilzomib	Recruiting	Phase 2	October 20, 2026(E)	October 20, 2027(E)

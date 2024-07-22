@@ -66,8 +66,8 @@ evidence_level_anno = {
 
 # Clinical trials
 trials_files = {
-    'chol':  {'disease_name': 'cholangiocarcinoma', 'summary_file': 'clinical_trials/CHOL.tsv', 'accessed': '231011'},
-    'mm':    {'disease_name': 'multiple myeloma',   'summary_file': 'clinical_trials/MM.tsv',   'accessed': '231011'},
+    'chol':  {'disease_name': 'cholangiocarcinoma', 'summary_file': 'clinical_trials/CHOL.tsv', 'accessed': '240712'},
+    'mm':    {'disease_name': 'multiple myeloma',   'summary_file': 'clinical_trials/MM.tsv',   'accessed': '240712'},
     'crc':   {'disease_name': 'colorectal',         'summary_file': 'clinical_trials/CRC.tsv',  'accessed': '230414_from_fcc2210'},
 }
 
