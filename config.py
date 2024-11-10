@@ -81,4 +81,5 @@ gene_lists = {
     'synergy_ai':   {'description': 'SYNERGY-AI registry',             'filename': 'gene_lists/synergy_ai.lst',},
     'mapk_pathway': {'description': 'MAPK pathway',                    'filename': 'gene_lists/mapk_pathway.lst',},
     'mapk_pathway_no_BRAF': {'description': 'MAPK pathway minus BRAF', 'filename': 'gene_lists/mapk_pathway_no_BRAF.lst',},
+    'pi3k_pathway': {'description': 'PI3K pathway',                    'filename': 'gene_lists/pi3k_pathway.lst',},
 }
